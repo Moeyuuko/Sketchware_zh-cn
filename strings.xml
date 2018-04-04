@@ -164,7 +164,7 @@
     <string name="block_category_control">控制Control</string>
     <string name="block_category_math">数学Math</string>
     <string name="block_category_operator">运算Operator</string>
-    <string name="block_category_view_func">视图-View</string>
+    <string name="block_category_view_func">视图View</string>
     <string name="block_category_component_func">组件Component</string>
     <string name="block_category_moreblock">更多方块</string>
 
@@ -178,40 +178,40 @@
     <string name="block_set_var_int_tail"></string>
 
     <string name="block_increase_int_head"></string>
-    <string name="block_increase_int_tail">increase 1</string>
+    <string name="block_increase_int_tail">增加1</string>
 
     <string name="block_decrease_int_head"></string>
-    <string name="block_decrease_int_tail">decrease 1</string>
+    <string name="block_decrease_int_tail">减少1</string>
 
     <string name="block_set_var_str_head">设置</string>
     <string name="block_set_var_str_body_1">到</string>
     <string name="block_set_var_str_tail"></string>
 
     <string name="block_map_create_new_head"></string>
-    <string name="block_map_create_new_tail">create new map</string>
+    <string name="block_map_create_new_tail">c创建新地图</string>
 
     <string name="block_map_put_head"></string>
-    <string name="block_map_put_body_1">put key</string>
-    <string name="block_map_put_body_2">value</string>
+    <string name="block_map_put_body_1">放置钥匙</string>
+    <string name="block_map_put_body_2">值</string>
     <string name="block_map_put_tail"></string>
 
     <string name="block_map_get_head"></string>
-    <string name="block_map_get_body_1">get key</string>
+    <string name="block_map_get_body_1">获取密匙</string>
     <string name="block_map_get_tail"></string>
 
     <string name="block_map_contain_key_head"></string>
-    <string name="block_map_contain_key_body_1">contain key</string>
+    <string name="block_map_contain_key_body_1">包含密钥</string>
     <string name="block_map_contain_key_tail"></string>
 
     <string name="block_map_remove_key_head"></string>
-    <string name="block_map_remove_key_body_1">remove key</string>
+    <string name="block_map_remove_key_body_1">删除密钥</string>
     <string name="block_map_remove_key_tail"></string>
 
     <string name="block_map_clear_head"></string>
     <string name="block_map_clear_tail">clear</string>
 
     <string name="block_map_is_empty_head"></string>
-    <string name="block_map_is_empty_tail">is empty</string>
+    <string name="block_map_is_empty_tail">为空</string>
 
     <string name="block_add_list_int_head">添加</string>
     <string name="block_add_list_int_body_1">到</string>
@@ -223,15 +223,15 @@
     <string name="block_insert_list_int_tail"></string>
 
     <string name="block_get_at_list_int_head">get at</string>
-    <string name="block_get_at_list_int_body_1">of</string>
+    <string name="block_get_at_list_int_body_1">在</string>
     <string name="block_get_at_list_int_tail"></string>
 
     <string name="block_indexof_list_int_head">index</string>
-    <string name="block_indexof_list_int_body_1">in</string>
+    <string name="block_indexof_list_int_body_1">在</string>
     <string name="block_indexof_list_int_tail"></string>
 
     <string name="block_contain_list_int_head"></string>
-    <string name="block_contain_list_int_body_1">contains</string>
+    <string name="block_contain_list_int_body_1">包含</string>
     <string name="block_contain_list_int_tail"></string>
 
     <string name="block_add_list_str_head">添加</string>
@@ -244,35 +244,35 @@
     <string name="block_insert_list_str_tail"></string>
 
     <string name="block_get_at_list_str_head">get at</string>
-    <string name="block_get_at_list_str_body_1">of</string>
+    <string name="block_get_at_list_str_body_1">在</string>
     <string name="block_get_at_list_str_tail"></string>
 
     <string name="block_indexof_list_str_head">index</string>
-    <string name="block_indexof_list_str_body_1">in</string>
+    <string name="block_indexof_list_str_body_1">在</string>
     <string name="block_indexof_list_str_tail"></string>
 
     <string name="block_contain_list_str_head"></string>
-    <string name="block_contain_list_str_body_1">contains</string>
+    <string name="block_contain_list_str_body_1">包含</string>
     <string name="block_contain_list_str_tail"></string>
 
     <string name="block_add_list_map_head">add key</string>
-    <string name="block_add_list_map_body_1">value</string>
+    <string name="block_add_list_map_body_1">值</string>
     <string name="block_add_list_map_body_2">到</string>
     <string name="block_add_list_map_tail"></string>
 
-    <string name="block_insert_list_map_head">insert key</string>
-    <string name="block_insert_list_map_body_1">value</string>
-    <string name="block_insert_list_map_body_2">at</string>
+    <string name="block_insert_list_map_head">插入密钥</string>
+    <string name="block_insert_list_map_body_1">值</string>
+    <string name="block_insert_list_map_body_2">在</string>
     <string name="block_insert_list_map_body_3">到</string>
     <string name="block_insert_list_map_tail"></string>
 
     <string name="block_get_at_list_map_head">get value at</string>
     <string name="block_get_at_list_map_body_1">key</string>
-    <string name="block_get_at_list_map_body_2">of</string>
+    <string name="block_get_at_list_map_body_2">在</string>
     <string name="block_get_at_list_map_tail"></string>
 
-    <string name="block_set_at_list_map_head">set key</string>
-    <string name="block_set_at_list_map_body_1">value</string>
+    <string name="block_set_at_list_map_head">设置密钥y</string>
+    <string name="block_set_at_list_map_body_1">值</string>
     <string name="block_set_at_list_map_body_2">at</string>
     <string name="block_set_at_list_map_body_3">到</string>
     <string name="block_set_at_list_map_tail"></string>
@@ -283,38 +283,38 @@
     <string name="block_contain_list_map_tail"></string>
 
 
-    <string name="block_delete_list_head">delete at</string>
-    <string name="block_delete_list_body_1">of</string>
+    <string name="block_delete_list_head">删除delete at</string>
+    <string name="block_delete_list_body_1">在</string>
     <string name="block_delete_list_tail"></string>
 
-    <string name="block_length_list_head">length of</string>
+    <string name="block_length_list_head">长度</string>
     <string name="block_length_list_tail"></string>
 
     <string name="block_clear_list_head">clear</string>
     <string name="block_clear_list_tail"></string>
 
-    <string name="block_repeat_head">repeat</string>
+    <string name="block_repeat_head">循环</string>
     <string name="block_repeat_tail"></string>
 
-    <string name="block_forever_head">forever</string>
+    <string name="block_forever_head">for循环</string>
     <string name="block_forever_tail"></string>
 
-    <string name="block_break_head">stop</string>
+    <string name="block_break_head">停止</string>
     <string name="block_break_tail"></string>
 
-    <string name="block_if_head">if</string>
-    <string name="block_if_tail">then</string>
+    <string name="block_if_head">如果if</string>
+    <string name="block_if_tail">然后</string>
 
-    <string name="block_if_else_head">if</string>
-    <string name="block_if_else_tail">then</string>
+    <string name="block_if_else_head">如果if</string>
+    <string name="block_if_else_tail">然后</string>
 
-    <string name="block_else_head">else</string>
+    <string name="block_else_head">否则else</string>
     <string name="block_else_tail"></string>
 
-    <string name="block_true_head">true</string>
+    <string name="block_true_head">真true</string>
     <string name="block_true_tail"></string>
 
-    <string name="block_false_head">false</string>
+    <string name="block_false_head">假false</string>
     <string name="block_false_tail"></string>
 
     <string name="block_smaller_head"></string>
@@ -330,14 +330,14 @@
     <string name="block_bigger_tail"></string>
 
     <string name="block_and_head"></string>
-    <string name="block_and_body_1">and</string>
+    <string name="block_and_body_1">和</string>
     <string name="block_and_tail"></string>
 
     <string name="block_or_head"></string>
-    <string name="block_or_body_1">or</string>
+    <string name="block_or_body_1">或</string>
     <string name="block_or_tail"></string>
 
-    <string name="block_not_head">not</string>
+    <string name="block_not_head">非</string>
     <string name="block_not_tail"></string>
 
     <string name="block_plus_head"></string>
@@ -360,81 +360,81 @@
     <string name="block_rest_body_1">%</string>
     <string name="block_rest_tail"></string>
 
-    <string name="block_random_head">pick random</string>
+    <string name="block_random_head">随机选择</string>
     <string name="block_random_body_1">到</string>
     <string name="block_random_tail"></string>
 
-    <string name="block_string_length_head">length of</string>
+    <string name="block_string_length_head">长度</string>
     <string name="block_string_length_tail"></string>
 
-    <string name="block_string_join_head">join</string>
-    <string name="block_string_join_body_1">and</string>
+    <string name="block_string_join_head">连接</string>
+    <string name="block_string_join_body_1">和</string>
     <string name="block_string_join_tail"></string>
 
-    <string name="block_string_index_head">index</string>
-    <string name="block_string_index_body_1">of</string>
+    <string name="block_string_index_head">索引</string>
+    <string name="block_string_index_body_1">在</string>
     <string name="block_string_index_tail"></string>
 
     <string name="block_string_sub_head"></string>
-    <string name="block_string_sub_body_1">substring</string>
+    <string name="block_string_sub_body_1">截取字符串从</string>
     <string name="block_string_sub_body_2">到</string>
     <string name="block_string_sub_tail"></string>
 
     <string name="block_string_equals_head"></string>
-    <string name="block_string_equals_body_1">equals</string>
+    <string name="block_string_equals_body_1">等于</string>
     <string name="block_string_equals_tail"></string>
 
     <string name="block_string_contains_head"></string>
-    <string name="block_string_contains_body_1">contains</string>
+    <string name="block_string_contains_body_1">包含</string>
     <string name="block_string_contains_tail"></string>
 
     <string name="block_string_replace_head"></string>
-    <string name="block_string_replace_body_1">replace all</string>
-    <string name="block_string_replace_body_2">with</string>
+    <string name="block_string_replace_body_1">替换所有 字符</string>
+    <string name="block_string_replace_body_2">替换成</string>
     <string name="block_string_replace_tail"></string>
 
     <string name="block_string_replace_first_head"></string>
-    <string name="block_string_replace_first_body_1">replace first RegEx</string>
-    <string name="block_string_replace_first_body_2">with</string>
+    <string name="block_string_replace_first_body_1">替换第一正则表达式</string>
+    <string name="block_string_replace_first_body_2">替换成</string>
     <string name="block_string_replace_first_tail"></string>
 
     <string name="block_string_replace_all_head"></string>
-    <string name="block_string_replace_all_body_1">replace all RegEx</string>
-    <string name="block_string_replace_all_body_2">with</string>
+    <string name="block_string_replace_all_body_1">替换所有正则表达式</string>
+    <string name="block_string_replace_all_body_2">替换成</string>
     <string name="block_string_replace_all_tail"></string>
 
-    <string name="block_to_number_head">toNumber</string>
+    <string name="block_to_number_head">到数字</string>
     <string name="block_to_number_tail"></string>
 
-    <string name="block_trim_head">trim</string>
+    <string name="block_trim_head">剪切</string>
     <string name="block_trim_tail"></string>
 
-    <string name="block_to_upper_case_head">toUpperCase</string>
+    <string name="block_to_upper_case_head">到大写</string>
     <string name="block_to_upper_case_tail"></string>
 
-    <string name="block_to_lower_case_head">toLowerCase</string>
+    <string name="block_to_lower_case_head">到小写</string>
     <string name="block_to_lower_case_tail"></string>
 
-    <string name="block_to_string_head">toString</string>
-    <string name="block_to_string_tail">without decimal</string>
+    <string name="block_to_string_head">到串toString</string>
+    <string name="block_to_string_tail">没有小数</string>
 
-    <string name="block_to_string_with_decimal_head">toString</string>
-    <string name="block_to_string_with_decimal_tail">with decimal</string>
+    <string name="block_to_string_with_decimal_head">到串toString</string>
+    <string name="block_to_string_with_decimal_tail">没有小数</string>
 
     <string name="block_to_string_format_head"></string>
-    <string name="block_to_string_format_body_1">toDecimalFormat</string>
+    <string name="block_to_string_format_body_1">到十进制格式</string>
     <string name="block_to_string_format_tail"></string>
 
-    <string name="block_add_source_directly_head">add source directly</string>
+    <string name="block_add_source_directly_head">直接添加资源</string>
     <string name="block_add_source_directly_tail"></string>
 
-    <string name="block_math_get_dip_head">getDip</string>
+    <string name="block_math_get_dip_head">取Dip</string>
     <string name="block_math_get_dip_tail"></string>
 
-    <string name="block_math_get_display_width_head">getDisplayWidthPixels</string>
+    <string name="block_math_get_display_width_head">取显示宽度像素</string>
     <string name="block_math_get_display_width_tail"></string>
 
-    <string name="block_math_get_display_height_head">getDisplayHeightPixels</string>
+    <string name="block_math_get_display_height_head">取显示高度像素</string>
     <string name="block_math_get_display_height_tail"></string>
 
     <string name="block_math_pi_head">PI(π)</string>
@@ -447,12 +447,12 @@
     <string name="block_math_pow_body_1">to the</string>
     <string name="block_math_pow_tail">power</string>
 
-    <string name="block_math_min_head">minimum of</string>
-    <string name="block_math_min_body_1">and</string>
+    <string name="block_math_min_head">最小</string>
+    <string name="block_math_min_body_1">和</string>
     <string name="block_math_min_tail"></string>
 
-    <string name="block_math_max_head">maximum of</string>
-    <string name="block_math_max_body_1">and</string>
+    <string name="block_math_max_head">最大</string>
+    <string name="block_math_max_body_1">和</string>
     <string name="block_math_max_tail"></string>
 
     <string name="block_math_sqrt_head">square root of</string>
@@ -694,7 +694,7 @@
 
     <string name="block_intent_put_extra_head"></string>
     <string name="block_intent_put_extra_body_1">putExtra key</string>
-    <string name="block_intent_put_extra_body_2">value</string>
+    <string name="block_intent_put_extra_body_2">值</string>
     <string name="block_intent_put_extra_tail"></string>
 
     <string name="block_intent_set_flags_head"></string>
@@ -716,7 +716,7 @@
 
     <string name="block_file_set_data_head"></string>
     <string name="block_file_set_data_body_1">setData key</string>
-    <string name="block_file_set_data_body_2">value</string>
+    <string name="block_file_set_data_body_2">值</string>
     <string name="block_file_set_data_tail"></string>
 
     <string name="block_file_remove_data_head"></string>
@@ -728,12 +728,12 @@
 
     <string name="block_calendar_add_head"></string>
     <string name="block_calendar_add_body_1">添加</string>
-    <string name="block_calendar_add_body_2">value</string>
+    <string name="block_calendar_add_body_2">值</string>
     <string name="block_calendar_add_tail"></string>
 
     <string name="block_calendar_set_head"></string>
     <string name="block_calendar_set_body_1">设置</string>
-    <string name="block_calendar_set_body_2">value</string>
+    <string name="block_calendar_set_body_2">值</string>
     <string name="block_calendar_set_tail"></string>
 
     <string name="block_calendar_format_head"></string>
@@ -2320,7 +2320,7 @@
 
     <string name="block_firebase_add_head"></string>
     <string name="block_firebase_add_body_1">add key</string>
-    <string name="block_firebase_add_body_2">value</string>
+    <string name="block_firebase_add_body_2">值</string>
     <string name="block_firebase_add_tail"></string>
 
     <string name="block_firebase_push_head"></string>
@@ -2333,7 +2333,7 @@
 
     <string name="block_firebase_get_children_head"></string>
     <string name="block_firebase_get_children_body_1">get children to</string>
-    <string name="block_firebase_get_children_tail">then</string>
+    <string name="block_firebase_get_children_tail">然后</string>
 
 
     <string name="block_str_to_map_head">Json</string>
