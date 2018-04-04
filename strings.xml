@@ -18,10 +18,10 @@
     <string name="property_spinner_mode">spinnerMode-微调模式</string>
     <string name="property_scale_type">scale_type-规模类型</string>
     <string name="property_resource">resource-资源</string>
-    <string name="property_gravity">gravity-重力</string>
-    <string name="property_layout_gravity">layout_gravity-布局权重位置</string>
-    <string name="property_single_line">single_line-单线</string>
-    <string name="property_lines">lines-线</string>
+    <string name="property_gravity">gravity-权重</string>
+    <string name="property_layout_gravity">layout_gravity-权重位置</string>
+    <string name="property_single_line">single_line-单行</string>
+    <string name="property_lines">lines-行数</string>
     <string name="property_enabled">enabled-启用</string>
     <string name="property_clickable">clickable-可点击</string>
     <string name="property_checked">checked-检查</string>
@@ -31,9 +31,9 @@
     <string name="property_background_resource">background_resource-背景资源</string>
     <string name="property_text">text-文本</string>
     <string name="property_hint">hint-提示</string>
-    <string name="property_weight">weight-重量</string>
+    <string name="property_weight">weight-粗细</string>
     <string name="property_weight_sum">weightSum-重量总和</string>
-    <string name="property_id">ID</string>
+    <string name="property_id">ID-组件名</string>
     <string name="property_rotate">rotate-旋转</string>
     <string name="property_padding">padding-填充</string>
     <string name="property_margin">margin-框架大小</string>
