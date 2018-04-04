@@ -16,7 +16,7 @@
     <string name="property_input_type">input_type-输入类型</string>
     <string name="property_ime_option">ime_option-输入法编辑器选项</string>
     <string name="property_spinner_mode">spinnerMode-微调模式</string>
-    <string name="property_scale_type">scale_type-规模类型</string>
+    <string name="property_scale_type">scale_type-比例类型</string>
     <string name="property_resource">resource-资源</string>
     <string name="property_gravity">gravity-权重</string>
     <string name="property_layout_gravity">layout_gravity-权重位置</string>
@@ -36,11 +36,11 @@
     <string name="property_id">ID-组件名</string>
     <string name="property_rotate">rotate-旋转</string>
     <string name="property_padding">padding-填充</string>
-    <string name="property_margin">margin-框架大小</string>
+    <string name="property_margin">margin-边距</string>
     <string name="property_divider_height">dividerHeight-分隔高度</string>
     <string name="property_choice_mode">choiceMode-选择模式</string>
     <string name="property_image">image-图片</string>
-    <string name="property_alpha">alpha-初始位置</string>
+    <string name="property_alpha">alpha-透明度</string>
     <string name="property_max">max-最大</string>
     <string name="property_progress">progress-进度</string>
     <string name="property_translation_x">translationX-位移X</string>
@@ -49,26 +49,26 @@
     <string name="property_scale_y">scaleY-尺度Y</string>
     <string name="property_custom_view_listview">customView-自定义视图</string>
 
-    <string name="desc_component_intent">Intent is used to start a new Activity</string>
-    <string name="desc_component_file">File is used to save data locally</string>
-    <string name="desc_component_calendar">Calendar is used to calculate time and date</string>
-    <string name="desc_component_vibrator">Vibrator is used vibrate the device</string>
-    <string name="desc_component_timer">Timer is used to delay certain actions</string>
-    <string name="desc_component_soundpool">SoundPool is used to play short sound effects</string>
-    <string name="desc_component_mediaplayer">MediaPlayer is used to play big sound files</string>
-    <string name="desc_component_dialog">Dialog is used to create a pop-up</string>
-    <string name="desc_component_objectanimator">ObjectAnimator is used to animate certain properties of a View</string>
+    <string name="desc_component_intent">意图用于启动新活动Intent is used to start a new Activity</string>
+    <string name="desc_component_file">文件用于在本地保存数据File is used to save data locally</string>
+    <string name="desc_component_calendar">日历用于计算时间和日期Calendar is used to calculate time and date</string>
+    <string name="desc_component_vibrator">振动器用于振动装置Vibrator is used vibrate the device</string>
+    <string name="desc_component_timer">计时器用于延迟某些操作Timer is used to delay certain actions-</string>
+    <string name="desc_component_soundpool">用于播放短暂的声音效果SoundPool is used to play short sound effects-SoundPool</string>
+    <string name="desc_component_mediaplayer">用于播放大型声音文件MediaPlayer is used to play big sound files-MediaPlayer</string>
+    <string name="desc_component_dialog">对话框用于创建弹出窗口Dialog is used to create a pop-up</string>
+    <string name="desc_component_objectanimator">ObjectAnimator is used to animate certain properties of a View-bjectAnimator用于为视图的某些属性设置动画</string>
 
-    <string name="logic_event_initialize">On activity create</string>
-    <string name="logic_event_definefunc">MoreBlock</string>
-    <string name="logic_event_onbackpressed">On back button press</string>
-    <string name="logic_event_onpostcreated">On activity start-up complete</string>
-    <string name="logic_event_onstart">On activity becoming visible</string>
-    <string name="logic_event_onstop">On activity no longer visible</string>
-    <string name="logic_event_ondestroy">On activity destroyed</string>
-    <string name="logic_event_onresume">On activity resume</string>
-    <string name="logic_event_onpause">On activity pause</string>
-    <string name="logic_event_onclick">onClick</string>
+    <string name="logic_event_initialize">当活动创建-On activity create</string>
+    <string name="logic_event_definefunc">更多的块-MoreBlock</string>
+    <string name="logic_event_onbackpressed">当后台按钮按下-On back button press</string>
+    <string name="logic_event_onpostcreated">当活动开启完成-On activity start-up complete</string>
+    <string name="logic_event_onstart">当活动可见-On activity becoming visible</string>
+    <string name="logic_event_onstop">当活动不可见-On activity no longer visible</string>
+    <string name="logic_event_ondestroy">当活动销毁-On activity destroyed</string>
+    <string name="logic_event_onresume">当活动重新开始-On activity resume</string>
+    <string name="logic_event_onpause">当活动暂停-On activity pause</string>
+    <string name="logic_event_onclick">单击-onClick</string>
     <string name="logic_event_oncheckchanged">onCheckChanged</string>
     <string name="logic_event_onitemselected">onItemSelected</string>
     <string name="logic_event_ontextchanged">onTextChanged</string>
@@ -158,13 +158,13 @@
     <string name="root_spec_on_bind_custom_view_body_1"></string>
     <string name="root_spec_on_bind_custom_view_tail"></string>
 
-    <string name="block_category_all">All</string>
+    <string name="block_category_all">全部-All</string>
     <string name="block_category_var">Variable</string>
-    <string name="block_category_list">List</string>
+    <string name="block_category_list">列表-List</string>
     <string name="block_category_control">Control</string>
     <string name="block_category_math">Math</string>
     <string name="block_category_operator">Operator</string>
-    <string name="block_category_view_func">View</string>
+    <string name="block_category_view_func">视图-View</string>
     <string name="block_category_component_func">Component</string>
     <string name="block_category_moreblock">More Block</string>
 
@@ -2268,18 +2268,18 @@
     <!--Added Sketchware Version 2.0-->
 
 
-    <string name="block_add_map_to_list_head">add</string>
-    <string name="block_add_map_to_list_body_1">to</string>
+    <string name="block_add_map_to_list_head">add-添加</string>
+    <string name="block_add_map_to_list_body_1">to-到</string>
     <string name="block_add_map_to_list_tail"></string>
 
-    <string name="block_insert_map_to_list_head">insert</string>
-    <string name="block_insert_map_to_list_body_1">at</string>
+    <string name="block_insert_map_to_list_head">insert-插入</string>
+    <string name="block_insert_map_to_list_body_1">at-在</string>
     <string name="block_insert_map_to_list_body_2">to</string>
     <string name="block_insert_map_to_list_tail"></string>
 
-    <string name="block_get_map_in_list_head">get at</string>
-    <string name="block_get_map_in_list_body_1">of</string>
-    <string name="block_get_map_in_list_body_2">to</string>
+    <string name="block_get_map_in_list_head">get at-得到</string>
+    <string name="block_get_map_in_list_body_1">of-属于</string>
+    <string name="block_get_map_in_list_body_2">to-到</string>
     <string name="block_get_map_in_list_tail"></string>
 
     <string name="tuto_ab_1">Create a game to understand how Sketchware works</string>
