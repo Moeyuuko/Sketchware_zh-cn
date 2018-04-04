@@ -54,7 +54,7 @@
     <string name="desc_component_calendar">日历 用于计算时间和日期</string>
     <string name="desc_component_vibrator">振动器 用于振动装置</string>
     <string name="desc_component_timer">计时器 用于延迟某些操作</string>
-    <string name="desc_component_soundpool">用于播放短暂的声音效果l</string>
+    <string name="desc_component_soundpool">用于播放短暂的声音效果</string>
     <string name="desc_component_mediaplayer">用于播放大型声音文件</string>
     <string name="desc_component_dialog">对话框 用于创建弹出窗口</string>
     <string name="desc_component_objectanimator">用于为视图的某些属性设置动画</string>
@@ -62,7 +62,7 @@
     <string name="logic_event_initialize">当活动创建</string>
     <string name="logic_event_definefunc">更多的块-MoreBlock</string>
     <string name="logic_event_onbackpressed">当后台按钮按下</string>
-    <string name="logic_event_onpostcreated">当活动开启完成-</string>
+    <string name="logic_event_onpostcreated">当活动开启完成</string>
     <string name="logic_event_onstart">当活动可见</string>
     <string name="logic_event_onstop">当活动不可见</string>
     <string name="logic_event_ondestroy">当活动销毁</string>
