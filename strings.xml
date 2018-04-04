@@ -49,26 +49,26 @@
     <string name="property_scale_y">scaleY-尺度Y</string>
     <string name="property_custom_view_listview">customView-自定义视图</string>
 
-    <string name="desc_component_intent">意图用于启动新活动Intent is used to start a new Activity</string>
-    <string name="desc_component_file">文件用于在本地保存数据File is used to save data locally</string>
-    <string name="desc_component_calendar">日历用于计算时间和日期Calendar is used to calculate time and date</string>
-    <string name="desc_component_vibrator">振动器用于振动装置Vibrator is used vibrate the device</string>
-    <string name="desc_component_timer">计时器用于延迟某些操作Timer is used to delay certain actions-</string>
-    <string name="desc_component_soundpool">用于播放短暂的声音效果SoundPool is used to play short sound effects-SoundPool</string>
-    <string name="desc_component_mediaplayer">用于播放大型声音文件MediaPlayer is used to play big sound files-MediaPlayer</string>
-    <string name="desc_component_dialog">对话框用于创建弹出窗口Dialog is used to create a pop-up</string>
-    <string name="desc_component_objectanimator">ObjectAnimator is used to animate certain properties of a View-bjectAnimator用于为视图的某些属性设置动画</string>
+    <string name="desc_component_intent">用于启动新活动</string>
+    <string name="desc_component_file">用于在本地保存数据</string>
+    <string name="desc_component_calendar">日历 用于计算时间和日期</string>
+    <string name="desc_component_vibrator">振动器 用于振动装置</string>
+    <string name="desc_component_timer">计时器 用于延迟某些操作</string>
+    <string name="desc_component_soundpool">用于播放短暂的声音效果l</string>
+    <string name="desc_component_mediaplayer">用于播放大型声音文件</string>
+    <string name="desc_component_dialog">对话框 用于创建弹出窗口</string>
+    <string name="desc_component_objectanimator">用于为视图的某些属性设置动画</string>
 
-    <string name="logic_event_initialize">当活动创建-On activity create</string>
+    <string name="logic_event_initialize">当活动创建</string>
     <string name="logic_event_definefunc">更多的块-MoreBlock</string>
-    <string name="logic_event_onbackpressed">当后台按钮按下-On back button press</string>
-    <string name="logic_event_onpostcreated">当活动开启完成-On activity start-up complete</string>
-    <string name="logic_event_onstart">当活动可见-On activity becoming visible</string>
-    <string name="logic_event_onstop">当活动不可见-On activity no longer visible</string>
-    <string name="logic_event_ondestroy">当活动销毁-On activity destroyed</string>
-    <string name="logic_event_onresume">当活动重新开始-On activity resume</string>
-    <string name="logic_event_onpause">当活动暂停-On activity pause</string>
-    <string name="logic_event_onclick">单击-onClick</string>
+    <string name="logic_event_onbackpressed">当后台按钮按下</string>
+    <string name="logic_event_onpostcreated">当活动开启完成-</string>
+    <string name="logic_event_onstart">当活动可见</string>
+    <string name="logic_event_onstop">当活动不可见</string>
+    <string name="logic_event_ondestroy">当活动销毁</string>
+    <string name="logic_event_onresume">当活动重新开始</string>
+    <string name="logic_event_onpause">当活动暂停</string>
+    <string name="logic_event_onclick">单击</string>
     <string name="logic_event_oncheckchanged">onCheckChanged</string>
     <string name="logic_event_onitemselected">onItemSelected</string>
     <string name="logic_event_ontextchanged">onTextChanged</string>
@@ -158,23 +158,23 @@
     <string name="root_spec_on_bind_custom_view_body_1"></string>
     <string name="root_spec_on_bind_custom_view_tail"></string>
 
-    <string name="block_category_all">全部-All</string>
-    <string name="block_category_var">Variable</string>
-    <string name="block_category_list">列表-List</string>
-    <string name="block_category_control">Control</string>
-    <string name="block_category_math">Math</string>
-    <string name="block_category_operator">Operator</string>
+    <string name="block_category_all">全部All</string>
+    <string name="block_category_var">变量Variable</string>
+    <string name="block_category_list">列表List</string>
+    <string name="block_category_control">控制Control</string>
+    <string name="block_category_math">数学Math</string>
+    <string name="block_category_operator">运算Operator</string>
     <string name="block_category_view_func">视图-View</string>
-    <string name="block_category_component_func">Component</string>
-    <string name="block_category_moreblock">More Block</string>
+    <string name="block_category_component_func">组件Component</string>
+    <string name="block_category_moreblock">更多方块</string>
 
     <!-- new block spec -->
-    <string name="block_set_var_bool_head">set</string>
-    <string name="block_set_var_bool_body_1">to</string>
+    <string name="block_set_var_bool_head">设置</string>
+    <string name="block_set_var_bool_body_1">到</string>
     <string name="block_set_var_bool_tail"></string>
 
-    <string name="block_set_var_int_head">set</string>
-    <string name="block_set_var_int_body_1">to</string>
+    <string name="block_set_var_int_head">设置</string>
+    <string name="block_set_var_int_body_1">到</string>
     <string name="block_set_var_int_tail"></string>
 
     <string name="block_increase_int_head"></string>
@@ -183,8 +183,8 @@
     <string name="block_decrease_int_head"></string>
     <string name="block_decrease_int_tail">decrease 1</string>
 
-    <string name="block_set_var_str_head">set</string>
-    <string name="block_set_var_str_body_1">to</string>
+    <string name="block_set_var_str_head">设置</string>
+    <string name="block_set_var_str_body_1">到</string>
     <string name="block_set_var_str_tail"></string>
 
     <string name="block_map_create_new_head"></string>
@@ -213,13 +213,13 @@
     <string name="block_map_is_empty_head"></string>
     <string name="block_map_is_empty_tail">is empty</string>
 
-    <string name="block_add_list_int_head">add</string>
-    <string name="block_add_list_int_body_1">to</string>
+    <string name="block_add_list_int_head">添加</string>
+    <string name="block_add_list_int_body_1">到</string>
     <string name="block_add_list_int_tail"></string>
 
     <string name="block_insert_list_int_head">insert</string>
     <string name="block_insert_list_int_body_1">at</string>
-    <string name="block_insert_list_int_body_2">to</string>
+    <string name="block_insert_list_int_body_2">到</string>
     <string name="block_insert_list_int_tail"></string>
 
     <string name="block_get_at_list_int_head">get at</string>
@@ -234,13 +234,13 @@
     <string name="block_contain_list_int_body_1">contains</string>
     <string name="block_contain_list_int_tail"></string>
 
-    <string name="block_add_list_str_head">add</string>
-    <string name="block_add_list_str_body_1">to</string>
+    <string name="block_add_list_str_head">添加</string>
+    <string name="block_add_list_str_body_1">到</string>
     <string name="block_add_list_str_tail"></string>
 
     <string name="block_insert_list_str_head">insert</string>
     <string name="block_insert_list_str_body_1">at</string>
-    <string name="block_insert_list_str_body_2">to</string>
+    <string name="block_insert_list_str_body_2">到</string>
     <string name="block_insert_list_str_tail"></string>
 
     <string name="block_get_at_list_str_head">get at</string>
@@ -257,13 +257,13 @@
 
     <string name="block_add_list_map_head">add key</string>
     <string name="block_add_list_map_body_1">value</string>
-    <string name="block_add_list_map_body_2">to</string>
+    <string name="block_add_list_map_body_2">到</string>
     <string name="block_add_list_map_tail"></string>
 
     <string name="block_insert_list_map_head">insert key</string>
     <string name="block_insert_list_map_body_1">value</string>
     <string name="block_insert_list_map_body_2">at</string>
-    <string name="block_insert_list_map_body_3">to</string>
+    <string name="block_insert_list_map_body_3">到</string>
     <string name="block_insert_list_map_tail"></string>
 
     <string name="block_get_at_list_map_head">get value at</string>
@@ -274,7 +274,7 @@
     <string name="block_set_at_list_map_head">set key</string>
     <string name="block_set_at_list_map_body_1">value</string>
     <string name="block_set_at_list_map_body_2">at</string>
-    <string name="block_set_at_list_map_body_3">to</string>
+    <string name="block_set_at_list_map_body_3">到</string>
     <string name="block_set_at_list_map_tail"></string>
 
     <string name="block_contain_list_map_head"></string>
@@ -361,7 +361,7 @@
     <string name="block_rest_tail"></string>
 
     <string name="block_random_head">pick random</string>
-    <string name="block_random_body_1">to</string>
+    <string name="block_random_body_1">到</string>
     <string name="block_random_tail"></string>
 
     <string name="block_string_length_head">length of</string>
@@ -377,7 +377,7 @@
 
     <string name="block_string_sub_head"></string>
     <string name="block_string_sub_body_1">substring</string>
-    <string name="block_string_sub_body_2">to</string>
+    <string name="block_string_sub_body_2">到</string>
     <string name="block_string_sub_tail"></string>
 
     <string name="block_string_equals_head"></string>
@@ -727,12 +727,12 @@
     <string name="block_calendar_get_now_tail">getNow</string>
 
     <string name="block_calendar_add_head"></string>
-    <string name="block_calendar_add_body_1">add</string>
+    <string name="block_calendar_add_body_1">添加</string>
     <string name="block_calendar_add_body_2">value</string>
     <string name="block_calendar_add_tail"></string>
 
     <string name="block_calendar_set_head"></string>
-    <string name="block_calendar_set_body_1">set</string>
+    <string name="block_calendar_set_body_1">设置</string>
     <string name="block_calendar_set_body_2">value</string>
     <string name="block_calendar_set_tail"></string>
 
@@ -758,7 +758,7 @@
     <string name="block_timer_every_tail">ms</string>
 
     <string name="block_timer_cancel_head"></string>
-    <string name="block_timer_cancel_tail">cancel</string>
+    <string name="block_timer_cancel_tail">返回</string>
 
     <string name="block_dialog_set_title_head"></string>
     <string name="block_dialog_set_title_body_1">set title</string>
@@ -769,7 +769,7 @@
     <string name="block_dialog_set_message_tail"></string>
 
     <string name="block_dialog_show_head"></string>
-    <string name="block_dialog_show_tail">show</string>
+    <string name="block_dialog_show_tail">显示</string>
 
     <string name="block_dialog_dismiss_head"></string>
     <string name="block_dialog_dismiss_tail">dismiss</string>
@@ -853,7 +853,7 @@
 
     <string name="block_objectanimator_set_from_to_head"></string>
     <string name="block_objectanimator_set_from_to_body_1">set values from</string>
-    <string name="block_objectanimator_set_from_to_body_2">to</string>
+    <string name="block_objectanimator_set_from_to_body_2">到</string>
     <string name="block_objectanimator_set_from_to_tail"></string>
 
     <string name="block_objectanimator_set_duration_head"></string>
@@ -876,7 +876,7 @@
     <string name="block_objectanimator_start_tail">start</string>
 
     <string name="block_objectanimator_cancel_head"></string>
-    <string name="block_objectanimator_cancel_tail">cancel</string>
+    <string name="block_objectanimator_cancel_tail">返回</string>
 
     <string name="block_objectanimator_is_running_head"></string>
     <string name="block_objectanimator_is_running_tail">is running</string>
@@ -2274,7 +2274,7 @@
 
     <string name="block_insert_map_to_list_head">insert-插入</string>
     <string name="block_insert_map_to_list_body_1">at-在</string>
-    <string name="block_insert_map_to_list_body_2">to</string>
+    <string name="block_insert_map_to_list_body_2">到</string>
     <string name="block_insert_map_to_list_tail"></string>
 
     <string name="block_get_map_in_list_head">get at-得到</string>
@@ -2337,14 +2337,14 @@
 
 
     <string name="block_str_to_map_head">Json</string>
-    <string name="block_str_to_map_body_1">to</string>
+    <string name="block_str_to_map_body_1">到</string>
     <string name="block_str_to_map_tail"></string>
 
     <string name="block_map_to_str_head"></string>
     <string name="block_map_to_str_tail">to Json String</string>
 
     <string name="block_str_to_list_map_head">Json</string>
-    <string name="block_str_to_list_map_body_1">to</string>
+    <string name="block_str_to_list_map_body_1">到</string>
     <string name="block_str_to_list_map_tail"></string>
 
     <string name="block_list_map_to_str_head"></string>
