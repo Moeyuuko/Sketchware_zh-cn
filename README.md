@@ -2,8 +2,10 @@ Sketchware°²×¿ Î»ÓÚ/storage/emulated/0/sketchware/localizationÄ¿Â¼µÄÓïÑÔÎÄ¼ş ºº»
 
 strings.xml Îªºº»¯ºóÎÄ¼ş
 
-ps: ×¢Òâ!! ·­ÒëÎ´Íê³É ÎÒÃ¿ÌìÒ»µãÒ»µãÈ¥·­Òë Èç·¢ÏÖ´íÎó ¸æËßÎÒÒ»ÏÂ
-
 strings_provided.xml ÎªÔ´àÓÓ¢ÓïÎÄ¼ş
+
+ps: ×¢Òâ!! ·­ÒëÎ´Íê³É ÎÒÃ¿ÌìÒ»µãÒ»µãÈ¥·­Òë ×ÜÓĞÒ»Ìì»áÍê³ÉµÄ  Èç·¢ÏÖ´íÎó »¶Ó­¾ÀÕı
+
+·­Òë·½Ê½: »ú·­+ÈË¹¤ĞŞ¸Ä  Èç¹ûÄã¸Ğ¾õÕâ¾ä×ÓÒ»¹É»ú·­Î¶ Äã¿ÉÒÔ¸æËßÒ»ÏÂÎÒ ÎÒ»á¾¡¿ìĞŞÕı
 
 Ó¦ÓÃµÄgoogle playµØÖ·:https://play.google.com/store/apps/details?id=com.besome.sketch
