@@ -57,7 +57,7 @@
     <string name="desc_component_soundpool">用于播放短暂的声音效果</string>
     <string name="desc_component_mediaplayer">用于播放大型声音文件</string>
     <string name="desc_component_dialog">对话框 用于创建弹出窗口</string>
-    <string name="desc_component_objectanimator">用于为视图的某些属性设置动画</string>
+    <string name="desc_component_objectanimator">用于为View的某些属性设置动画</string>
 
     <string name="logic_event_initialize">当activity创建</string>
     <string name="logic_event_definefunc">更多的块-MoreBlock</string>
@@ -86,7 +86,7 @@
 
     <!-- new root spec -->
     <string name="root_spec_common_define">确定-Define </string>
-    <string name="root_spec_common_when">每当-When </string>
+    <string name="root_spec_common_when">每当 </string>
 
     <string name="root_spec_initialize_head">当activity创建</string>
     <string name="root_spec_initialize_tail"></string>
@@ -609,15 +609,15 @@
     <string name="block_list_set_custom_view_data_body_1">设ListCustomView数据</string>
     <string name="block_list_set_custom_view_data_tail"></string>
 
-    <string name="block_spn_set_data_head">spn</string>
-    <string name="block_spn_set_data_body_1">设Spinner数据</string>
+    <string name="block_spn_set_data_head">下拉框</string>
+    <string name="block_spn_set_data_body_1">设Spinner下拉框数据</string>
     <string name="block_spn_set_data_tail"></string>
 
-    <string name="block_spn_set_selection_head">spn</string>
+    <string name="block_spn_set_selection_head">下拉框</string>
     <string name="block_spn_set_selection_body_1">设选择</string>
     <string name="block_spn_set_selection_tail"></string>
 
-    <string name="block_spn_get_selection_head">spn</string>
+    <string name="block_spn_get_selection_head">下拉框</string>
     <string name="block_spn_get_selection_tail">取选择</string>
 
     <string name="block_seekbar_set_progress_head">拖动条</string>
@@ -639,7 +639,7 @@
 
 
 
-    <string name="block_spn_refresh_head">spn</string>
+    <string name="block_spn_refresh_head">下拉框</string>
     <string name="block_spn_refresh_tail">重载新数据</string>
 
     <string name="block_webview_load_url_head">webview</string>
@@ -704,7 +704,7 @@
     <string name="block_start_activity_head">开启Activity</string>
     <string name="block_start_activity_tail"></string>
 
-    <string name="block_intent_get_string_head">Activity取额外的key</string>
+    <string name="block_intent_get_string_head">Activity 取额外的key</string>
     <string name="block_intent_get_string_tail"></string>
 
     <string name="block_finish_activity_head">完成</string>
@@ -749,40 +749,40 @@
     <string name="block_vibrator_action_tail">ms</string>
 
     <string name="block_timer_after_head"></string>
-    <string name="block_timer_after_body_1">之后-after</string>
+    <string name="block_timer_after_body_1">然后</string>
     <string name="block_timer_after_tail">ms</string>
 
     <string name="block_timer_every_head">定时器</string>
-    <string name="block_timer_every_body_1">之后-after</string>
+    <string name="block_timer_every_body_1">然后</string>
     <string name="block_timer_every_body_2">ms for 每一个</string>
     <string name="block_timer_every_tail">ms</string>
 
     <string name="block_timer_cancel_head">定时器</string>
     <string name="block_timer_cancel_tail">后退</string>
 
-    <string name="block_dialog_set_title_head">对话</string>
+    <string name="block_dialog_set_title_head">对话框</string>
     <string name="block_dialog_set_title_body_1">设标题</string>
     <string name="block_dialog_set_title_tail"></string>
 
-    <string name="block_dialog_set_message_head">对话</string>
+    <string name="block_dialog_set_message_head">对话框</string>
     <string name="block_dialog_set_message_body_1">设消息</string>
     <string name="block_dialog_set_message_tail"></string>
 
-    <string name="block_dialog_show_head">对话</string>
+    <string name="block_dialog_show_head">对话框</string>
     <string name="block_dialog_show_tail">显示</string>
 
-    <string name="block_dialog_dismiss_head">对话</string>
+    <string name="block_dialog_dismiss_head">对话框</string>
     <string name="block_dialog_dismiss_tail">解散-dismiss</string>
 
-    <string name="block_dialog_ok_button_head">对话</string>
+    <string name="block_dialog_ok_button_head">对话框</string>
     <string name="block_dialog_ok_button_body_1">OK 按钮</string>
     <string name="block_dialog_ok_button_tail">点击</string>
 
-    <string name="block_dialog_cancel_button_head">对话</string>
+    <string name="block_dialog_cancel_button_head">对话框</string>
     <string name="block_dialog_cancel_button_body_1">取消 按钮</string>
     <string name="block_dialog_cancel_button_tail">点击</string>
 
-    <string name="block_dialog_neutral_button_head">对话</string>
+    <string name="block_dialog_neutral_button_head">对话框</string>
     <string name="block_dialog_neutral_button_body_1">中立按钮</string>
     <string name="block_dialog_neutral_button_tail">点击</string>
 
@@ -892,55 +892,55 @@
 
 
 
-    <string name="desc_bl_invalid_1">An index is either negative or greater than or equal to the size of the list</string>
-    <string name="desc_bl_invalid_2">A number cannot be divided by zero</string>
-    <string name="desc_bl_invalid_3">An index is either negative or greater than the size of the string</string>
-    <string name="desc_bl_invalid_4">Thrown to indicate that the application has attempted to convert a string to one of the numeric types</string>
-    <string name="desc_bl_invalid_5">Unreachable statement or stop block outside repeat block or forever block</string>
-    <string name="desc_bl_invalid_6">Occurred when parameters of Intent is invalid</string>
-    <string name="desc_bl_and">Join two conditions</string>
-    <string name="desc_bl_bool_set_to">Set the specified variable to the condition</string>
-    <string name="desc_bl_bool_var">Boolean variable</string>
-    <string name="desc_bl_equals">The condition for checking if two strings are equal</string>
-    <string name="desc_bl_str_contains">The condition for checking if the string contains a value</string>
-    <string name="desc_bl_str_replace">Replaces all string value to the given value</string>
-    <string name="desc_bl_false">False condition</string>
-    <string name="desc_bl_forever">A loop that will never end\n* this must be used with stop block</string>
-    <string name="desc_bl_get_text">Get the text the widget is displaying</string>
-    <string name="desc_bl_get_enable">the enabled status for the widget</string>
-    <string name="desc_bl_if_else">Check the condition\n - if the condition is true, the blocks inside the first C will activate,\nand if the condition is false, the blocks inside the second C will activate</string>
-    <string name="desc_bl_if_then">Check the condition\n - if the condition is true, the blocks inside it will activate</string>
-    <string name="desc_bl_init_logic">When application is executed, the block activates</string>
-    <string name="desc_bl_int_set_to">Sets the specified variable to the number</string>
-    <string name="desc_bl_int_var">Number variable</string>
-    <string name="desc_bl_join">The two values put right next to each other</string>
-    <string name="desc_bl_str_lengthof">The length of the string</string>
-    <string name="desc_bl_list_addto">Add an item to the list (the item goes at the bottom of the list of items) with the specified content in it</string>
-    <string name="desc_bl_list_clear">Clear the list</string>
-    <string name="desc_bl_list_contains">The condition for checking if an item\'s content is the specified value</string>
-    <string name="desc_bl_list_delete_at_of">Deletes the item off the list</string>
-    <string name="desc_bl_list_get_at_of">Gets the item\'s value</string>
-    <string name="desc_bl_list_index_in">The position value of the item</string>
-    <string name="desc_bl_list_insert_at_to">Adds an item to the list (the item goes where you specify in the list of items) with the specified content in it. </string>
-    <string name="desc_bl_list_lengthof">How many items there are in the specified list</string>
+    <string name="desc_bl_invalid_1">索引是负数或大于或等于列表的大小。</string>
+    <string name="desc_bl_invalid_2">一个数不能除以零。</string>
+    <string name="desc_bl_invalid_3">索引是负的或大于字符串的大小。</string>
+    <string name="desc_bl_invalid_4">Thrown to indicate 应用程序试图将一个字符串转换为一个数字类型</string>
+    <string name="desc_bl_invalid_5">无法访问的语句或停止重复块或永久块外的块</string>
+    <string name="desc_bl_invalid_6">当意图(when)参数无效时发生。</string>
+    <string name="desc_bl_and">加入两个条件</string>
+    <string name="desc_bl_bool_set_to">将指定变量设置为条件</string>
+    <string name="desc_bl_bool_var">布尔(Boolean)变量</string>
+    <string name="desc_bl_equals">检查两个字符串是否相等的条件</string>
+    <string name="desc_bl_str_contains">检查字符串是否包含值的条件</string>
+    <string name="desc_bl_str_replace">将所有字符串值替换为给定值</string>
+    <string name="desc_bl_false">假条件</string>
+    <string name="desc_bl_forever">一个永远不会结束的循环\n* 这必须与停止块一起使用</string>
+    <string name="desc_bl_get_text">获取小部件显示的文本</string>
+    <string name="desc_bl_get_enable">小部件的启用状态</string>
+    <string name="desc_bl_if_else">检查条件\n - 如果条件为真，则第一个C中的块将激活\n和 如果条件为假，则第二个C中的块将激活</string>
+    <string name="desc_bl_if_then">检查条件\n - 如果条件为真，它内部的块将激活</string>
+    <string name="desc_bl_init_logic">应用程序执行时, 该块激活</string>
+    <string name="desc_bl_int_set_to">将指定的变量设置为数字</string>
+    <string name="desc_bl_int_var">数字变量</string>
+    <string name="desc_bl_join">这两个值紧挨着放在一起</string>
+    <string name="desc_bl_str_lengthof">字符串的长度</string>
+    <string name="desc_bl_list_addto">将项目添加到列表中（该项目位于项目列表的底部），其中包含指定的内容</string>
+    <string name="desc_bl_list_clear">清除列表</string>
+    <string name="desc_bl_list_contains">检查项目内容是否为指定值的条件</string>
+    <string name="desc_bl_list_delete_at_of">从列表中删除项目</string>
+    <string name="desc_bl_list_get_at_of">获取该项目\'s 值</string>
+    <string name="desc_bl_list_index_in">该项目的位置值</string>
+    <string name="desc_bl_list_insert_at_to">将项目添加到列表中（该项目将进入项目列表中指定的位置），其中包含指定的内容</string>
+    <string name="desc_bl_list_lengthof">指定列表中有多少项目</string>
 
-    <string name="desc_bl_map_add_list">Add a (String, String) Map to the list of Maps</string>
-    <string name="desc_bl_map_insert_list">Insert a (key, value) pair into a Map at a certain index of the Map List</string>
-    <string name="desc_bl_map_set_list">Modify a (key, value) pair inside a Map at a certain index of the Map List</string>
-    <string name="desc_bl_map_contain_list">Check if the Map at a certain index of the Map List contains a key</string>
-    <string name="desc_bl_map_get_at_list">Gets the (key, value) pair from the Map at a certain index of the Map List</string>
+    <string name="desc_bl_map_add_list">将（String字符串，String）map添加到map列表</string>
+    <string name="desc_bl_map_insert_list">在map列表的某个索引处插入一个(key, value)对</string>
+    <string name="desc_bl_map_set_list">在映射表的某个索引中修改map中的（key，value）对</string>
+    <string name="desc_bl_map_contain_list">检查映射列表中某个索引的映射是否包含一个key</string>
+    <string name="desc_bl_map_get_at_list">从映射列表的某个索引中从map获取（key，value）对</string>
 
 
-    <string name="desc_bl_math_divide">The value of the division</string>
-    <string name="desc_bl_math_device_rest">The remainder of the division</string>
-    <string name="desc_bl_math_math_equals">The condition for checking if two values are equal</string>
-    <string name="desc_bl_math_great">The condition for checking if a value is greater than the other</string>
-    <string name="desc_bl_math_less">The condition for checking if a value is less than the other</string>
-    <string name="desc_bl_math_minus">The value of the subtraction</string>
-    <string name="desc_bl_math_multi">The value of the multiplication</string>
-    <string name="desc_bl_math_plus">The value of the addition</string>
-    <string name="desc_bl_not">Make the condition checked if it is false, not true</string>
-    <string name="desc_bl_or">Join two conditions, but they function separately</string>
+    <string name="desc_bl_math_divide">这个 值value 属于 division</string>
+    <string name="desc_bl_math_device_rest">这个 remainder 属于 division</string>
+    <string name="desc_bl_math_math_equals">检查两个值是否相等的条件</string>
+    <string name="desc_bl_math_great">检查某个值是否大于另一个值的条件。</string>
+    <string name="desc_bl_math_less">检查一个值是否小于另一个值的条件。</string>
+    <string name="desc_bl_math_minus">这个 值value 为减法</string>
+    <string name="desc_bl_math_multi">这个 值value 为乘法</string>
+    <string name="desc_bl_math_plus">这个 值value 为addition(附加)</string>
+    <string name="desc_bl_not">检查条件是否为假，不是真的</string>
+    <string name="desc_bl_or">加入两个条件，但它们各自起作用</string>
     <string name="desc_bl_pic_num">Pick a random number between the two limits</string>
     <string name="desc_bl_repeat">A loop that repeats for the specified amount</string>
     <string name="desc_bl_set_bg_color">Set the background color for the widget</string>
@@ -1091,57 +1091,57 @@
     <string name="desc_bl_objectanimator_cancel">Cancel the animation</string>
     <string name="desc_bl_objectanimator_isrunning">Check if the animation is running</string>
 
-    <string name="desc_bl_add_source_directly">Add Java source code directly</string>
+    <string name="desc_bl_add_source_directly">直接添加Java源代码</string>
 
 
 
-    <string name="tuto_textview_group_title">Add text in your app</string>
-    <string name="tuto_textview_title_1">Adding TextView and changing text value</string>
-    <string name="tuto_textview_title_2">Increasing the font size</string>
-    <string name="tuto_textview_title_3">Making the text bold</string>
-    <string name="tuto_textview_title_4">Changing the color of the text</string>
-    <string name="tuto_textview_title_5">Using setText block to change the text value</string>
-    <string name="tuto_textview_title_6">Joining your first and last name together</string>
-    <string name="tuto_textview_title_7">Showing a toast message with the TextView\'s value</string>
-    <string name="tuto_textview_title_8">Creating a Magic 8-Ball app</string>
+    <string name="tuto_textview_group_title">在您的应用中添加文字</string>
+    <string name="tuto_textview_title_1">添加TextView并更改文本值</string>
+    <string name="tuto_textview_title_2">增加字体大小</string>
+    <string name="tuto_textview_title_3">使文字加粗</string>
+    <string name="tuto_textview_title_4">改变文字的颜色</string>
+    <string name="tuto_textview_title_5">使用setText块更改文本值</string>
+    <string name="tuto_textview_title_6">加入你的名字和姓氏</string>
+    <string name="tuto_textview_title_7">用TextView显示toast消息\'s 值</string>
+    <string name="tuto_textview_title_8">创造一个魔术 8-Ball 应用</string>
 
-    <string name="tuto_layout_group_title">Place and position widgets differently</string>
-    <string name="tuto_layout_title_1">Placing widgets horizontally</string>
-    <string name="tuto_layout_title_2">Placing widgets vertically</string>
-    <string name="tuto_layout_title_3">Resizing layouts to different sizes</string>
-    <string name="tuto_layout_title_4">Aligning widgets in the layout</string>
-    <string name="tuto_layout_title_5">Creating screen-size responsive layouts</string>
-    <string name="tuto_layout_title_6">Mixing vertical and horizontal layouts</string>
-    <string name="tuto_layout_title_7">Making a scrollable layout</string>
-
-
-    <string name="tuto_button_group_title">Perform actions when a button is clicked</string>
-    <string name="tuto_button_title_1">Similarities and differences between a TextView and a Button</string>
-    <string name="tuto_button_title_2">Disabling a Button</string>
-    <string name="tuto_button_title_3">Changing the TextView\'s value when a Button is clicked</string>
-
-    <string name="tuto_edittext_group_title">Take user input</string>
-    <string name="tuto_edittext_title_1">Hinting the user for the input</string>
-    <string name="tuto_edittext_title_2">Setting the default value of the input box</string>
-    <string name="tuto_edittext_title_3">Setting the maximum number of lines an input can display</string>
-    <string name="tuto_edittext_title_4">Disabling the input box</string>
-    <string name="tuto_edittext_title_5">Changing keyboard type for different input types</string>
-    <string name="tuto_edittext_title_6">Showing the current user input when a Button is clicked</string>
-    <string name="tuto_edittext_title_7">Firing events whenever the input value is changed</string>
-    <string name="tuto_edittext_title_8">Creating a custom input validator</string>
+    <string name="tuto_layout_group_title">放置和放置小部件的方式不同</string>
+    <string name="tuto_layout_title_1">水平放置小部件</string>
+    <string name="tuto_layout_title_2">垂直放置小部件</string>
+    <string name="tuto_layout_title_3">将布局调整为不同的大小</string>
+    <string name="tuto_layout_title_4">在布局中对齐小部件</string>
+    <string name="tuto_layout_title_5">创建屏幕尺寸响应式布局</string>
+    <string name="tuto_layout_title_6">混合垂直和水平布局</string>
+    <string name="tuto_layout_title_7">制作可滚动的布局</string>
 
 
+    <string name="tuto_button_group_title">单击按钮时执行操作</string>
+    <string name="tuto_button_title_1">TextView和Button之间的异同</string>
+    <string name="tuto_button_title_2">禁用按钮</string>
+    <string name="tuto_button_title_3">更改TextView\'s 点击按钮时的值</string>
 
-    <string name="tuto_imageview_group_title">Display fascinating images</string>
-    <string name="tuto_imageview_title_1">Adding an image</string>
-    <string name="tuto_imageview_title_2">Understanding different scale types</string>
-    <string name="tuto_imageview_title_3">Creating an image slideshow using a ScrollView</string>
-    <string name="tuto_imageview_title_4">Understanding 9-Patch images</string>
+    <string name="tuto_edittext_group_title">接受用户输入</string>
+    <string name="tuto_edittext_title_1">提示用户输入</string>
+    <string name="tuto_edittext_title_2">设置输入框的默认值</string>
+    <string name="tuto_edittext_title_3">设置输入可以显示的最大行数</string>
+    <string name="tuto_edittext_title_4">禁用输入框</string>
+    <string name="tuto_edittext_title_5">更改不同输入类型的键盘类型</string>
+    <string name="tuto_edittext_title_6">显示单击按钮时的当前用户输入</string>
+    <string name="tuto_edittext_title_7">每当输入值发生变化时触发事件</string>
+    <string name="tuto_edittext_title_8">创建一个自定义输入验证器</string>
 
-    <string name="tuto_chk_switch_group_title">Toggle on and off</string>
-    <string name="tuto_chk_switch_title_1">Understanding checkbox and switch</string>
-    <string name="tuto_chk_switch_title_2">Toggling the check programmatically</string>
-    <string name="tuto_chk_switch_title_3">Showing/hiding an image based on the checked state</string>
+
+
+    <string name="tuto_imageview_group_title">显示迷人的图像</string>
+    <string name="tuto_imageview_title_1">添加图像</string>
+    <string name="tuto_imageview_title_2">了解不同的比例类型</string>
+    <string name="tuto_imageview_title_3">使用ScrollView创建图像幻灯片</string>
+    <string name="tuto_imageview_title_4">了解9-Patch图像</string>
+
+    <string name="tuto_chk_switch_group_title">切换开启和关闭</string>
+    <string name="tuto_chk_switch_title_1">理解复选框并切换</string>
+    <string name="tuto_chk_switch_title_2">以编程方式切换检查</string>
+    <string name="tuto_chk_switch_title_3">根据选中的状态显示/隐藏图像</string>
 
     <string name="tuto_styling_group_title">Professionally design your app</string>
     <string name="tuto_styling_title_1">Understanding padding and margin property</string>
@@ -1197,16 +1197,16 @@
     <string name="tuto_algorithm_title_7">Calculating how many times a word is repeated</string>
 
 
-    <string name="tuto_com_welcome">Welcome to the tutorial!</string>
-    <string name="tuto_com_tab_continue">Tap the screen to continue</string>
-    <string name="tuto_com_goal">Goal</string>
-    <string name="tuto_com_view_goal">View Goal</string>
-    <string name="tuto_com_logic_goal">Logic Goal</string>
-    <string name="tuto_com_logic_recap">Logic Recap</string>
-    <string name="tuto_com_logic_explained">Logic Explained</string>
-    <string name="tuto_com_logic_category">Click on the %s category</string>
-    <string name="tuto_com_explained_continued">Explanation Continued</string>
-    <string name="tuto_com_prerequisite">Prerequisite</string>
+    <string name="tuto_com_welcome">欢迎来到教程！</string>
+    <string name="tuto_com_tab_continue">点击屏幕继续</string>
+    <string name="tuto_com_goal">目标</string>
+    <string name="tuto_com_view_goal">查看目标</string>
+    <string name="tuto_com_logic_goal">逻辑目标</string>
+    <string name="tuto_com_logic_recap">逻辑回顾</string>
+    <string name="tuto_com_logic_explained">逻辑解释</string>
+    <string name="tuto_com_logic_category">点击%s分类</string>
+    <string name="tuto_com_explained_continued">解释继续</string>
+    <string name="tuto_com_prerequisite">条件</string>
 
     <string name="tuto_com_summary">Summary</string>
     <string name="tuto_com_summary_continued">Summary continued</string>
@@ -1255,7 +1255,7 @@
     <string name="tuto_com_set_2nd_param">Set \"%s\" for the second parameter</string><!-- Toast , setText , etc -->
 
 
-    <string name="tuto_com_need_run">Since the change happens when the app starts, you will need to RUN the application</string>
+    <string name="tuto_com_need_run">由于应用程序启动时发生更改，因此您需要运行应用程序</string>
 
     <string name="tuto_textview_1_0">Perfect! This is how you can add widgets to the editor</string>
     <string name="tuto_textview_1_1">We can change the text value by editing its property</string>
@@ -1936,12 +1936,12 @@
     <string name="tuto_timer_2_19" formatted="false">When the frame is %s, we want the image to change to \"%s\"</string>
     <string name="tuto_timer_2_20">Let\'s paste another "if then" block</string>
     <string name="tuto_timer_2_21">Connect it under the first "if then" block</string>
-    <string name="tuto_timer_2_22">Put 2 here to check for the second frame</string>
-    <string name="tuto_timer_2_23">Put 3 here to check for the third frame</string>
-    <string name="tuto_timer_2_24">Put 4 here to check for the fourth frame</string>
-    <string name="tuto_timer_2_25">Put 5 here to check for the fifth frame</string>
-    <string name="tuto_timer_2_26">Put 6 here to check for the sixth frame</string>
-    <string name="tuto_timer_2_27">Put 7 here to check for the seventh frame</string>
+    <string name="tuto_timer_2_22">Put 2 在这里检查 second frame</string>
+    <string name="tuto_timer_2_23">Put 3 在这里检查 third frame</string>
+    <string name="tuto_timer_2_24">Put 4 在这里检查 fourth frame</string>
+    <string name="tuto_timer_2_25">Put 5 在这里检查 fifth frame</string>
+    <string name="tuto_timer_2_26">Put 6 在这里检查 sixth frame</string>
+    <string name="tuto_timer_2_27">Put 7 在这里检查 seventh frame</string>
     <string name="tuto_timer_2_28">1. We use the Timer block to increase the "frame" variable by 1 every 150ms\n2. When the frame variable increases, 1, 2, 3 ... 15, we use the remainder block to only get a result between 1 and 7 no matter how big the \"frame variable is\"\n3. We use the "=" block to check the current value of the frame, and update the ImageView accordingly</string>
 
 
@@ -2102,8 +2102,8 @@
     <string name="tuto_sound_media_5_34">1. We created 10 Number variables, 5 with the suffix of "_sound" and 5 with "_play2. "_sound" variables were used to load the sound in "onCreate" event, and "_play" variables were used to play the sound on the key's onClick event</string>
 
 
-    <string name="tuto_sound_media_7_0">Design a music player</string>
-    <string name="tuto_sound_media_7_1">We\'ve provided %s images for you</string>
+    <string name="tuto_sound_media_7_0">设计音乐播放器</string>
+    <string name="tuto_sound_media_7_1">我们\'ve 提供 %s 图像给你</string>
     <string name="tuto_sound_media_7_2">Tobu - Mesmerize album art</string>
     <string name="tuto_sound_media_7_3">Play button</string>
     <string name="tuto_sound_media_7_4">Pause button</string>
@@ -2252,13 +2252,14 @@
     <string name="block_calendar_set_time_body_1">设时间</string>
     <string name="block_calendar_set_time_tail">ms</string>
 
-    <string name="desc_bl_cal_get_time">Returns this Calendar\'s time value in milliseconds since January 1, 1970 00:00:00</string>
-    <string name="desc_bl_cal_set_time">Sets this Calendar\'s current time from the given value since January 1, 1970 00:00:00</string>
+    <string name="desc_bl_cal_get_time">返回此日历\'s 从1970年1月1日00:00:00开始，以毫秒为单位的时间值</string>
+    <string name="desc_bl_cal_set_time">
+    <string name="desc_bl_cal_get_time">返回此日历\'s c当前时间自1970年1月1日00:00:00以来的给定值</string>
 
-    <string name="desc_bl_calendarview_get_date">Gets the selected date in milliseconds since January 1, 1970 00:00:00</string>
-    <string name="desc_bl_calendarview_set_date">Sets the selected date in milliseconds since January 1, 1970 00:00:00</string>
-    <string name="desc_bl_calendarview_set_min_date">Sets the minimal date supported by this CalendarView in milliseconds since January 1, 1970 00:00:00 </string>
-    <string name="desc_bl_calendarview_set_max_date">Sets the maximal date supported by this CalendarView in milliseconds since January 1, 1970 00:00:00</string>
+    <string name="desc_bl_calendarview_get_date">从1970年1月1日00:00:00开始，以毫秒为单位获取所选日期</string>
+    <string name="desc_bl_calendarview_set_date">设置自1970年1月1日00:00:00以来的所选日期（以毫秒为单位）</string>
+    <string name="desc_bl_calendarview_set_min_date">从1970年1月1日00:00:00开始，以毫秒为单位设置此CalendarView支持的最小日期 </string>
+    <string name="desc_bl_calendarview_set_max_date">从1970年1月1日00:00:00开始，以毫秒为单位设置此CalendarView支持的最大日期</string>
 
     <string name="logic_event_onchildadded">当Child添加</string>
     <string name="logic_event_onchildchanged">当Child改变</string>
@@ -2282,8 +2283,8 @@
     <string name="block_get_map_in_list_body_2">to-到</string>
     <string name="block_get_map_in_list_tail"></string>
 
-    <string name="tuto_ab_1">Create a game to understand how Sketchware works</string>
-    <string name="tuto_ab_2">In the View tab, you design how your application looks like</string>
+    <string name="tuto_ab_1">创建一个游戏来了解Sketchware如何工作</string>
+    <string name="tuto_ab_2">在视图选项卡中，您可以设计应用程序的外观</string>
     <string name="tuto_ab_3">There are different widgets in the palette you can use for different purposes</string>
     <string name="tuto_ab_4">Drag and drop them onto the screen to add new widgets inside the view</string>
     <string name="tuto_ab_5">Try clicking on the Logic tab</string>
@@ -2298,41 +2299,41 @@
 
     <string name="tuto_ab_b_1">In this tutorial, we\'ll try changing the title of the game</string>
     <string name="tuto_ab_b_2">Let\'s modify this event to change the title of the game when the application is started</string>
-    <string name="tuto_ab_b_3">Click here and try changing the value of \"%s\" to whatever you want!</string>
+    <string name="tuto_ab_b_3">单击此处，尝试更改 \"%s\" 随便改！</string>
 
-    <string name="tuto_initial_group_title">What can you create with Sketchware?</string>
+    <string name="tuto_initial_group_title">您可以使用Sketchware创建什么？</string>
 
-    <string name="root_spec_on_child_added_head">onChildAdded</string>
+    <string name="root_spec_on_child_added_head">当Child被添加</string>
     <string name="root_spec_on_child_added_body_1"></string>
     <string name="root_spec_on_child_added_tail"></string>
 
-    <string name="root_spec_on_child_changed_head">onChildChanged</string>
+    <string name="root_spec_on_child_changed_head">当Child被改变</string>
     <string name="root_spec_on_child_changed_body_1"></string>
     <string name="root_spec_on_child_changed_tail"></string>
 
-    <string name="root_spec_on_child_removed_head">onChildRemoved</string>
+    <string name="root_spec_on_child_removed_head">当Child被删除</string>
     <string name="root_spec_on_child_removed_body_1"></string>
     <string name="root_spec_on_child_removed_tail"></string>
 
-    <string name="root_spec_on_cancelled_head">onCancelled</string>
+    <string name="root_spec_on_cancelled_head">当取消</string>
     <string name="root_spec_on_cancelled_body_1"></string>
     <string name="root_spec_on_cancelled_tail"></string>
 
     <string name="block_firebase_add_head"></string>
-    <string name="block_firebase_add_body_1">add key</string>
-    <string name="block_firebase_add_body_2">值</string>
+    <string name="block_firebase_add_body_1">添加 key</string>
+    <string name="block_firebase_add_body_2">值:</string>
     <string name="block_firebase_add_tail"></string>
 
     <string name="block_firebase_push_head"></string>
-    <string name="block_firebase_push_body_1">push value</string>
+    <string name="block_firebase_push_body_1">push 值:</string>
     <string name="block_firebase_push_tail"></string>
 
-    <string name="block_firebase_delete_head"></string>
-    <string name="block_firebase_delete_body_1">delete key</string>
+    <string name="block_firebase_delete_head">删除</string>
+    <string name="block_firebase_delete_body_1">key</string>
     <string name="block_firebase_delete_tail"></string>
 
-    <string name="block_firebase_get_children_head"></string>
-    <string name="block_firebase_get_children_body_1">get children to</string>
+    <string name="block_firebase_get_children_head">取</string>
+    <string name="block_firebase_get_children_body_1">children到</string>
     <string name="block_firebase_get_children_tail">然后</string>
 
 
@@ -2341,16 +2342,16 @@
     <string name="block_str_to_map_tail"></string>
 
     <string name="block_map_to_str_head"></string>
-    <string name="block_map_to_str_tail">to Json String</string>
+    <string name="block_map_to_str_tail">到Json字符串</string>
 
     <string name="block_str_to_list_map_head">Json</string>
     <string name="block_str_to_list_map_body_1">到</string>
     <string name="block_str_to_list_map_tail"></string>
 
     <string name="block_list_map_to_str_head"></string>
-    <string name="block_list_map_to_str_tail">to Json String</string>
+    <string name="block_list_map_to_str_tail">到Json字符串</string>
 
-    <string name="desc_bl_map_create_new">Creates a new map. Existing data is deleted, but maps that are in Map List will still hold data</string>
+    <string name="desc_bl_map_create_new">创建一个新map。 现有数据将被删除，但map列表中的map仍然会保存数据.Creates a new map. Existing data is deleted, but maps that are in Map List will still hold data</string>
     <string name="desc_bl_map_put">Adds a new key, value pair into the map</string>
     <string name="desc_bl_map_get">Retrieves the value with the following key from the map</string>
     <string name="desc_bl_map_contain_key">Checks if map contains the key</string>
@@ -2369,83 +2370,83 @@
 
     <string name="desc_bl_firebase_add">Adds a key into Firebase DB and creates a child Node</string>
     <string name="desc_bl_firebase_push">Creates a unique key and a child node when adding to Firebase DB</string>
-    <string name="desc_bl_firebase_get_key">Generates a unique key for the given Firebase DB route</string>
-    <string name="desc_bl_firebase_delete">Deletes a child node from Firebase DB with the following key value</string>
-    <string name="desc_bl_firebase_get_children">Retrieves all children Nodes into a List Map sorted by key value. Key is only used for sorting and is ommitted from the data value</string>
+    <string name="desc_bl_firebase_get_key">为给定的Firebase DB路线生成一个唯一的关键字.Generates a unique key for the given Firebase DB route</string>
+    <string name="desc_bl_firebase_delete">使用以下键值从Firebase DB中删除子节点.Deletes a child node from Firebase DB with the following key value</string>
+    <string name="desc_bl_firebase_get_children">将所有子节点检索到按键值排序的列表映射中。key仅用于排序并从数据值中省略.Retrieves all children Nodes into a List Map sorted by key value. Key is only used for sorting and is ommitted from the data value </string>
 
 
     <!-- 2.0.x -->
-    <string name="tuto_firebase_group_title">Make an online app</string>
-    <string name="desc_component_gyroscope">The gyroscope measures the rate of rotation in rad/s around a device\'s x, y, and z axis.</string>
-    <string name="logic_event_onsensorchanged">onSensorChanged</string>
+    <string name="tuto_firebase_group_title">制作在线应用程序</string>
+    <string name="desc_component_gyroscope">陀螺仪  以rad/s测量旋转速率,围绕设备的x，y和z轴</string>
+    <string name="logic_event_onsensorchanged">当传感器改变</string>
 
-    <string name="desc_component_firebase_auth">Firebase Auth allows online user authentication</string>
+    <string name="desc_component_firebase_auth">Firebase验证 允许在线用户认证</string>
 
-    <string name="block_firebaseauth_create_user_head"></string>
-    <string name="block_firebaseauth_create_user_body_1">createUserWith Email</string>
-    <string name="block_firebaseauth_create_user_body_2">and Password</string>
+    <string name="block_firebaseauth_create_user_head">Firebase</string>
+    <string name="block_firebaseauth_create_user_body_1">创建用户 电子邮件Email:</string>
+    <string name="block_firebaseauth_create_user_body_2">密码:</string>
     <string name="block_firebaseauth_create_user_tail"></string>
 
-    <string name="block_firebaseauth_signin_user_head"></string>
-    <string name="block_firebaseauth_signin_user_body_1">signInWith Email</string>
-    <string name="block_firebaseauth_signin_user_body_2">and Password</string>
+    <string name="block_firebaseauth_signin_user_head">Firebase</string>
+    <string name="block_firebaseauth_signin_user_body_1">登录 电子邮件Email:</string>
+    <string name="block_firebaseauth_signin_user_body_2">密码:</string>
     <string name="block_firebaseauth_signin_user_tail"></string>
 
-    <string name="block_firebaseauth_signin_anonymously_head"></string>
-    <string name="block_firebaseauth_signin_anonymously_tail">signInAnonymously</string>
+    <string name="block_firebaseauth_signin_anonymously_head">Firebase</string>
+    <string name="block_firebaseauth_signin_anonymously_tail">匿名登录</string>
 
-    <string name="block_firebaseauth_is_logged_in_head"></string>
-    <string name="block_firebaseauth_is_logged_in_tail">FirebaseAuth isLoggedIn</string>
+    <string name="block_firebaseauth_is_logged_in_head">Firebase</string>
+    <string name="block_firebaseauth_is_logged_in_tail"> 已登录</string>
 
-    <string name="block_firebaseauth_get_email_head"></string>
-    <string name="block_firebaseauth_get_email_tail">FirebaseAuth getEmail</string>
+    <string name="block_firebaseauth_get_email_head">Firebase</string>
+    <string name="block_firebaseauth_get_email_tail">取邮箱</string>
 
-    <string name="block_firebaseauth_get_uid_head"></string>
-    <string name="block_firebaseauth_get_uid_tail">FirebaseAuth getUid</string>
+    <string name="block_firebaseauth_get_uid_head">Firebase</string>
+    <string name="block_firebaseauth_get_uid_tail">取Uid</string>
 
-    <string name="block_firebaseauth_signout_head"></string>
-    <string name="block_firebaseauth_signout_tail">FirebaseAuth signOut</string>
+    <string name="block_firebaseauth_signout_head">Firebase</string>
+    <string name="block_firebaseauth_signout_tail">登出</string>
 
-    <string name="block_firebase_get_key_head"></string>
-    <string name="block_firebase_get_key_tail">push getKey</string>
+    <string name="block_firebase_get_key_head">Firebase</string>
+    <string name="block_firebase_get_key_tail">推-push 取key-getKey</string>
 
     <string name="block_list_smooth_scrollto_head"></string>
-    <string name="block_list_smooth_scrollto_body_1">smoothScrollToPosition</string>
+    <string name="block_list_smooth_scrollto_body_1">平滑滚动到位置</string>
     <string name="block_list_smooth_scrollto_tail"></string>
 
-    <string name="desc_bl_firebaseauth_create_user">Creates and signs in user. User remains logged in until signed out</string>
-    <string name="desc_bl_firebaseauth_signin_user">Signs in user. User remains logged in until signed out</string>
-    <string name="desc_bl_firebaseauth_signin_anonymously">Signs in user anonymously. User remains logged in until signed out</string>
-    <string name="desc_bl_firebaseauth_is_logged_in">Checks if user is logged in</string>
-    <string name="desc_bl_firebaseauth_get_email">Retrieves the email user used to create an account</string>
-    <string name="desc_bl_firebaseauth_get_uid">Retrieves the unique id assigned to the user</string>
-    <string name="desc_bl_firebaseauth_signout">Signs out the currently logged in user</string>
-    <string name="desc_bl_list_smooth_scrollto">Programmatically scrolls the ListView to the given position</string>
+    <string name="desc_bl_firebaseauth_create_user">创建并登录用户. 用户保持登录状态,直到退出</string>
+    <string name="desc_bl_firebaseauth_signin_user">登录用户. 用户保持登录状态,直到退出</string>
+    <string name="desc_bl_firebaseauth_signin_anonymously">匿名登录用户. 用户保持登录状态,直到退出</string>
+    <string name="desc_bl_firebaseauth_is_logged_in">检查用户是否登录</string>
+    <string name="desc_bl_firebaseauth_get_email">检索用于创建帐户的电子邮件用户</string>
+    <string name="desc_bl_firebaseauth_get_uid">检索分配给用户的唯一标识</string>
+    <string name="desc_bl_firebaseauth_signout">注销当前登录的用户</string>
+    <string name="desc_bl_list_smooth_scrollto">以编程方式将ListView滚动到指定的位置</string>
 
-    <string name="title_popup_select_firebaseauth_component">Select Firebase Auth component</string>
-    <string name="logic_event_oncreateusercomplete">onCreateUserComplete</string>
-    <string name="logic_event_onsigninusercomplete">onSignInUserComplete</string>
+    <string name="title_popup_select_firebaseauth_component">选择Firebase身份验证组件</string>
+    <string name="logic_event_oncreateusercomplete">当创建用户完成</string>
+    <string name="logic_event_onsigninusercomplete">当登陆用户完成</string>
 
-    <string name="root_spec_on_create_user_complete_head">onCreateUserComplete</string>
+    <string name="root_spec_on_create_user_complete_head">当创建用户完成</string>
     <string name="root_spec_on_create_user_complete_body_1"></string>
     <string name="root_spec_on_create_user_complete_tail"></string>
 
-    <string name="root_spec_on_sign_in_user_complete_head">onSignInUserComplete</string>
+    <string name="root_spec_on_sign_in_user_complete_head">当登陆用户完成</string>
     <string name="root_spec_on_sign_in_user_complete_body_1"></string>
     <string name="root_spec_on_sign_in_user_complete_tail"></string>
 
-    <string name="root_spec_on_sensor_changed_head">onSensorChanged</string>
+    <string name="root_spec_on_sensor_changed_head">当传感器改变</string>
     <string name="root_spec_on_sensor_changed_body_1"></string>
     <string name="root_spec_on_sensor_changed_tail"></string>
 
-    <string name="block_set_typeface_head"></string>
-    <string name="block_set_typeface_body_1">setTypeface</string>
-    <string name="block_set_typeface_body_2">with style</string>
+    <string name="block_set_typeface_head">设</string>
+    <string name="block_set_typeface_body_1">字体</string>
+    <string name="block_set_typeface_body_2">风格</string>
     <string name="block_set_typeface_tail"></string>
 
-    <string name="block_get_location_x_head"></string>
-    <string name="block_get_location_x_tail">getLocationX</string>
+    <string name="block_get_location_x_head">取</string>
+    <string name="block_get_location_x_tail">位置X</string>
 
-    <string name="block_get_location_y_head"></string>
-    <string name="block_get_location_y_tail">getLocationY</string>
+    <string name="block_get_location_y_head">取</string>
+    <string name="block_get_location_y_tail">位置Y</string>
 </resources>
