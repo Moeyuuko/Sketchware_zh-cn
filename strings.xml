@@ -941,8 +941,8 @@
     <string name="desc_bl_math_plus">这个 值value 为addition(附加)</string>
     <string name="desc_bl_not">检查条件是否为假，不是真的</string>
     <string name="desc_bl_or">加入两个条件，但它们各自起作用</string>
-    <string name="desc_bl_pic_num">Pick a random number between the two limits</string>
-    <string name="desc_bl_repeat">A loop that repeats for the specified amount</string>
+    <string name="desc_bl_pic_num">在两个限制之间选择一个随机数</string>
+    <string name="desc_bl_repeat">循环重复指定的数量</string>
     <string name="desc_bl_set_bg_color">Set the background color for the widget</string>
     <string name="desc_bl_set_enable">Set the enabled state of the widget</string>
     <string name="desc_bl_set_image">Set selected image as the content of the ImageView</string>
