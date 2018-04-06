@@ -148,13 +148,13 @@
     <string name="root_spec_on_animation_cancel_head">当动画取消</string>
     <string name="root_spec_on_animation_cancel_tail"></string>
 
-    <string name="root_spec_on_item_clicked_head">点击项目</string>
+    <string name="root_spec_on_item_clicked_head">当点击项目</string>
     <string name="root_spec_on_item_clicked_tail"></string>
 
-    <string name="root_spec_on_item_long_clicked_head">长按项目</string>
+    <string name="root_spec_on_item_long_clicked_head">当长按项目</string>
     <string name="root_spec_on_item_long_clicked_tail"></string>
 
-    <string name="root_spec_on_bind_custom_view_head">在绑定自定义视图上onBindCustomView</string>
+    <string name="root_spec_on_bind_custom_view_head">当绑定自定义View</string>
     <string name="root_spec_on_bind_custom_view_body_1"></string>
     <string name="root_spec_on_bind_custom_view_tail"></string>
 
@@ -191,20 +191,20 @@
     <string name="block_map_create_new_tail">创建新Map</string>
 
     <string name="block_map_put_head"></string>
-    <string name="block_map_put_body_1">放置key</string>
+    <string name="block_map_put_body_1">放置 key</string>
     <string name="block_map_put_body_2">值</string>
     <string name="block_map_put_tail"></string>
 
     <string name="block_map_get_head"></string>
-    <string name="block_map_get_body_1">获取key</string>
+    <string name="block_map_get_body_1">获取 key</string>
     <string name="block_map_get_tail"></string>
 
     <string name="block_map_contain_key_head"></string>
-    <string name="block_map_contain_key_body_1">包含key</string>
+    <string name="block_map_contain_key_body_1">包含 key</string>
     <string name="block_map_contain_key_tail"></string>
 
     <string name="block_map_remove_key_head"></string>
-    <string name="block_map_remove_key_body_1">删除key</string>
+    <string name="block_map_remove_key_body_1">删除 key</string>
     <string name="block_map_remove_key_tail"></string>
 
     <string name="block_map_clear_head"></string>
@@ -266,12 +266,12 @@
     <string name="block_insert_list_map_body_3">到</string>
     <string name="block_insert_list_map_tail"></string>
 
-    <string name="block_get_at_list_map_head">get value at</string>
+    <string name="block_get_at_list_map_head">map 取值</string>
     <string name="block_get_at_list_map_body_1">key</string>
     <string name="block_get_at_list_map_body_2">在</string>
     <string name="block_get_at_list_map_tail"></string>
 
-    <string name="block_set_at_list_map_head">设置密钥y</string>
+    <string name="block_set_at_list_map_head">设置密钥</string>
     <string name="block_set_at_list_map_body_1">值</string>
     <string name="block_set_at_list_map_body_2">at</string>
     <string name="block_set_at_list_map_body_3">到</string>
@@ -290,7 +290,7 @@
     <string name="block_length_list_head">长度</string>
     <string name="block_length_list_tail"></string>
 
-    <string name="block_clear_list_head">clear</string>
+    <string name="block_clear_list_head">清除</string>
     <string name="block_clear_list_tail"></string>
 
     <string name="block_repeat_head">循环</string>
@@ -693,7 +693,7 @@
     <string name="block_intent_set_screen_tail"></string>
 
     <string name="block_intent_put_extra_head">intent</string>
-    <string name="block_intent_put_extra_body_1">放置额外的key</string>
+    <string name="block_intent_put_extra_body_1">放置额外 key</string>
     <string name="block_intent_put_extra_body_2">值</string>
     <string name="block_intent_put_extra_tail"></string>
 
@@ -704,27 +704,27 @@
     <string name="block_start_activity_head">开启Activity</string>
     <string name="block_start_activity_tail"></string>
 
-    <string name="block_intent_get_string_head">Activity 取额外的key</string>
+    <string name="block_intent_get_string_head">Activity 取额外 key</string>
     <string name="block_intent_get_string_tail"></string>
 
     <string name="block_finish_activity_head">完成</string>
     <string name="block_finish_activity_tail">Activity</string>
 
     <string name="block_file_get_data_head">文件</string>
-    <string name="block_file_get_data_body_1">取数据的key</string>
+    <string name="block_file_get_data_body_1">取数据 key</string>
     <string name="block_file_get_data_tail"></string>
 
     <string name="block_file_set_data_head">文件</string>
-    <string name="block_file_set_data_body_1">设数据的key</string>
+    <string name="block_file_set_data_body_1">设数据 key</string>
     <string name="block_file_set_data_body_2">值</string>
     <string name="block_file_set_data_tail"></string>
 
     <string name="block_file_remove_data_head">文件</string>
-    <string name="block_file_remove_data_body_1">在元素上移除存放的数据的key</string>
+    <string name="block_file_remove_data_body_1">在元素上移除存放的数据 key</string>
     <string name="block_file_remove_data_tail">文件</string>
 
     <string name="block_calendar_get_now_head">日历</string>
-    <string name="block_calendar_get_now_tail">取现在-getNow</string>
+    <string name="block_calendar_get_now_tail">取现在</string>
 
     <string name="block_calendar_add_head">日历</string>
     <string name="block_calendar_add_body_1">添加</string>
