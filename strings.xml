@@ -2,147 +2,147 @@
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************        Common  Start    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
-    <string name="common_word_all">ALL</string>
-    <string name="common_word_add">Add</string>
-    <string name="common_word_agree">Agree</string>
-    <string name="common_word_cancel">Cancel</string>
-    <string name="common_word_choose">Choose</string>
-    <string name="common_word_change">Change</string>
-    <string name="common_word_close">Close</string>
-    <string name="common_word_copy">Copy</string>
-    <string name="common_word_delete">Delete</string>
-    <string name="common_word_edit">Edit</string>
-    <string name="common_word_exit">Exit</string>
-    <string name="common_word_overwrite">Overwrite</string>
-    <string name="common_word_yes">Yes</string>
-    <string name="common_word_no">No</string>
-    <string name="common_word_modify">Modify</string>
+    <string name="common_word_all">全部</string>
+    <string name="common_word_add">添加</string>
+    <string name="common_word_agree">同意</string>
+    <string name="common_word_cancel">取消</string>
+    <string name="common_word_choose">选择</string>
+    <string name="common_word_change">更改</string>
+    <string name="common_word_close">关闭</string>
+    <string name="common_word_copy">复制</string>
+    <string name="common_word_delete">删除</string>
+    <string name="common_word_edit">编辑</string>
+    <string name="common_word_exit">退出</string>
+    <string name="common_word_overwrite">覆盖</string>
+    <string name="common_word_yes">是</string>
+    <string name="common_word_no">否</string>
+    <string name="common_word_modify">修改</string>
     <string name="common_word_ok">OK</string>
-    <string name="common_word_reset">Reset</string>
-    <string name="common_word_save">Save</string>
-    <string name="common_word_save_as_new">Save as new</string>
-    <string name="common_word_submit">Submit</string>
-    <string name="common_word_show">Show</string>
-    <string name="common_word_purchase">Purchase</string>
-    <string name="common_word_public">public</string>
-    <string name="common_word_private">private</string>
-    <string name="common_word_locale">Locale</string>
-    <string name="common_word_enroll">Enroll</string>
-    <string name="common_word_enrolled">Enrolled</string>
-    <string name="common_word_ended">Ended</string>
-    <string name="common_word_description">Description</string>
-    <string name="common_word_detail">Detail</string>
-    <string name="common_word_try_again">Try Again</string>
-    <string name="common_word_contributor">Contributor</string>
-    <string name="common_word_collection">Collection</string>
-    <string name="common_word_create">Create</string>
+    <string name="common_word_reset">重置</string>
+    <string name="common_word_save">保存</string>
+    <string name="common_word_save_as_new">保存为新的</string>
+    <string name="common_word_submit">提交</string>
+    <string name="common_word_show">显示</string>
+    <string name="common_word_purchase">购买</string>
+    <string name="common_word_public">公开的</string>
+    <string name="common_word_private">报名</string>
+    <string name="common_word_locale">语言环境</string>
+    <string name="common_word_enroll">注册</string>
+    <string name="common_word_enrolled">不公开的</string>
+    <string name="common_word_ended">截至</string>
+    <string name="common_word_description">描述</string>
+    <string name="common_word_detail">详情</string>
+    <string name="common_word_try_again">再试一次</string>
+    <string name="common_word_contributor">贡献者</string>
+    <string name="common_word_collection">采集</string>
+    <string name="common_word_create">创建</string>
 
-    <string name="common_word_information">Information</string>
+    <string name="common_word_information">信息</string>
 
-    <string name="common_word_decrypt">Decrypt</string>
-    <string name="common_word_import">Import</string>
-    <string name="common_word_import_count">Import %s Item(s)</string>
-    <string name="common_word_finish">Finish</string>
+    <string name="common_word_decrypt">解码</string>
+    <string name="common_word_import">导入</string>
+    <string name="common_word_import_count">导入 %s 个项目</string>
+    <string name="common_word_finish">完成</string>
 
-    <string name="common_word_remove">Remove</string>
-    <string name="common_word_run">Run</string>
-    <string name="common_word_accept">Save</string>
-    <string name="common_word_continue">Continue</string>
-    <string name="common_word_goback">Go Back</string>
+    <string name="common_word_remove">清除</string>
+    <string name="common_word_run">运行</string>
+    <string name="common_word_accept">保存</string>
+    <string name="common_word_continue">继续</string>
+    <string name="common_word_goback">返回</string>
 
-    <string name="common_word_select">Select</string>
-    <string name="common_word_see_more">See More</string>
-    <string name="common_word_see_all">See All</string>
-    <string name="common_word_settings">Settings</string>
+    <string name="common_word_select">选择</string>
+    <string name="common_word_see_more">查看更多</string>
+    <string name="common_word_see_all">查看全部</string>
+    <string name="common_word_settings">设置</string>
 
-    <string name="common_word_share">Share</string>
-    <string name="common_word_update">Update</string>
-    <string name="common_word_upload">Upload</string>
+    <string name="common_word_share">分享</string>
+    <string name="common_word_update">更新</string>
+    <string name="common_word_upload">上传</string>
 
-    <string name="common_word_preview">Preview</string>
-    <string name="common_word_restore">Restore</string>
-    <string name="common_word_warning">Warning</string>
-    <string name="common_word_deprecated">*deprecated</string>
-    <string name="common_word_watch">Watch</string>
+    <string name="common_word_preview">预览</string>
+    <string name="common_word_restore">恢复</string>
+    <string name="common_word_warning">警告</string>
+    <string name="common_word_deprecated">*弃用</string>
+    <string name="common_word_watch">查看</string>
 
-    <string name="common_word_project_information">Project Information</string>
-    <string name="common_word_project_information_package">Package</string>
-    <string name="common_word_project_information_project">Project</string>
-    <string name="common_word_project_information_app_name">App Name</string>
-    <string name="common_word_project_information_version_code">Version code</string>
-    <string name="common_word_project_information_version_name">Version name</string>
+    <string name="common_word_project_information">项目信息</string>
+    <string name="common_word_project_information_package">包名</string>
+    <string name="common_word_project_information_project">项目名</string>
+    <string name="common_word_project_information_app_name">App名</string>
+    <string name="common_word_project_information_version_code">版本代码</string>
+    <string name="common_word_project_information_version_name">版本名字</string>
 
 
-    <string name="common_word_activity">Activity</string>
-    <string name="common_word_view">View</string>
-    <string name="common_word_custom_view">Custom View</string>
-    <string name="common_word_component">Component</string>
-    <string name="common_word_drawer">Drawer</string>
-    <string name="common_word_moreblock">MoreBlock</string>
+    <string name="common_word_activity">活动</string>
+    <string name="common_word_view">视图</string>
+    <string name="common_word_custom_view">自定义视图</string>
+    <string name="common_word_component">组件</string>
+    <string name="common_word_drawer">抽屉</string>
+    <string name="common_word_moreblock">更多方块</string>
 
-    <string name="common_word_image">Image</string>
-    <string name="common_word_sound">Sound</string>
-    <string name="common_word_font">Font</string>
-    <string name="common_word_widget">Widget</string>
-    <string name="common_word_block">Block</string>
+    <string name="common_word_image">图片</string>
+    <string name="common_word_sound">声音</string>
+    <string name="common_word_font">字体</string>
+    <string name="common_word_widget">小部件</string>
+    <string name="common_word_block">方块</string>
 
-    <string name="common_word_variable">Variable</string>
+    <string name="common_word_variable">变量</string>
 
-    <string name="common_message_insufficient_storage_space_title">Insufficient storage space</string>
-    <string name="common_message_insufficient_storage_space">There is not enough space available in the storage.\nPlease make room and try again</string>
-    <string name="common_message_not_enough_memory">Not enough memory</string>
-    <string name="common_message_progress">Progressing</string>
-    <string name="common_message_loading">Now Loading</string>
-    <string name="common_message_downloading">Downloading</string>
-    <string name="common_message_downloading_data">Downloading Data Files</string>
-    <string name="common_message_downloading_resources">Downloading Resources</string>
-    <string name="common_message_downloading_icon">Downloading Icon</string>
-    <string name="common_message_need_login">You need to be logged in to use this feature</string>
-    <string name="common_message_need_username">You need to create a username to use this feature</string>
-    <string name="common_message_check_network">Please check your internet connection</string>
-    <string name="common_message_complete_copy_to_clipborad">Copied to clipboard</string>
+    <string name="common_message_insufficient_storage_space_title">存储空间不足</string>
+    <string name="common_message_insufficient_storage_space">存储空间不足\n请腾出空间再试试</string>
+    <string name="common_message_not_enough_memory">内存不足</string>
+    <string name="common_message_progress">进行中</string>
+    <string name="common_message_loading">正在加载</string>
+    <string name="common_message_downloading">正在下载</string>
+    <string name="common_message_downloading_data">正在下载数据文件</string>
+    <string name="common_message_downloading_resources">下载资源中</string>
+    <string name="common_message_downloading_icon">下载图标中</string>
+    <string name="common_message_need_login">您需要登录才能使用此功能</string>
+    <string name="common_message_need_username">您需要创建一个用户名才能使用此功能</string>
+    <string name="common_message_check_network">请检查您的互联网连接</string>
+    <string name="common_message_complete_copy_to_clipborad">复制到剪贴板</string>
 
-    <string name="common_message_permission_account">Contacts permission is needed to enable social media login in Sketchware. Please give access in the next step</string>
-    <string name="common_message_permission_account1">Permission Denied. Please click on "Settings" to allow permission for "Contacts".Without this permission, you can not use Google Account to login</string>
+    <string name="common_message_permission_account">需要联系人权限才能在Sketchware中启用社交媒体登录。 请在下一步中提供访问权限</string>
+    <string name="common_message_permission_account1">没有权限。 请点击“设置”以允许“联系人”权限。如果没有此权限，则无法使用Google帐户登录</string>
 
-    <string name="common_message_permission_account_for_purchase">In order to manage purchase history, we need permission to access your Google Account</string>
-    <string name="common_message_permission_account1_for_purchase">Permission Denied. Please click on "Settings" to allow permission for "Contacts".\nWithout this permission, we can not manage the purchase history</string>
+    <string name="common_message_permission_account_for_purchase">为了管理购买历史记录，我们需要获得访问您的Google帐户的权限</string>
+    <string name="common_message_permission_account1_for_purchase">没有权限. 请点击"设置"以允许"联系人"的权限。\n未经其许可，我们无法管理购买历史记录</string>
 
-    <string name="common_message_permission_title_storage">Permission Required</string>
+    <string name="common_message_permission_title_storage">需要权限</string>
 
-    <string name="common_message_permission_storage">To access photos, media, and files, please give Sketchware permission in the next step</string>
-    <string name="common_message_permission_storage1">Permission Denied.\nPlease click on "Settings" to allow permission for "Storage". Without this permission, some features may not function properly</string>
+    <string name="common_message_permission_storage">要访问照片，媒体和文件，请在下一步中给予Sketchware权限</string>
+    <string name="common_message_permission_storage1">没有权限.\n请点击"设置"以允许"存储"。 没有此权限，某些功能可能无法正常运行</string>
 
-    <string name="common_message_permission_denied">Permission denied</string>
+    <string name="common_message_permission_denied">没有权限</string>
 
-    <string name="common_message_permission_need_load_project">We need your permission to Storage to save and load projects</string>
+    <string name="common_message_permission_need_load_project">我们需要您的许可才能保存和加载项目</string>
 
-    <string name="common_message_file_to_save_not_exist">Files to save do not exist</string>
+    <string name="common_message_file_to_save_not_exist">要保存的文件不存在</string>
 
-    <string name="common_message_name_unavailable">Current name is unavailable</string>
+    <string name="common_message_name_unavailable">当前名称不可用</string>
 
-    <string name="common_message_complete_save">Save complete</string>
-    <string name="common_message_complete_reset">Reset complete</string>
-    <string name="common_message_complete_delete">Delete complete</string>
-    <string name="common_message_complete_copy">Copy complete</string>
-    <string name="common_message_complete_upload">Upload complete</string>
-    <string name="common_message_complete_modify">Modify complete</string>
+    <string name="common_message_complete_save">保存成功</string>
+    <string name="common_message_complete_reset">重置成功</string>
+    <string name="common_message_complete_delete">删除成功</string>
+    <string name="common_message_complete_copy">复制成功</string>
+    <string name="common_message_complete_upload">上传成功</string>
+    <string name="common_message_complete_modify">修改成功</string>
 
-    <string name="common_message_complete_update">Updated</string>
+    <string name="common_message_complete_update">更新</string>
 
-    <string name="common_message_confirm">Are you sure?</string>
+    <string name="common_message_confirm">你确定？</string>
 
-    <string name="common_error_unknown">Unknown error! Please contact the administrator</string>
-    <string name="common_error_failed_load_data">Failed to load data</string>
-    <string name="common_error_failed_to_initialize">Failed to initialize </string>
-    <string name="common_error_an_error_occurred">An error occurred!</string>
-    <string name="common_error_failed_to_save">Failed to save</string>
-    <string name="common_error_failed_to_connect_server">Failed to connect to the server</string>
-    <string name="common_error_failed_to_load_ad">Ad failed to load. Try again shortly</string>
-    <string name="common_error_failed_save_server">Failed to save in the server</string>
-    <string name="common_error_activity_not_found">Activity not found</string>
-    <string name="common_error_failed_download_from_server">Failed to download from the server</string>
-    <string name="common_error_access_denied">Access denied</string>
+    <string name="common_error_unknown">未知错误！ 请联系管理员</string>
+    <string name="common_error_failed_load_data">无法加载数据</string>
+    <string name="common_error_failed_to_initialize">无法初始化 </string>
+    <string name="common_error_an_error_occurred">发生错误！</string>
+    <string name="common_error_failed_to_save">无法保存</string>
+    <string name="common_error_failed_to_connect_server">无法连接到服务器</string>
+    <string name="common_error_failed_to_load_ad">广告没了，老子的钱啊！（正在重新加载...）</string>
+    <string name="common_error_failed_save_server">无法保存在服务器中</string>
+    <string name="common_error_activity_not_found">未找到活动</string>
+    <string name="common_error_failed_download_from_server">无法从服务器下载</string>
+    <string name="common_error_access_denied">拒绝访问</string>
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************        Common  End    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
@@ -151,20 +151,20 @@
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************        Main  Start    ************************************************* -->
     <!-- ************************************************************************************************************************* -->
-    <string name="main_tab_title_myproject">My Projects</string>
-    <string name="main_tab_title_tutorials">Tutorials</string>
-    <string name="main_tab_title_shared_projects">Shared Projects</string>
+    <string name="main_tab_title_myproject">我的项目</string>
+    <string name="main_tab_title_tutorials">教程</string>
+    <string name="main_tab_title_shared_projects">共享项目</string>
 
-    <string name="main_drawer_title_remove_ads">Remove Ads</string>
-    <string name="main_drawer_title_purchase_list">Purchase List</string>
-    <string name="main_drawer_title_docs">Documentation</string>
-    <string name="main_drawer_title_share_with_friends">Share with Friends</string>
-    <string name="main_drawer_title_system_settings">System Settings</string>
-    <string name="main_drawer_title_program_information">Program information</string>
-    <string name="main_drawer_title_language_settings">Language Settings</string>
+    <string name="main_drawer_title_remove_ads">移除广告</string>
+    <string name="main_drawer_title_purchase_list">购买清单</string>
+    <string name="main_drawer_title_docs">文档</string>
+    <string name="main_drawer_title_share_with_friends">和朋友分享</string>
+    <string name="main_drawer_title_system_settings">系统设置</string>
+    <string name="main_drawer_title_program_information">关于</string>
+    <string name="main_drawer_title_language_settings">语言设置</string>
 
-    <string name="main_drawer_context_menu_title_slack_invitation">Get my invitation</string>
-    <string name="main_drawer_context_menu_title_slack_open">Open in Slack (Invitation Required)</string>
+    <string name="main_drawer_context_menu_title_slack_invitation">获得我的邀请</string>
+    <string name="main_drawer_context_menu_title_slack_open">在Slack中打开（需要邀请）</string>
 
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************        Main  End      ************************************************* -->
@@ -174,17 +174,17 @@
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************        Intro  Start    ************************************************ -->
     <!-- ************************************************************************************************************************* -->
-    <string name="intro_pager_1_title">Create Awesome Apps</string>
-    <string name="intro_pager_1_description">User-friendly interface and hassle-free experience</string>
+    <string name="intro_pager_1_title">创建一个棒棒的应用</string>
+    <string name="intro_pager_1_description">友好的界面与无忧无虑的体验</string>
 
-    <string name="intro_pager_2_title">Simple Block Programming</string>
-    <string name="intro_pager_2_description">No programming experience necessary</string>
+    <string name="intro_pager_2_title">简单的方块编程</string>
+    <string name="intro_pager_2_description">无需编程经验</string>
 
-    <string name="intro_pager_3_title">Share With the World</string>
-    <string name="intro_pager_3_description">Explore and share awesome creations with others</string>
+    <string name="intro_pager_3_title">与世界分享</string>
+    <string name="intro_pager_3_description">与他人探索和分享</string>
 
-    <string name="intro_button_explore">Explore</string>
-    <string name="intro_button_sign_in">Sign In</string>
+    <string name="intro_button_explore">探索</string>
+    <string name="intro_button_sign_in">签到</string>
 
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************        Intro  End    ************************************************ -->
@@ -347,8 +347,8 @@
 
     <string name="design_quit_message_confirm_save">Do you want to save your changes before quitting?</string>
 
-    <string name="design_restore_data_title">Restore Data</string>
-    <string name="design_restore_data_message_confirm">Something went wrong and previous data was not saved. Would you like to recover it?</string>
+    <string name="design_restore_data_title">还原数据</string>
+    <string name="design_restore_data_message_confirm">出了点问题，以前的数据没有保存。 你想恢复它吗？</string>
 
 
     <string name="design_run_title_ready_to_build">Getting ready to build </string>
@@ -506,14 +506,14 @@
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************   View   Start                ***************************************** -->
     <!-- ************************************************************************************************************************* -->
-    <string name="view_panel_title_widgets">Widgets</string>
-    <string name="view_panel_title_layouts">Layouts</string>
-    <string name="view_panel_title_properties">Properties</string>
+    <string name="view_panel_title_widgets">小部件</string>
+    <string name="view_panel_title_layouts">布局</string>
+    <string name="view_panel_title_properties">属性</string>
 
-    <string name="view_widget_favorites_save_title">Save Widget to My Collection</string>
-    <string name="view_widget_favorites_save_guide">Saved widgets are saved to My Collection and are accessible from all the projects.</string>
-    <string name="view_widget_favorites_delete_title">Delete from My Collection</string>
-    <string name="view_widget_favorites_delete_message">Are you sure you want to delete your saved widget from My Collection? This action can not be undone.</string>
+    <string name="view_widget_favorites_save_title">将小部件保存到我的收藏夹</string>
+    <string name="view_widget_favorites_save_guide">保存的小部件保存到我的收藏夹并可从所有项目访问</string>
+    <string name="view_widget_favorites_delete_title">从我的收藏中删除</string>
+    <string name="view_widget_favorites_delete_message">您确定要删除我的收藏中保存的小部件吗？ 此操作无法撤消。</string>
 
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************   View   End                  ***************************************** -->
@@ -543,51 +543,51 @@
     <string name="event_dialog_confirm_delete_component">Are you sure you want to delete the selected component?</string>
     <string name="event_dialog_confirm_delete_logic">All logic data of the selected event will be lost\nDo you want to continue?</string>
 
-    <string name="event_initialize">On activity create</string>
-    <string name="event_definefunc">MoreBlock</string>
-    <string name="event_onbackpressed">On back button press</string>
-    <string name="event_onpostcreated">On activity start-up complete</string>
-    <string name="event_onstart">On activity becoming visible</string>
-    <string name="event_onstop">On activity no longer visible</string>
-    <string name="event_ondestroy">On activity destroyed</string>
-    <string name="event_onresume">On activity resume</string>
-    <string name="event_onpause">On activity pause</string>
-    <string name="event_onclick">onClick</string>
-    <string name="event_oncheckchanged">onCheckChanged</string>
-    <string name="event_onitemselected">onItemSelected</string>
-    <string name="event_ontextchanged">onTextChanged</string>
-    <string name="event_onprogresschanged">onProgressChanged</string>
-    <string name="event_onstarttrackingtouch">onStartTrackingTouch</string>
-    <string name="event_onstoptrackingtouch">onStopTrackingTouch</string>
-    <string name="event_onpagestarted">onPageStarted</string>
-    <string name="event_onpagefinished">onPageFinished</string>
-    <string name="event_onanimationstart">onAnimationStart</string>
-    <string name="event_onanimationend">onAnimationEnd</string>
-    <string name="event_onanimationcancel">onAnimationCancel</string>
-    <string name="event_onitemclicked">onItemClicked</string>
-    <string name="event_onitemlongclicked">onItemLongClicked</string>
-    <string name="event_onbindcustomview">onBindCustomView</string>
+    <string name="event_initialize">当活动创建</string>
+    <string name="event_definefunc">更多的块-MoreBlock</string>
+    <string name="event_onbackpressed">当后退按钮按下</string>
+    <string name="event_onpostcreated">当活动开启完成</string>
+    <string name="event_onstart">当活动可见</string>
+    <string name="event_onstop">当活动不可见</string>
+    <string name="event_ondestroy">当活动销毁</string>
+    <string name="event_onresume">当活动重新开始</string>
+    <string name="event_onpause">当活动暂停</string>
+    <string name="event_onclick">当单击</string>
+    <string name="event_oncheckchanged">当检查到变化</string>
+    <string name="event_onitemselected">当选择项目</string>
+    <string name="event_ontextchanged">当文本更改</string>
+    <string name="event_onprogresschanged">当进度已更改</string>
+    <string name="event_onstarttrackingtouch">当开始追踪触摸</string>
+    <string name="event_onstoptrackingtouch">当停止追踪触摸</string>
+    <string name="event_onpagestarted">当页面已启动</string>
+    <string name="event_onpagefinished">当页面已完成</string>
+    <string name="event_onanimationstart">当动画开始</string>
+    <string name="event_onanimationend">当动画结束</string>
+    <string name="event_onanimationcancel">当动画取消</string>
+    <string name="event_onitemclicked">当点击项目</string>
+    <string name="event_onitemlongclicked">当长按项目</string>
+    <string name="event_onbindcustomview">当绑定自定义视图</string>
 
-    <string name="event_onchildadded">onChildAdded</string>
-    <string name="event_onchildchanged">onChildChanged</string>
-    <string name="event_onchildremoved">onChildRemoved</string>
-    <string name="event_oncancelled">onCancelled</string>
-    <string name="event_onsensorchanged">onSensorChanged</string>
-    <string name="event_oncreateusercomplete">onCreateUserComplete</string>
-    <string name="event_onsigninusercomplete">onSignInUserComplete</string>
-    <string name="event_onresetpasswordemailsent">onResetPasswordEmailSent</string>
-    <string name="event_onadloaded">onAdLoaded</string>
-    <string name="event_onadfailedtoload">onAdFailedToLoad</string>
-    <string name="event_onadopened">onAdOpened</string>
-    <string name="event_onadclosed">onAdClosed</string>
-    <string name="event_onuploadprogress">onUploadProgress</string>
-    <string name="event_ondownloadprogress">onDownloadProgress</string>
-    <string name="event_onuploadsuccess">onUploadSuccess</string>
-    <string name="event_ondownloadsuccess">onDownloadSuccess</string>
-    <string name="event_ondeletesuccess">onDeleteSuccess</string>
-    <string name="event_onfailure">onFailure</string>
-    <string name="event_onpicturetaken">onPictureTaken</string>
-    <string name="event_onfilespicked">onFilesPicked</string>
+    <string name="event_onchildadded">当Child添加</string>
+    <string name="event_onchildchanged">当Child改变</string>
+    <string name="event_onchildremoved">当Child离开</string>
+    <string name="event_oncancelled">当取消</string>
+    <string name="event_onsensorchanged">当传感器改变</string>
+    <string name="event_oncreateusercomplete">当用户创建完成</string>
+    <string name="event_onsigninusercomplete">当用户登录完成</string>
+    <string name="event_onresetpasswordemailsent">当重置密码电子邮件发送</string>
+    <string name="event_onadloaded">当广告加载</string>
+    <string name="event_onadfailedtoload">当广告无法加载</string>
+    <string name="event_onadopened">当广告打开</string>
+    <string name="event_onadclosed">当广告关闭</string>
+    <string name="event_onuploadprogress">当上传进行时</string>
+    <string name="event_ondownloadprogress">当下载进行时</string>
+    <string name="event_onuploadsuccess">当上传成功</string>
+    <string name="event_ondownloadsuccess">当下载成功</string>
+    <string name="event_ondeletesuccess">当删除成功</string>
+    <string name="event_onfailure">当失败时</string>
+    <string name="event_onpicturetaken">当拍摄照片时</string>
+    <string name="event_onfilespicked">当选区文件时</string>
 
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************   Event   End                 ***************************************** -->
@@ -1207,57 +1207,57 @@
     <string name="property_hint_enter_value">Enter value</string>
     <!-- View Properties -->
 
-    <string name="property_group_basic">Basic</string>
-    <string name="property_group_recent">Recent</string>
-    <string name="property_group_event">Event</string>
+    <string name="property_group_basic">基本</string>
+    <string name="property_group_recent">最近</string>
+    <string name="property_group_event">事件</string>
 
-    <string name="property_header_layout">Layout Properties</string>
-    <string name="property_header_text">Text Properties</string>
-    <string name="property_header_image">Image Properties</string>
-    <string name="property_header_view">View Properties</string>
-    <string name="property_header_seekbar">SeekBar Properties</string>
+    <string name="property_header_layout">布局属性</string>
+    <string name="property_header_text">文本属性</string>
+    <string name="property_header_image">图片属性</string>
+    <string name="property_header_view">视图属性</string>
+    <string name="property_header_seekbar">搜索栏属性</string>
 
-    <string name="property_layout_width">width</string>
-    <string name="property_layout_height">height</string>
-    <string name="property_orientation">orientation</string>
-    <string name="property_text_size">text size</string>
-    <string name="property_text_style">text style</string>
-    <string name="property_text_font">text font</string>
-    <string name="property_input_type">input type</string>
-    <string name="property_ime_option">ime option</string>
-    <string name="property_spinner_mode">spinnerMode</string>
-    <string name="property_scale_type">scale type</string>
-    <string name="property_resource">resource</string>
-    <string name="property_gravity">gravity</string>
-    <string name="property_layout_gravity">layout gravity</string>
-    <string name="property_single_line">single line</string>
-    <string name="property_lines">lines</string>
-    <string name="property_enabled">enabled</string>
-    <string name="property_clickable">clickable</string>
-    <string name="property_checked">checked</string>
-    <string name="property_text_color">text color</string>
-    <string name="property_hint_color">hint color</string>
-    <string name="property_background_color">background color</string>
-    <string name="property_background_resource">background resource</string>
-    <string name="property_text">text</string>
-    <string name="property_hint">hint</string>
-    <string name="property_weight">weight</string>
-    <string name="property_weight_sum">weightSum</string>
-    <string name="property_id">ID</string>
-    <string name="property_rotate">rotate</string>
-    <string name="property_padding">padding</string>
-    <string name="property_margin">margin</string>
-    <string name="property_divider_height">dividerHeight</string>
-    <string name="property_choice_mode">choiceMode</string>
-    <string name="property_image">image</string>
-    <string name="property_alpha">alpha</string>
-    <string name="property_max">max</string>
-    <string name="property_progress">progress</string>
-    <string name="property_translation_x">translationX</string>
-    <string name="property_translation_y">translationY</string>
-    <string name="property_scale_x">scaleX</string>
-    <string name="property_scale_y">scaleY</string>
-    <string name="property_custom_view_listview">customView</string>
+    <string name="property_layout_width">布局宽</string>
+    <string name="property_layout_height">布局高</string>
+    <string name="property_orientation">方向</string>
+    <string name="property_text_size">文本尺寸</string>
+    <string name="property_text_style">文本样式</string>
+    <string name="property_text_font">文本字形</string>
+    <string name="property_input_type">输入类型</string>
+    <string name="property_ime_option">输入法编辑器选项</string>
+    <string name="property_spinner_mode">微调模式</string>
+    <string name="property_scale_type">比例类型</string>
+    <string name="property_resource">资源</string>
+    <string name="property_gravity">权重</string>
+    <string name="property_layout_gravity">权重位置</string>
+    <string name="property_single_line">单行</string>
+    <string name="property_lines">行数</string>
+    <string name="property_enabled">启用</string>
+    <string name="property_clickable">可点击</string>
+    <string name="property_checked">检查</string>
+    <string name="property_text_color">文本颜色</string>
+    <string name="property_hint_color">提示颜色</string>
+    <string name="property_background_color">背景颜色</string>
+    <string name="property_background_resource">背景资源</string>
+    <string name="property_text">文本</string>
+    <string name="property_hint">提示</string>
+    <string name="property_weight">优先级</string>
+    <string name="property_weight_sum">优先级总和</string>
+    <string name="property_id">组件名</string>
+    <string name="property_rotate">旋转</string>
+    <string name="property_padding">填充</string>
+    <string name="property_margin">边距</string>
+    <string name="property_divider_height">分隔高度</string>
+    <string name="property_choice_mode">选择模式</string>
+    <string name="property_image">图片</string>
+    <string name="property_alpha">透明度</string>
+    <string name="property_max">最大</string>
+    <string name="property_progress">进度</string>
+    <string name="property_translation_x">位移X</string>
+    <string name="property_translation_y">位移Y</string>
+    <string name="property_scale_x">尺度X</string>
+    <string name="property_scale_y">尺度Y</string>
+    <string name="property_custom_view_listview">自定义视图</string>
 
     <!-- ************************************************************************************************************************* -->
     <!-- ************************************************************************************************************************* -->
@@ -1272,305 +1272,305 @@
     <!-- ************************************************************************************************************************* -->
 
     <!-- new root spec -->
-    <string name="root_spec_common_define">Define </string>
-    <string name="root_spec_common_when">When </string>
+    <string name="root_spec_common_define">确定-Define </string>
+    <string name="root_spec_common_when">每当 </string>
 
-    <string name="root_spec_initialize_head">On activity create</string>
+    <string name="root_spec_initialize_head">当activity创建</string>
     <string name="root_spec_initialize_tail"></string>
 
-    <string name="root_spec_on_back_pressed_head">On back button press</string>
+    <string name="root_spec_on_back_pressed_head">在后退按钮上按下</string>
     <string name="root_spec_on_back_pressed_tail"></string>
 
-    <string name="root_spec_on_post_created_head">On activity start-up complete</string>
+    <string name="root_spec_on_post_created_head">当activity启动完成</string>
     <string name="root_spec_on_post_created_tail"></string>
 
-    <string name="root_spec_on_start_head">On activity becoming visible</string>
+    <string name="root_spec_on_start_head">当activity可见</string>
     <string name="root_spec_on_start_tail"></string>
 
-    <string name="root_spec_on_stop_head">On activity no longer visible</string>
+    <string name="root_spec_on_stop_head">当activity不可见</string>
     <string name="root_spec_on_stop_tail"></string>
 
-    <string name="root_spec_on_destroy_head">On activity destroyed</string>
+    <string name="root_spec_on_destroy_head">当activity销毁</string>
     <string name="root_spec_on_destroy_tail"></string>
 
-    <string name="root_spec_on_resume_head">On activity resume</string>
+    <string name="root_spec_on_resume_head">当activity恢复</string>
     <string name="root_spec_on_resume_tail"></string>
 
-    <string name="root_spec_on_pause_head">On activity pause</string>
+    <string name="root_spec_on_pause_head">当activity暂停</string>
     <string name="root_spec_on_pause_tail"></string>
 
-    <string name="root_spec_on_clicked_head">clicked</string>
+    <string name="root_spec_on_clicked_head">点击</string>
     <string name="root_spec_on_clicked_tail"></string>
 
-    <string name="root_spec_on_check_changed_head">checkChanged</string>
+    <string name="root_spec_on_check_changed_head">选中已更改</string>
     <string name="root_spec_on_check_changed_tail"></string>
 
-    <string name="root_spec_on_item_selected_head">itemSelected</string>
+    <string name="root_spec_on_item_selected_head">项目选择</string>
     <string name="root_spec_on_item_selected_tail"></string>
 
-    <string name="root_spec_on_text_changed_head">textChanged</string>
+    <string name="root_spec_on_text_changed_head">文字已更改</string>
     <string name="root_spec_on_text_changed_tail"></string>
 
-    <string name="root_spec_on_page_started_head">pageStarted</string>
+    <string name="root_spec_on_page_started_head">页面已启动</string>
     <string name="root_spec_on_page_started_tail"></string>
 
-    <string name="root_spec_on_page_finished_head">pageFinished</string>
+    <string name="root_spec_on_page_finished_head">页面已完成</string>
     <string name="root_spec_on_page_finished_tail"></string>
 
-    <string name="root_spec_on_progress_changed_head">progressChanged</string>
+    <string name="root_spec_on_progress_changed_head">进度改变</string>
     <string name="root_spec_on_progress_changed_tail"></string>
 
-    <string name="root_spec_on_start_tracking_touch_head">onStartTrackingTouch</string>
+    <string name="root_spec_on_start_tracking_touch_head">当开始跟踪到触摸</string>
     <string name="root_spec_on_start_tracking_touch_tail"></string>
 
-    <string name="root_spec_on_stop_tracking_touch_head">onStopTrackingTouch</string>
+    <string name="root_spec_on_stop_tracking_touch_head">当停止跟踪到触摸</string>
     <string name="root_spec_on_stop_tracking_touch_tail"></string>
 
-    <string name="root_spec_on_animation_start_head">onAnimationStart</string>
+    <string name="root_spec_on_animation_start_head">当动画开始</string>
     <string name="root_spec_on_animation_start_tail"></string>
 
-    <string name="root_spec_on_animation_end_head">onAnimationEnd</string>
+    <string name="root_spec_on_animation_end_head">当动画结束</string>
     <string name="root_spec_on_animation_end_tail"></string>
 
-    <string name="root_spec_on_animation_cancel_head">onAnimationCancel</string>
+    <string name="root_spec_on_animation_cancel_head">当动画取消</string>
     <string name="root_spec_on_animation_cancel_tail"></string>
 
-    <string name="root_spec_on_item_clicked_head">itemClicked</string>
+    <string name="root_spec_on_item_clicked_head">当点击项目</string>
     <string name="root_spec_on_item_clicked_tail"></string>
 
-    <string name="root_spec_on_item_long_clicked_head">itemLongClicked</string>
+    <string name="root_spec_on_item_long_clicked_head">当长按项目</string>
     <string name="root_spec_on_item_long_clicked_tail"></string>
 
-    <string name="root_spec_on_bind_custom_view_head">onBindCustomView</string>
+    <string name="root_spec_on_bind_custom_view_head">当绑定自定义View</string>
     <string name="root_spec_on_bind_custom_view_body_1"></string>
     <string name="root_spec_on_bind_custom_view_tail"></string>
 
 
-    <string name="root_spec_on_child_added_head">onChildAdded</string>
+    <string name="root_spec_on_child_added_head">当Child被添加</string>
     <string name="root_spec_on_child_added_body_1"></string>
     <string name="root_spec_on_child_added_tail"></string>
 
-    <string name="root_spec_on_child_changed_head">onChildChanged</string>
+    <string name="root_spec_on_child_changed_head">当Child变化</string>
     <string name="root_spec_on_child_changed_body_1"></string>
     <string name="root_spec_on_child_changed_tail"></string>
 
-    <string name="root_spec_on_child_removed_head">onChildRemoved</string>
+    <string name="root_spec_on_child_removed_head">当Child移除</string>
     <string name="root_spec_on_child_removed_body_1"></string>
     <string name="root_spec_on_child_removed_tail"></string>
 
-    <string name="root_spec_on_cancelled_head">onCancelled</string>
+    <string name="root_spec_on_cancelled_head">当取消</string>
     <string name="root_spec_on_cancelled_body_1"></string>
     <string name="root_spec_on_cancelled_tail"></string>
 
-    <string name="root_spec_on_create_user_complete_head">onCreateUserComplete</string>
+    <string name="root_spec_on_create_user_complete_head">当创建用户完成</string>
     <string name="root_spec_on_create_user_complete_body_1"></string>
     <string name="root_spec_on_create_user_complete_tail"></string>
 
-    <string name="root_spec_on_sign_in_user_complete_head">onSignInUserComplete</string>
+    <string name="root_spec_on_sign_in_user_complete_head">当登录用户完成</string>
     <string name="root_spec_on_sign_in_user_complete_body_1"></string>
     <string name="root_spec_on_sign_in_user_complete_tail"></string>
 
-    <string name="root_spec_on_reset_password_email_sent_head">onResetPasswordEmailSent</string>
+    <string name="root_spec_on_reset_password_email_sent_head">当重置密码电子邮件发送</string>
     <string name="root_spec_on_reset_password_email_sent_body_1"></string>
     <string name="root_spec_on_reset_password_email_sent_tail"></string>
 
-    <string name="root_spec_on_sensor_changed_head">onSensorChanged</string>
+    <string name="root_spec_on_sensor_changed_head">当传感器改变</string>
     <string name="root_spec_on_sensor_changed_body_1"></string>
     <string name="root_spec_on_sensor_changed_tail"></string>
 
-    <string name="root_spec_on_date_change_head">onDateChange</string>
+    <string name="root_spec_on_date_change_head">当日期变化</string>
     <string name="root_spec_on_date_change_body_1"></string>
     <string name="root_spec_on_date_change_body_2"></string>
     <string name="root_spec_on_date_change_tail"></string>
 
-    <string name="root_spec_on_upload_progress_head">onUploadProgress</string>
+    <string name="root_spec_on_upload_progress_head">当上传进行时</string>
     <string name="root_spec_on_upload_progress_tail"></string>
 
-    <string name="root_spec_on_upload_success_head">onUploadSuccess</string>
+    <string name="root_spec_on_upload_success_head">当上传完成时</string>
     <string name="root_spec_on_upload_success_tail"></string>
 
-    <string name="root_spec_on_download_success_head">onDownloadSuccess</string>
+    <string name="root_spec_on_download_success_head">当下载完成时</string>
     <string name="root_spec_on_download_success_tail"></string>
 
-    <string name="root_spec_on_delete_success_head">onDeleteSuccess</string>
+    <string name="root_spec_on_delete_success_head">当删除完成时</string>
     <string name="root_spec_on_delete_success_tail"></string>
 
-    <string name="root_spec_on_failure_head">onFailure</string>
+    <string name="root_spec_on_failure_head">当失败时</string>
     <string name="root_spec_on_failure_tail"></string>
 
-    <string name="root_spec_on_picture_taken_head">onPictureTaken</string>
+    <string name="root_spec_on_picture_taken_head">当拍摄照片时</string>
     <string name="root_spec_on_picture_taken_body_1"></string>
     <string name="root_spec_on_picture_taken_tail"></string>
 
-    <string name="root_spec_on_files_picked_head">onFilesPicked</string>
+    <string name="root_spec_on_files_picked_head">当选取文件时</string>
     <string name="root_spec_on_files_picked_body_1"></string>
     <string name="root_spec_on_files_picked_tail"></string>
 
 
-    <string name="block_category_var">Variable</string>
-    <string name="block_category_list">List</string>
-    <string name="block_category_control">Control</string>
-    <string name="block_category_math">Math</string>
-    <string name="block_category_operator">Operator</string>
-    <string name="block_category_view_func">View</string>
-    <string name="block_category_component_func">Component</string>
-    <string name="block_category_file">File</string>
-    <string name="block_category_moreblock">More Block</string>
+    <string name="block_category_var">变量Variable</string>
+    <string name="block_category_list">列表List</string>
+    <string name="block_category_control">控制Control</string>
+    <string name="block_category_math">数学Math</string>
+    <string name="block_category_operator">运算Operator</string>
+    <string name="block_category_view_func">视图View</string>
+    <string name="block_category_component_func">组件Component</string>
+    <string name="block_category_file">文件</string>
+    <string name="block_category_moreblock">更多方块</string>
 
     <!-- new block spec -->
-    <string name="block_set_var_bool_head">set</string>
-    <string name="block_set_var_bool_body_1">to</string>
+    <string name="block_set_var_bool_head">设置</string>
+    <string name="block_set_var_bool_body_1">到</string>
     <string name="block_set_var_bool_tail"></string>
 
-    <string name="block_set_var_int_head">set</string>
-    <string name="block_set_var_int_body_1">to</string>
+    <string name="block_set_var_int_head">设置</string>
+    <string name="block_set_var_int_body_1">到</string>
     <string name="block_set_var_int_tail"></string>
 
     <string name="block_increase_int_head"></string>
-    <string name="block_increase_int_tail">increase 1</string>
+    <string name="block_increase_int_tail">增加1</string>
 
     <string name="block_decrease_int_head"></string>
-    <string name="block_decrease_int_tail">decrease 1</string>
+    <string name="block_decrease_int_tail">减少1</string>
 
-    <string name="block_set_var_str_head">set</string>
-    <string name="block_set_var_str_body_1">to</string>
+    <string name="block_set_var_str_head">设置</string>
+    <string name="block_set_var_str_body_1">到</string>
     <string name="block_set_var_str_tail"></string>
 
     <string name="block_map_create_new_head"></string>
-    <string name="block_map_create_new_tail">create new map</string>
+    <string name="block_map_create_new_tail">创建新Map</string>
 
     <string name="block_map_put_head"></string>
-    <string name="block_map_put_body_1">put key</string>
-    <string name="block_map_put_body_2">value</string>
+    <string name="block_map_put_body_1">放置 key</string>
+    <string name="block_map_put_body_2">值</string>
     <string name="block_map_put_tail"></string>
 
     <string name="block_map_get_head"></string>
-    <string name="block_map_get_body_1">get key</string>
+    <string name="block_map_get_body_1">获取 key</string>
     <string name="block_map_get_tail"></string>
 
     <string name="block_map_contain_key_head"></string>
-    <string name="block_map_contain_key_body_1">contain key</string>
+    <string name="block_map_contain_key_body_1">包含 key</string>
     <string name="block_map_contain_key_tail"></string>
 
     <string name="block_map_remove_key_head"></string>
-    <string name="block_map_remove_key_body_1">remove key</string>
+    <string name="block_map_remove_key_body_1">解除 key</string>
     <string name="block_map_remove_key_tail"></string>
 
     <string name="block_map_size_head"></string>
-    <string name="block_map_size_tail">size</string>
+    <string name="block_map_size_tail">尺寸</string>
 
     <string name="block_map_clear_head"></string>
-    <string name="block_map_clear_tail">clear</string>
+    <string name="block_map_clear_tail">清除</string>
 
     <string name="block_map_is_empty_head"></string>
-    <string name="block_map_is_empty_tail">is empty</string>
+    <string name="block_map_is_empty_tail">为空</string>
 
     <string name="block_map_get_all_keys_head"></string>
-    <string name="block_map_get_all_keys_body_1">get all keys to</string>
+    <string name="block_map_get_all_keys_body_1">获取所有密钥到</string>
     <string name="block_map_get_all_keys_tail"></string>
 
-    <string name="block_add_list_int_head">add</string>
-    <string name="block_add_list_int_body_1">to</string>
+    <string name="block_add_list_int_head">添加</string>
+    <string name="block_add_list_int_body_1">到</string>
     <string name="block_add_list_int_tail"></string>
 
-    <string name="block_insert_list_int_head">insert</string>
-    <string name="block_insert_list_int_body_1">at</string>
-    <string name="block_insert_list_int_body_2">to</string>
+    <string name="block_insert_list_int_head">插入</string>
+    <string name="block_insert_list_int_body_1">在</string>
+    <string name="block_insert_list_int_body_2">到</string>
     <string name="block_insert_list_int_tail"></string>
 
-    <string name="block_get_at_list_int_head">get at</string>
-    <string name="block_get_at_list_int_body_1">of</string>
+    <string name="block_get_at_list_int_head">得到</string>
+    <string name="block_get_at_list_int_body_1">在</string>
     <string name="block_get_at_list_int_tail"></string>
 
     <string name="block_indexof_list_int_head">index</string>
-    <string name="block_indexof_list_int_body_1">in</string>
+    <string name="block_indexof_list_int_body_1">在</string>
     <string name="block_indexof_list_int_tail"></string>
 
     <string name="block_contain_list_int_head"></string>
-    <string name="block_contain_list_int_body_1">contains</string>
+    <string name="block_contain_list_int_body_1">包含</string>
     <string name="block_contain_list_int_tail"></string>
 
-    <string name="block_add_list_str_head">add</string>
-    <string name="block_add_list_str_body_1">to</string>
+    <string name="block_add_list_str_head">添加</string>
+    <string name="block_add_list_str_body_1">到</string>
     <string name="block_add_list_str_tail"></string>
 
-    <string name="block_insert_list_str_head">insert</string>
+    <string name="block_insert_list_str_head">插入</string>
     <string name="block_insert_list_str_body_1">at</string>
-    <string name="block_insert_list_str_body_2">to</string>
+    <string name="block_insert_list_str_body_2">到</string>
     <string name="block_insert_list_str_tail"></string>
 
-    <string name="block_get_at_list_str_head">get at</string>
-    <string name="block_get_at_list_str_body_1">of</string>
+    <string name="block_get_at_list_str_head">得到</string>
+    <string name="block_get_at_list_str_body_1">在</string>
     <string name="block_get_at_list_str_tail"></string>
 
     <string name="block_indexof_list_str_head">index</string>
-    <string name="block_indexof_list_str_body_1">in</string>
+    <string name="block_indexof_list_str_body_1">在</string>
     <string name="block_indexof_list_str_tail"></string>
 
     <string name="block_contain_list_str_head"></string>
-    <string name="block_contain_list_str_body_1">contains</string>
+    <string name="block_contain_list_str_body_1">包含</string>
     <string name="block_contain_list_str_tail"></string>
 
     <string name="block_add_list_map_head">add key</string>
-    <string name="block_add_list_map_body_1">value</string>
-    <string name="block_add_list_map_body_2">to</string>
+    <string name="block_add_list_map_body_1">值</string>
+    <string name="block_add_list_map_body_2">到</string>
     <string name="block_add_list_map_tail"></string>
 
-    <string name="block_insert_list_map_head">insert key</string>
-    <string name="block_insert_list_map_body_1">value</string>
-    <string name="block_insert_list_map_body_2">at</string>
-    <string name="block_insert_list_map_body_3">to</string>
+    <string name="block_insert_list_map_head">插入密钥</string>
+    <string name="block_insert_list_map_body_1">值</string>
+    <string name="block_insert_list_map_body_2">在</string>
+    <string name="block_insert_list_map_body_3">到</string>
     <string name="block_insert_list_map_tail"></string>
 
-    <string name="block_get_at_list_map_head">get value at</string>
+    <string name="block_get_at_list_map_head">map 取值</string>
     <string name="block_get_at_list_map_body_1">key</string>
-    <string name="block_get_at_list_map_body_2">of</string>
+    <string name="block_get_at_list_map_body_2">在</string>
     <string name="block_get_at_list_map_tail"></string>
 
-    <string name="block_set_at_list_map_head">set key</string>
-    <string name="block_set_at_list_map_body_1">value</string>
+    <string name="block_set_at_list_map_head">设置密钥</string>
+    <string name="block_set_at_list_map_body_1">值</string>
     <string name="block_set_at_list_map_body_2">at</string>
-    <string name="block_set_at_list_map_body_3">to</string>
+    <string name="block_set_at_list_map_body_3">到</string>
     <string name="block_set_at_list_map_tail"></string>
 
     <string name="block_contain_list_map_head"></string>
-    <string name="block_contain_list_map_body_1">contains at</string>
+    <string name="block_contain_list_map_body_1">包含在</string>
     <string name="block_contain_list_map_body_2">key</string>
     <string name="block_contain_list_map_tail"></string>
 
 
-    <string name="block_delete_list_head">delete at</string>
-    <string name="block_delete_list_body_1">of</string>
+    <string name="block_delete_list_head">删除delete at</string>
+    <string name="block_delete_list_body_1">在</string>
     <string name="block_delete_list_tail"></string>
 
-    <string name="block_length_list_head">length of</string>
+    <string name="block_length_list_head">长度</string>
     <string name="block_length_list_tail"></string>
 
-    <string name="block_clear_list_head">clear</string>
+    <string name="block_clear_list_head">清除</string>
     <string name="block_clear_list_tail"></string>
 
-    <string name="block_repeat_head">repeat</string>
+    <string name="block_repeat_head">循环</string>
     <string name="block_repeat_tail"></string>
 
-    <string name="block_forever_head">forever</string>
+    <string name="block_forever_head">for循环</string>
     <string name="block_forever_tail"></string>
 
-    <string name="block_break_head">stop</string>
+    <string name="block_break_head">停止</string>
     <string name="block_break_tail"></string>
 
-    <string name="block_if_head">if</string>
-    <string name="block_if_tail">then</string>
+    <string name="block_if_head">如果if</string>
+    <string name="block_if_tail">然后</string>
 
-    <string name="block_if_else_head">if</string>
-    <string name="block_if_else_tail">then</string>
+    <string name="block_if_else_head">如果if</string>
+    <string name="block_if_else_tail">然后</string>
 
-    <string name="block_else_head">else</string>
+    <string name="block_else_head">否则else</string>
     <string name="block_else_tail"></string>
 
-    <string name="block_true_head">true</string>
+    <string name="block_true_head">真true</string>
     <string name="block_true_tail"></string>
 
-    <string name="block_false_head">false</string>
+    <string name="block_false_head">假false</string>
     <string name="block_false_tail"></string>
 
     <string name="block_smaller_head"></string>
@@ -1586,14 +1586,14 @@
     <string name="block_bigger_tail"></string>
 
     <string name="block_and_head"></string>
-    <string name="block_and_body_1">and</string>
+    <string name="block_and_body_1">和</string>
     <string name="block_and_tail"></string>
 
     <string name="block_or_head"></string>
-    <string name="block_or_body_1">or</string>
+    <string name="block_or_body_1">或</string>
     <string name="block_or_tail"></string>
 
-    <string name="block_not_head">not</string>
+    <string name="block_not_head">非</string>
     <string name="block_not_tail"></string>
 
     <string name="block_plus_head"></string>
@@ -1616,85 +1616,85 @@
     <string name="block_rest_body_1">%</string>
     <string name="block_rest_tail"></string>
 
-    <string name="block_random_head">pick random</string>
-    <string name="block_random_body_1">to</string>
+    <string name="block_random_head">随机选择</string>
+    <string name="block_random_body_1">到</string>
     <string name="block_random_tail"></string>
 
-    <string name="block_string_length_head">length of</string>
+    <string name="block_string_length_head">长度</string>
     <string name="block_string_length_tail"></string>
 
-    <string name="block_string_join_head">join</string>
-    <string name="block_string_join_body_1">and</string>
+    <string name="block_string_join_head">加入</string>
+    <string name="block_string_join_body_1">和</string>
     <string name="block_string_join_tail"></string>
 
-    <string name="block_string_index_head">index</string>
-    <string name="block_string_index_body_1">of</string>
+    <string name="block_string_index_head">指数</string>
+    <string name="block_string_index_body_1">在</string>
     <string name="block_string_index_tail"></string>
 
-    <string name="block_string_last_index_head">last index</string>
-    <string name="block_string_last_index_body_1">of</string>
+    <string name="block_string_last_index_head">最后的指数</string>
+    <string name="block_string_last_index_body_1">在</string>
     <string name="block_string_last_index_tail"></string>
 
     <string name="block_string_sub_head"></string>
-    <string name="block_string_sub_body_1">substring</string>
-    <string name="block_string_sub_body_2">to</string>
+    <string name="block_string_sub_body_1">截取字符串从</string>
+    <string name="block_string_sub_body_2">到</string>
     <string name="block_string_sub_tail"></string>
 
     <string name="block_string_equals_head"></string>
-    <string name="block_string_equals_body_1">equals</string>
+    <string name="block_string_equals_body_1">等于</string>
     <string name="block_string_equals_tail"></string>
 
     <string name="block_string_contains_head"></string>
-    <string name="block_string_contains_body_1">contains</string>
+    <string name="block_string_contains_body_1">包含</string>
     <string name="block_string_contains_tail"></string>
 
     <string name="block_string_replace_head"></string>
-    <string name="block_string_replace_body_1">replace all</string>
-    <string name="block_string_replace_body_2">with</string>
+    <string name="block_string_replace_body_1">替换所有 字符</string>
+    <string name="block_string_replace_body_2">替换成</string>
     <string name="block_string_replace_tail"></string>
 
     <string name="block_string_replace_first_head"></string>
-    <string name="block_string_replace_first_body_1">replace first RegEx</string>
-    <string name="block_string_replace_first_body_2">with</string>
+    <string name="block_string_replace_first_body_1">替换第一正则表达式</string>
+    <string name="block_string_replace_first_body_2">替换成</string>
     <string name="block_string_replace_first_tail"></string>
 
     <string name="block_string_replace_all_head"></string>
-    <string name="block_string_replace_all_body_1">replace all RegEx</string>
-    <string name="block_string_replace_all_body_2">with</string>
+    <string name="block_string_replace_all_body_1">替换所有正则表达式</string>
+    <string name="block_string_replace_all_body_2">替换成</string>
     <string name="block_string_replace_all_tail"></string>
 
-    <string name="block_to_number_head">toNumber</string>
+    <string name="block_to_number_head">到数字</string>
     <string name="block_to_number_tail"></string>
 
-    <string name="block_trim_head">trim</string>
+    <string name="block_trim_head">剪切</string>
     <string name="block_trim_tail"></string>
 
-    <string name="block_to_upper_case_head">toUpperCase</string>
+    <string name="block_to_upper_case_head">到大写</string>
     <string name="block_to_upper_case_tail"></string>
 
-    <string name="block_to_lower_case_head">toLowerCase</string>
+    <string name="block_to_lower_case_head">到小写</string>
     <string name="block_to_lower_case_tail"></string>
 
-    <string name="block_to_string_head">toString</string>
-    <string name="block_to_string_tail">without decimal</string>
+    <string name="block_to_string_head">到字符串</string>
+    <string name="block_to_string_tail">没有小数</string>
 
-    <string name="block_to_string_with_decimal_head">toString</string>
-    <string name="block_to_string_with_decimal_tail">with decimal</string>
+    <string name="block_to_string_with_decimal_head">到字符串</string>
+    <string name="block_to_string_with_decimal_tail">没有小数</string>
 
     <string name="block_to_string_format_head"></string>
-    <string name="block_to_string_format_body_1">toDecimalFormat</string>
+    <string name="block_to_string_format_body_1">到十进制格式</string>
     <string name="block_to_string_format_tail"></string>
 
-    <string name="block_add_source_directly_head">add source directly</string>
+    <string name="block_add_source_directly_head">直接添加资源</string>
     <string name="block_add_source_directly_tail"></string>
 
-    <string name="block_math_get_dip_head">getDip</string>
+    <string name="block_math_get_dip_head">取Dip</string>
     <string name="block_math_get_dip_tail"></string>
 
-    <string name="block_math_get_display_width_head">getDisplayWidthPixels</string>
+    <string name="block_math_get_display_width_head">取显示宽度像素</string>
     <string name="block_math_get_display_width_tail"></string>
 
-    <string name="block_math_get_display_height_head">getDisplayHeightPixels</string>
+    <string name="block_math_get_display_height_head">取显示高度像素</string>
     <string name="block_math_get_display_height_tail"></string>
 
     <string name="block_math_pi_head">PI(π)</string>
@@ -1707,559 +1707,559 @@
     <string name="block_math_pow_body_1">to the</string>
     <string name="block_math_pow_tail">power</string>
 
-    <string name="block_math_min_head">minimum of</string>
-    <string name="block_math_min_body_1">and</string>
+    <string name="block_math_min_head">最小</string>
+    <string name="block_math_min_body_1">和</string>
     <string name="block_math_min_tail"></string>
 
-    <string name="block_math_max_head">maximum of</string>
-    <string name="block_math_max_body_1">and</string>
+    <string name="block_math_max_head">最大</string>
+    <string name="block_math_max_body_1">和</string>
     <string name="block_math_max_tail"></string>
 
-    <string name="block_math_sqrt_head">square root of</string>
+    <string name="block_math_sqrt_head">平方根</string>
     <string name="block_math_sqrt_tail"></string>
 
-    <string name="block_math_abs_head">absolute value of</string>
+    <string name="block_math_abs_head">绝对值</string>
     <string name="block_math_abs_tail"></string>
 
-    <string name="block_math_round_head">round</string>
+    <string name="block_math_round_head">四舍五入-round</string>
     <string name="block_math_round_tail"></string>
 
-    <string name="block_math_ceil_head">ceil</string>
+    <string name="block_math_ceil_head">上取整-ceil</string>
     <string name="block_math_ceil_tail"></string>
 
-    <string name="block_math_floor_head">floor</string>
+    <string name="block_math_floor_head">下取整-floor</string>
     <string name="block_math_floor_tail"></string>
 
-    <string name="block_math_sin_head">sin</string>
+    <string name="block_math_sin_head">正弦-sin</string>
     <string name="block_math_sin_tail"></string>
 
-    <string name="block_math_cos_head">cos</string>
+    <string name="block_math_cos_head">余弦-cos</string>
     <string name="block_math_cos_tail"></string>
 
-    <string name="block_math_tan_head">tan</string>
+    <string name="block_math_tan_head">正切-tan</string>
     <string name="block_math_tan_tail"></string>
 
-    <string name="block_math_asin_head">arcsin</string>
+    <string name="block_math_asin_head">反正弦-arcsin</string>
     <string name="block_math_asin_tail"></string>
 
-    <string name="block_math_acos_head">arccos</string>
+    <string name="block_math_acos_head">反余弦arccos</string>
     <string name="block_math_acos_tail"></string>
 
-    <string name="block_math_atan_head">arctan</string>
+    <string name="block_math_atan_head">反正切arctan</string>
     <string name="block_math_atan_tail"></string>
 
-    <string name="block_math_exp_head">exp</string>
+    <string name="block_math_exp_head">指数-exp</string>
     <string name="block_math_exp_tail"></string>
 
-    <string name="block_math_log_head">ln</string>
+    <string name="block_math_log_head">自然对数-ln</string>
     <string name="block_math_log_tail"></string>
 
-    <string name="block_math_log10_head">log</string>
+    <string name="block_math_log10_head">对数-log</string>
     <string name="block_math_log10_tail"></string>
 
-    <string name="block_math_to_radian_head">Degree</string>
-    <string name="block_math_to_radian_tail">to Radian</string>
+    <string name="block_math_to_radian_head">角度-Degree</string>
+    <string name="block_math_to_radian_tail">到弧度-Radian</string>
 
-    <string name="block_math_to_degree_head">Radian</string>
-    <string name="block_math_to_degree_tail">to Degree</string>
+    <string name="block_math_to_degree_head">弧度-Radian</string>
+    <string name="block_math_to_degree_tail">到角度Degree</string>
 
-    <string name="block_view_on_click_head">When</string>
-    <string name="block_view_on_click_tail">clicked</string>
+    <string name="block_view_on_click_head">当</string>
+    <string name="block_view_on_click_tail">点击</string>
 
-    <string name="block_set_enable_head"></string>
-    <string name="block_set_enable_body_1">setEnable</string>
+    <string name="block_set_enable_head">设</string>
+    <string name="block_set_enable_body_1">是否启用为</string>
     <string name="block_set_enable_tail"></string>
 
-    <string name="block_get_enable_head"></string>
-    <string name="block_get_enable_tail">getEnable</string>
+    <string name="block_get_enable_head">取</string>
+    <string name="block_get_enable_tail">是否启用</string>
 
-    <string name="block_set_visible_head"></string>
-    <string name="block_set_visible_body_1">setVisible</string>
+    <string name="block_set_visible_head">设</string>
+    <string name="block_set_visible_body_1">可见性为</string>
     <string name="block_set_visible_tail"></string>
 
-    <string name="block_set_clickable_head"></string>
-    <string name="block_set_clickable_body_1">setClickable</string>
+    <string name="block_set_clickable_head">设</string>
+    <string name="block_set_clickable_body_1">是否可点击为</string>
     <string name="block_set_clickable_tail"></string>
 
-    <string name="block_set_text_head"></string>
-    <string name="block_set_text_body_1">setText</string>
+    <string name="block_set_text_head">设</string>
+    <string name="block_set_text_body_1">文本为</string>
     <string name="block_set_text_tail"></string>
 
-    <string name="block_get_text_head"></string>
-    <string name="block_get_text_tail">getText</string>
+    <string name="block_get_text_head">取</string>
+    <string name="block_get_text_tail">文本</string>
 
-    <string name="block_set_bg_color_head"></string>
-    <string name="block_set_bg_color_body_1">setBackgroundColor</string>
+    <string name="block_set_bg_color_head">设</string>
+    <string name="block_set_bg_color_body_1">背景颜色为</string>
     <string name="block_set_bg_color_tail"></string>
 
-    <string name="block_set_bg_resource_head"></string>
-    <string name="block_set_bg_resource_body_1">setBackgroundResource</string>
+    <string name="block_set_bg_resource_head">设</string>
+    <string name="block_set_bg_resource_body_1">背景资源为</string>
     <string name="block_set_bg_resource_tail"></string>
 
-    <string name="block_set_text_color_head"></string>
-    <string name="block_set_text_color_body_1">setTextColor</string>
+    <string name="block_set_text_color_head">设</string>
+    <string name="block_set_text_color_body_1">文本颜色为</string>
     <string name="block_set_text_color_tail"></string>
 
-    <string name="block_set_image_head"></string>
-    <string name="block_set_image_body_1">setImage</string>
+    <string name="block_set_image_head">设</string>
+    <string name="block_set_image_body_1">图片为</string>
     <string name="block_set_image_tail"></string>
 
-    <string name="block_set_color_filter_head"></string>
-    <string name="block_set_color_filter_body_1">setColorFilter</string>
+    <string name="block_set_color_filter_head">设</string>
+    <string name="block_set_color_filter_body_1">颜色过滤器为</string>
     <string name="block_set_color_filter_tail"></string>
 
-    <string name="block_set_rotate_head"></string>
-    <string name="block_set_rotate_body_1">setRotation</string>
+    <string name="block_set_rotate_head">设</string>
+    <string name="block_set_rotate_body_1">旋转值为</string>
     <string name="block_set_rotate_tail"></string>
 
-    <string name="block_get_rotate_head"></string>
-    <string name="block_get_rotate_tail">getRotation</string>
+    <string name="block_get_rotate_head">取</string>
+    <string name="block_get_rotate_tail">选择值</string>
 
-    <string name="block_set_alpha_head"></string>
-    <string name="block_set_alpha_body_1">setAlpha</string>
+    <string name="block_set_alpha_head">设</string>
+    <string name="block_set_alpha_body_1">透明度为</string>
     <string name="block_set_alpha_tail"></string>
 
-    <string name="block_get_alpha_head"></string>
-    <string name="block_get_alpha_tail">getAlpha</string>
+    <string name="block_get_alpha_head">取</string>
+    <string name="block_get_alpha_tail">透明度</string>
 
-    <string name="block_set_translation_x_head"></string>
-    <string name="block_set_translation_x_body_1">setTranslationX</string>
+    <string name="block_set_translation_x_head">设</string>
+    <string name="block_set_translation_x_body_1">位移X</string>
     <string name="block_set_translation_x_tail"></string>
 
-    <string name="block_get_translation_x_head"></string>
-    <string name="block_get_translation_x_tail">getTranslationX</string>
+    <string name="block_get_translation_x_head">取</string>
+    <string name="block_get_translation_x_tail">位移X</string>
 
-    <string name="block_set_translation_y_head"></string>
-    <string name="block_set_translation_y_body_1">setTranslationY</string>
+    <string name="block_set_translation_y_head">设</string>
+    <string name="block_set_translation_y_body_1">位移Y</string>
     <string name="block_set_translation_y_tail"></string>
 
-    <string name="block_get_translation_y_head"></string>
-    <string name="block_get_translation_y_tail">getTranslationY</string>
+    <string name="block_get_translation_y_head">取</string>
+    <string name="block_get_translation_y_tail">位移Y</string>
 
-    <string name="block_set_scale_x_head"></string>
-    <string name="block_set_scale_x_body_1">setScaleX</string>
+    <string name="block_set_scale_x_head">设</string>
+    <string name="block_set_scale_x_body_1">尺度X</string>
     <string name="block_set_scale_x_tail"></string>
 
-    <string name="block_get_scale_x_head"></string>
-    <string name="block_get_scale_x_tail">getScaleX</string>
+    <string name="block_get_scale_x_head">取</string>
+    <string name="block_get_scale_x_tail">尺度X</string>
 
-    <string name="block_set_scale_y_head"></string>
-    <string name="block_set_scale_y_body_1">setScaleY</string>
+    <string name="block_set_scale_y_head">设</string>
+    <string name="block_set_scale_y_body_1">尺度Y</string>
     <string name="block_set_scale_y_tail"></string>
 
-    <string name="block_get_scale_y_head"></string>
-    <string name="block_get_scale_y_tail">getScaleY</string>
+    <string name="block_get_scale_y_head">取</string>
+    <string name="block_get_scale_y_tail">尺度Y</string>
 
-    <string name="block_set_checked_head"></string>
-    <string name="block_set_checked_body_1">setChecked</string>
+    <string name="block_set_checked_head">设</string>
+    <string name="block_set_checked_body_1">选中</string>
     <string name="block_set_checked_tail"></string>
 
-    <string name="block_get_checked_head"></string>
-    <string name="block_get_checked_tail">getChecked</string>
+    <string name="block_get_checked_head">取</string>
+    <string name="block_get_checked_tail">选中</string>
 
-    <string name="block_set_thumb_resource_head"></string>
-    <string name="block_set_thumb_resource_body_1">setThumbResource</string>
+    <string name="block_set_thumb_resource_head">设</string>
+    <string name="block_set_thumb_resource_body_1">母资源</string>
     <string name="block_set_thumb_resource_tail"></string>
 
-    <string name="block_set_track_resource_head"></string>
-    <string name="block_set_track_resource_body_1">setTrackResource</string>
+    <string name="block_set_track_resource_head">设</string>
+    <string name="block_set_track_resource_body_1">跟踪资源</string>
     <string name="block_set_track_resource_tail"></string>
 
-    <string name="block_list_set_data_head"></string>
-    <string name="block_list_set_data_body_1">setListViewData</string>
+    <string name="block_list_set_data_head">列表</string>
+    <string name="block_list_set_data_body_1">设列表视图数据</string>
     <string name="block_list_set_data_tail"></string>
 
-    <string name="block_list_set_custom_view_data_head"></string>
-    <string name="block_list_set_custom_view_data_body_1">setListCustomViewData</string>
+    <string name="block_list_set_custom_view_data_head">列表</string>
+    <string name="block_list_set_custom_view_data_body_1">设列表自定义数据</string>
     <string name="block_list_set_custom_view_data_tail"></string>
 
-    <string name="block_spn_set_data_head"></string>
-    <string name="block_spn_set_data_body_1">setSpinnerData</string>
+    <string name="block_spn_set_data_head">下拉框</string>
+    <string name="block_spn_set_data_body_1">设微调数据</string>
     <string name="block_spn_set_data_tail"></string>
 
-    <string name="block_spn_set_selection_head"></string>
-    <string name="block_spn_set_selection_body_1">setSelection</string>
+    <string name="block_spn_set_selection_head">下拉框</string>
+    <string name="block_spn_set_selection_body_1">设选择</string>
     <string name="block_spn_set_selection_tail"></string>
 
-    <string name="block_spn_get_selection_head"></string>
-    <string name="block_spn_get_selection_tail">getSelection</string>
+    <string name="block_spn_get_selection_head">下拉框</string>
+    <string name="block_spn_get_selection_tail">取选择</string>
 
-    <string name="block_seekbar_set_progress_head"></string>
-    <string name="block_seekbar_set_progress_body_1">setProgress</string>
+    <string name="block_seekbar_set_progress_head">拖动条</string>
+    <string name="block_seekbar_set_progress_body_1">设进度</string>
     <string name="block_seekbar_set_progress_tail"></string>
 
-    <string name="block_seekbar_get_progress_head"></string>
-    <string name="block_seekbar_get_progress_tail">getProgress</string>
+    <string name="block_seekbar_get_progress_head">拖动条</string>
+    <string name="block_seekbar_get_progress_tail">取进度</string>
 
-    <string name="block_seekbar_set_max_head"></string>
-    <string name="block_seekbar_set_max_body_1">setMax</string>
+    <string name="block_seekbar_set_max_head">拖动条</string>
+    <string name="block_seekbar_set_max_body_1">设最大值</string>
     <string name="block_seekbar_set_max_tail"></string>
 
-    <string name="block_seekbar_get_max_head"></string>
-    <string name="block_seekbar_get_max_tail">getMax</string>
+    <string name="block_seekbar_get_max_head">拖动条</string>
+    <string name="block_seekbar_get_max_tail">取最大值</string>
 
-    <string name="block_list_refresh_head"></string>
-    <string name="block_list_refresh_tail">refreshData</string>
+    <string name="block_list_refresh_head">列表</string>
+    <string name="block_list_refresh_tail">重载新数据</string>
 
 
-    <string name="block_spn_refresh_head"></string>
-    <string name="block_spn_refresh_tail">refreshData</string>
+    <string name="block_spn_refresh_head">下拉框</string>
+    <string name="block_spn_refresh_tail">重载新数据</string>
 
-    <string name="block_webview_load_url_head"></string>
-    <string name="block_webview_load_url_body_1">loadUrl</string>
+    <string name="block_webview_load_url_head">webview</string>
+    <string name="block_webview_load_url_body_1">加载Url</string>
     <string name="block_webview_load_url_tail"></string>
 
-    <string name="block_webview_get_url_head"></string>
-    <string name="block_webview_get_url_tail">getUrl</string>
+    <string name="block_webview_get_url_head">webview</string>
+    <string name="block_webview_get_url_tail">取Url</string>
 
-    <string name="block_webview_set_cache_mode_head"></string>
-    <string name="block_webview_set_cache_mode_body_1">setCacheMode</string>
+    <string name="block_webview_set_cache_mode_head">webview</string>
+    <string name="block_webview_set_cache_mode_body_1">设缓存模式</string>
     <string name="block_webview_set_cache_mode_tail"></string>
 
-    <string name="block_webview_can_go_back_head"></string>
-    <string name="block_webview_can_go_back_tail">canGoBack</string>
+    <string name="block_webview_can_go_back_head">webview</string>
+    <string name="block_webview_can_go_back_tail">可后退</string>
 
-    <string name="block_webview_can_go_forward_head"></string>
-    <string name="block_webview_can_go_forward_tail">canGoForward</string>
+    <string name="block_webview_can_go_forward_head">webview</string>
+    <string name="block_webview_can_go_forward_tail">可前进</string>
 
-    <string name="block_webview_go_back_head"></string>
-    <string name="block_webview_go_back_tail">goBack</string>
+    <string name="block_webview_go_back_head">webview</string>
+    <string name="block_webview_go_back_tail">后退</string>
 
     <string name="block_webview_go_forward_head"></string>
-    <string name="block_webview_go_forward_tail">goForward</string>
+    <string name="block_webview_go_forward_tail">前进</string>
 
-    <string name="block_webview_clear_cache_head"></string>
-    <string name="block_webview_clear_cache_tail">clearCache</string>
+    <string name="block_webview_clear_cache_head">webview</string>
+    <string name="block_webview_clear_cache_tail">清理缓存</string>
 
-    <string name="block_webview_clear_history_head"></string>
-    <string name="block_webview_clear_history_tail">clearHistory</string>
+    <string name="block_webview_clear_history_head">webview</string>
+    <string name="block_webview_clear_history_tail">清理历史</string>
 
-    <string name="block_webview_stop_loading_head"></string>
-    <string name="block_webview_stop_loading_tail">stopLoading</string>
+    <string name="block_webview_stop_loading_head">webview</string>
+    <string name="block_webview_stop_loading_tail">停止加载</string>
 
-    <string name="block_webview_zoom_in_head"></string>
-    <string name="block_webview_zoom_in_tail">zoomIn</string>
+    <string name="block_webview_zoom_in_head">webview</string>
+    <string name="block_webview_zoom_in_tail">放大</string>
 
-    <string name="block_webview_zoom_out_head"></string>
-    <string name="block_webview_zoom_out_tail">zoomOut</string>
+    <string name="block_webview_zoom_out_head">webview</string>
+    <string name="block_webview_zoom_out_tail">缩小</string>
 
-    <string name="block_intent_set_action_head"></string>
-    <string name="block_intent_set_action_body_1">setAction</string>
+    <string name="block_intent_set_action_head">intent</string>
+    <string name="block_intent_set_action_body_1">设Action</string>
     <string name="block_intent_set_action_tail"></string>
 
-    <string name="block_intent_set_data_head"></string>
-    <string name="block_intent_set_data_body_1">setData</string>
+    <string name="block_intent_set_data_head">intent</string>
+    <string name="block_intent_set_data_body_1">设Data</string>
     <string name="block_intent_set_data_tail"></string>
 
-    <string name="block_intent_set_screen_head"></string>
-    <string name="block_intent_set_screen_body_1">setScreen</string>
+    <string name="block_intent_set_screen_head">intent</string>
+    <string name="block_intent_set_screen_body_1">设Screen</string>
     <string name="block_intent_set_screen_tail"></string>
 
-    <string name="block_intent_put_extra_head"></string>
-    <string name="block_intent_put_extra_body_1">putExtra key</string>
-    <string name="block_intent_put_extra_body_2">value</string>
+    <string name="block_intent_put_extra_head">intent</string>
+    <string name="block_intent_put_extra_body_1">放置额外 key</string>
+    <string name="block_intent_put_extra_body_2">值</string>
     <string name="block_intent_put_extra_tail"></string>
 
-    <string name="block_intent_set_flags_head"></string>
-    <string name="block_intent_set_flags_body_1">setFlags</string>
+    <string name="block_intent_set_flags_head">intent</string>
+    <string name="block_intent_set_flags_body_1">设Flags</string>
     <string name="block_intent_set_flags_tail"></string>
 
-    <string name="block_start_activity_head">StartActivity</string>
+    <string name="block_start_activity_head">开启Activity</string>
     <string name="block_start_activity_tail"></string>
 
-    <string name="block_intent_get_string_head">Activity getExtra key</string>
+    <string name="block_intent_get_string_head">Activity 取额外 key</string>
     <string name="block_intent_get_string_tail"></string>
 
-    <string name="block_finish_activity_head">Finish</string>
+    <string name="block_finish_activity_head">完成</string>
     <string name="block_finish_activity_tail">Activity</string>
 
-    <string name="block_file_get_data_head"></string>
-    <string name="block_file_get_data_body_1">getData key</string>
+    <string name="block_file_get_data_head">文件</string>
+    <string name="block_file_get_data_body_1">取数据 key</string>
     <string name="block_file_get_data_tail"></string>
 
-    <string name="block_file_set_data_head"></string>
-    <string name="block_file_set_data_body_1">setData key</string>
-    <string name="block_file_set_data_body_2">value</string>
+    <string name="block_file_set_data_head">文件</string>
+    <string name="block_file_set_data_body_1">设数据 key</string>
+    <string name="block_file_set_data_body_2">值</string>
     <string name="block_file_set_data_tail"></string>
 
-    <string name="block_file_remove_data_head"></string>
-    <string name="block_file_remove_data_body_1">removeData key</string>
-    <string name="block_file_remove_data_tail"></string>
+    <string name="block_file_remove_data_head">文件</string>
+    <string name="block_file_remove_data_body_1">在元素上移除存放的数据 key</string>
+    <string name="block_file_remove_data_tail">文件</string>
 
-    <string name="block_calendar_get_now_head"></string>
-    <string name="block_calendar_get_now_tail">getNow</string>
+    <string name="block_calendar_get_now_head">日历</string>
+    <string name="block_calendar_get_now_tail">取现在</string>
 
-    <string name="block_calendar_add_head"></string>
-    <string name="block_calendar_add_body_1">add</string>
-    <string name="block_calendar_add_body_2">value</string>
+    <string name="block_calendar_add_head">日历</string>
+    <string name="block_calendar_add_body_1">添加</string>
+    <string name="block_calendar_add_body_2">值</string>
     <string name="block_calendar_add_tail"></string>
 
-    <string name="block_calendar_set_head"></string>
-    <string name="block_calendar_set_body_1">set</string>
-    <string name="block_calendar_set_body_2">value</string>
+    <string name="block_calendar_set_head">日历</string>
+    <string name="block_calendar_set_body_1">设置</string>
+    <string name="block_calendar_set_body_2">值</string>
     <string name="block_calendar_set_tail"></string>
 
-    <string name="block_calendar_format_head"></string>
-    <string name="block_calendar_format_body_1">Format</string>
+    <string name="block_calendar_format_head">日历</string>
+    <string name="block_calendar_format_body_1">格式</string>
     <string name="block_calendar_format_tail"></string>
 
-    <string name="block_calendar_diff_head">Difference</string>
+    <string name="block_calendar_diff_head">日历 差异</string>
     <string name="block_calendar_diff_body_1">-</string>
     <string name="block_calendar_diff_tail"></string>
 
     <string name="block_vibrator_action_head"></string>
-    <string name="block_vibrator_action_body_1">vibrate for</string>
+    <string name="block_vibrator_action_body_1">震动-vibrate for</string>
     <string name="block_vibrator_action_tail">ms</string>
 
     <string name="block_timer_after_head"></string>
-    <string name="block_timer_after_body_1">after</string>
+    <string name="block_timer_after_body_1">然后</string>
     <string name="block_timer_after_tail">ms</string>
 
-    <string name="block_timer_every_head"></string>
-    <string name="block_timer_every_body_1">after</string>
-    <string name="block_timer_every_body_2">ms for every</string>
+    <string name="block_timer_every_head">定时器</string>
+    <string name="block_timer_every_body_1">然后</string>
+    <string name="block_timer_every_body_2">ms for 每一个</string>
     <string name="block_timer_every_tail">ms</string>
 
-    <string name="block_timer_cancel_head"></string>
-    <string name="block_timer_cancel_tail">cancel</string>
+    <string name="block_timer_cancel_head">定时器</string>
+    <string name="block_timer_cancel_tail">后退</string>
 
-    <string name="block_dialog_set_title_head"></string>
-    <string name="block_dialog_set_title_body_1">set title</string>
+    <string name="block_dialog_set_title_head">对话框</string>
+    <string name="block_dialog_set_title_body_1">设标题</string>
     <string name="block_dialog_set_title_tail"></string>
 
-    <string name="block_dialog_set_message_head"></string>
-    <string name="block_dialog_set_message_body_1">set message</string>
+    <string name="block_dialog_set_message_head">对话框</string>
+    <string name="block_dialog_set_message_body_1">设消息</string>
     <string name="block_dialog_set_message_tail"></string>
 
-    <string name="block_dialog_show_head"></string>
-    <string name="block_dialog_show_tail">show</string>
+    <string name="block_dialog_show_head">对话框</string>
+    <string name="block_dialog_show_tail">显示</string>
 
-    <string name="block_dialog_dismiss_head"></string>
-    <string name="block_dialog_dismiss_tail">dismiss</string>
+    <string name="block_dialog_dismiss_head">对话框</string>
+    <string name="block_dialog_dismiss_tail">解散-dismiss</string>
 
-    <string name="block_dialog_ok_button_head"></string>
-    <string name="block_dialog_ok_button_body_1">OK Button</string>
-    <string name="block_dialog_ok_button_tail">Clicked</string>
+    <string name="block_dialog_ok_button_head">对话框</string>
+    <string name="block_dialog_ok_button_body_1">OK 按钮</string>
+    <string name="block_dialog_ok_button_tail">点击</string>
 
-    <string name="block_dialog_cancel_button_head"></string>
-    <string name="block_dialog_cancel_button_body_1">Cancel Button</string>
-    <string name="block_dialog_cancel_button_tail">Clicked</string>
+    <string name="block_dialog_cancel_button_head">对话框</string>
+    <string name="block_dialog_cancel_button_body_1">取消 按钮</string>
+    <string name="block_dialog_cancel_button_tail">点击</string>
 
-    <string name="block_dialog_neutral_button_head"></string>
-    <string name="block_dialog_neutral_button_body_1">Neutral Button</string>
-    <string name="block_dialog_neutral_button_tail">Clicked</string>
+    <string name="block_dialog_neutral_button_head">对话框</string>
+    <string name="block_dialog_neutral_button_body_1">中立按钮</string>
+    <string name="block_dialog_neutral_button_tail">点击</string>
 
-    <string name="block_mediaplayer_create_head"></string>
-    <string name="block_mediaplayer_create_body_1">create</string>
+    <string name="block_mediaplayer_create_head">媒体播放</string>
+    <string name="block_mediaplayer_create_body_1">创建-create</string>
     <string name="block_mediaplayer_create_tail"></string>
 
-    <string name="block_mediaplayer_start_head"></string>
-    <string name="block_mediaplayer_start_tail">start</string>
+    <string name="block_mediaplayer_start_head">媒体播放</string>
+    <string name="block_mediaplayer_start_tail">开始</string>
 
-    <string name="block_mediaplayer_pause_head"></string>
-    <string name="block_mediaplayer_pause_tail">pause</string>
+    <string name="block_mediaplayer_pause_head">媒体播放</string>
+    <string name="block_mediaplayer_pause_tail">暂停</string>
 
-    <string name="block_mediaplayer_seek_head"></string>
-    <string name="block_mediaplayer_seek_body_1">seek to</string>
+    <string name="block_mediaplayer_seek_head">媒体播放</string>
+    <string name="block_mediaplayer_seek_body_1">寻找到</string>
     <string name="block_mediaplayer_seek_tail"></string>
 
-    <string name="block_mediaplayer_get_current_head"></string>
-    <string name="block_mediaplayer_get_current_tail">get current duration</string>
+    <string name="block_mediaplayer_get_current_head">媒体播放</string>
+    <string name="block_mediaplayer_get_current_tail">取当前时间</string>
 
-    <string name="block_mediaplayer_get_duration_head"></string>
-    <string name="block_mediaplayer_get_duration_tail">get song duration</string>
+    <string name="block_mediaplayer_get_duration_head">媒体播放</string>
+    <string name="block_mediaplayer_get_duration_tail">取歌曲持续时间</string>
 
-    <string name="block_mediaplayer_reset_head"></string>
-    <string name="block_mediaplayer_reset_tail">reset</string>
+    <string name="block_mediaplayer_reset_head">媒体播放</string>
+    <string name="block_mediaplayer_reset_tail">复位</string>
 
-    <string name="block_mediaplayer_release_head"></string>
-    <string name="block_mediaplayer_release_tail">release</string>
+    <string name="block_mediaplayer_release_head">媒体播放</string>
+    <string name="block_mediaplayer_release_tail">释放</string>
 
-    <string name="block_mediaplayer_is_playing_head"></string>
-    <string name="block_mediaplayer_is_playing_tail">is playing</string>
+    <string name="block_mediaplayer_is_playing_head">媒体播放</string>
+    <string name="block_mediaplayer_is_playing_tail">是否在播放</string>
 
-    <string name="block_mediaplayer_set_looping_head"></string>
-    <string name="block_mediaplayer_set_looping_body_1">set looping</string>
+    <string name="block_mediaplayer_set_looping_head">媒体播放</string>
+    <string name="block_mediaplayer_set_looping_body_1">设循环</string>
     <string name="block_mediaplayer_set_looping_tail"></string>
 
-    <string name="block_mediaplayer_is_looping_head"></string>
-    <string name="block_mediaplayer_is_looping_tail">is looping</string>
+    <string name="block_mediaplayer_is_looping_head">媒体播放</string>
+    <string name="block_mediaplayer_is_looping_tail">是循环的</string>
 
-    <string name="block_soundpool_create_head"></string>
-    <string name="block_soundpool_create_body_1">create max stream count</string>
+    <string name="block_soundpool_create_head">soundpool</string>
+    <string name="block_soundpool_create_body_1">创建最大流的数量</string>
     <string name="block_soundpool_create_tail"></string>
 
-    <string name="block_soundpool_load_head">SoundID : </string>
-    <string name="block_soundpool_load_body_1">load</string>
+    <string name="block_soundpool_load_head">soundpool声音 ID:</string>
+    <string name="block_soundpool_load_body_1">加载</string>
     <string name="block_soundpool_load_tail"></string>
 
-    <string name="block_soundpool_stream_play_head">StreamID : </string>
-    <string name="block_soundpool_stream_play_body_1">play Sound ID</string>
+    <string name="block_soundpool_stream_play_head">soundpool流ID : </string>
+    <string name="block_soundpool_stream_play_body_1">播放声音 ID:</string>
     <string name="block_soundpool_stream_play_body_2">1 +</string>
-    <string name="block_soundpool_stream_play_tail">times</string>
+    <string name="block_soundpool_stream_play_tail">倍</string>
 
-    <string name="block_soundpool_stream_stop_head"></string>
-    <string name="block_soundpool_stream_stop_body_1">stop stream ID</string>
+    <string name="block_soundpool_stream_stop_head">soundpool</string>
+    <string name="block_soundpool_stream_stop_body_1">停止流 ID:</string>
     <string name="block_soundpool_stream_stop_tail"></string>
 
-    <string name="block_objectanimator_set_target_head"></string>
-    <string name="block_objectanimator_set_target_body_1">set target</string>
+    <string name="block_objectanimator_set_target_head">动画</string>
+    <string name="block_objectanimator_set_target_body_1">设目标为</string>
     <string name="block_objectanimator_set_target_tail"></string>
 
-    <string name="block_objectanimator_set_property_head"></string>
-    <string name="block_objectanimator_set_property_body_1">set property</string>
+    <string name="block_objectanimator_set_property_head">动画</string>
+    <string name="block_objectanimator_set_property_body_1">设属性为</string>
     <string name="block_objectanimator_set_property_tail"></string>
 
-    <string name="block_objectanimator_set_value_head"></string>
-    <string name="block_objectanimator_set_value_body_1">set value</string>
+    <string name="block_objectanimator_set_value_head">动画</string>
+    <string name="block_objectanimator_set_value_body_1">设值为</string>
     <string name="block_objectanimator_set_value_tail"></string>
 
-    <string name="block_objectanimator_set_from_to_head"></string>
-    <string name="block_objectanimator_set_from_to_body_1">set values from</string>
-    <string name="block_objectanimator_set_from_to_body_2">to</string>
+    <string name="block_objectanimator_set_from_to_head">动画</string>
+    <string name="block_objectanimator_set_from_to_body_1">设定值 从</string>
+    <string name="block_objectanimator_set_from_to_body_2">到</string>
     <string name="block_objectanimator_set_from_to_tail"></string>
 
-    <string name="block_objectanimator_set_duration_head"></string>
-    <string name="block_objectanimator_set_duration_body_1">set duration</string>
+    <string name="block_objectanimator_set_duration_head">动画</string>
+    <string name="block_objectanimator_set_duration_body_1">设时间为</string>
     <string name="block_objectanimator_set_duration_tail"></string>
 
-    <string name="block_objectanimator_set_repeat_mode_head"></string>
-    <string name="block_objectanimator_set_repeat_mode_body_1">set repeat mode</string>
-    <string name="block_objectanimator_set_repeat_mode_tail"></string>
+    <string name="block_objectanimator_set_repeat_mode_head">动画</string>
+    <string name="block_objectanimator_set_repeat_mode_body_1">设重复模式为</string>
+    <string name="block_objectanimator_set_repeat_mode_tail">动画</string>
 
-    <string name="block_objectanimator_set_repeat_count_head"></string>
-    <string name="block_objectanimator_set_repeat_count_body_1">set repeat count</string>
-    <string name="block_objectanimator_set_repeat_count_tail"></string>
+    <string name="block_objectanimator_set_repeat_count_head">动画</string>
+    <string name="block_objectanimator_set_repeat_count_body_1">设重复计数为</string>
+    <string name="block_objectanimator_set_repeat_count_tail">动画</string>
 
-    <string name="block_objectanimator_set_interpolator_head"></string>
-    <string name="block_objectanimator_set_interpolator_body_1">set interpolator</string>
-    <string name="block_objectanimator_set_interpolator_tail"></string>
+    <string name="block_objectanimator_set_interpolator_head">动画</string>
+    <string name="block_objectanimator_set_interpolator_body_1">设插值器为</string>
+    <string name="block_objectanimator_set_interpolator_tail">动画</string>
 
-    <string name="block_objectanimator_start_head"></string>
-    <string name="block_objectanimator_start_tail">start</string>
+    <string name="block_objectanimator_start_head">动画</string>
+    <string name="block_objectanimator_start_tail">开始</string>
 
-    <string name="block_objectanimator_cancel_head"></string>
-    <string name="block_objectanimator_cancel_tail">cancel</string>
+    <string name="block_objectanimator_cancel_head">动画</string>
+    <string name="block_objectanimator_cancel_tail">后退</string>
 
-    <string name="block_objectanimator_is_running_head"></string>
-    <string name="block_objectanimator_is_running_tail">is running</string>
+    <string name="block_objectanimator_is_running_head">动画</string>
+    <string name="block_objectanimator_is_running_tail">是在运行</string>
 
-    <string name="block_do_toast_head">Toast</string>
+    <string name="block_do_toast_head">Toast提示</string>
     <string name="block_do_toast_tail"></string>
 
-    <string name="block_copy_to_clipboard_head">copyToClipboard</string>
+    <string name="block_copy_to_clipboard_head">复制到剪贴板</string>
     <string name="block_copy_to_clipboard_tail"></string>
 
-    <string name="block_set_title_head">Activity set title</string>
+    <string name="block_set_title_head">Activity 设标题</string>
     <string name="block_set_title_tail"></string>
 
 
-    <string name="block_calendarview_get_date_head"></string>
-    <string name="block_calendarview_get_date_tail">getDate(ms)</string>
+    <string name="block_calendarview_get_date_head">日历视图</string>
+    <string name="block_calendarview_get_date_tail">取日期(ms)</string>
 
-    <string name="block_calendarview_set_date_head"></string>
-    <string name="block_calendarview_set_date_body_1">setDate</string>
+    <string name="block_calendarview_set_date_head">日历视图</string>
+    <string name="block_calendarview_set_date_body_1">设日期</string>
     <string name="block_calendarview_set_date_tail">ms</string>
 
-    <string name="block_calendarview_set_min_date_head"></string>
-    <string name="block_calendarview_set_min_date_body_1">setMinDate</string>
+    <string name="block_calendarview_set_min_date_head">日历视图</string>
+    <string name="block_calendarview_set_min_date_body_1">设最小日期</string>
     <string name="block_calendarview_set_min_date_tail">ms</string>
 
-    <string name="block_calendarview_set_max_date_head"></string>
-    <string name="block_calendarview_set_max_date_body_1">setMaxDate</string>
+    <string name="block_calendarview_set_max_date_head">日历视图</string>
+    <string name="block_calendarview_set_max_date_body_1">设最小日期</string>
     <string name="block_calendarview_set_max_date_tail">ms</string>
 
-    <string name="block_calendar_get_time_head"></string>
-    <string name="block_calendar_get_time_tail">getTime(ms)</string>
+    <string name="block_calendar_get_time_head">日历</string>
+    <string name="block_calendar_get_time_tail">取时间(ms)</string>
 
-    <string name="block_calendar_set_time_head"></string>
-    <string name="block_calendar_set_time_body_1">setTime</string>
+    <string name="block_calendar_set_time_head">日历</string>
+    <string name="block_calendar_set_time_body_1">设时间</string>
     <string name="block_calendar_set_time_tail">ms</string>
 
     <string name="block_firebase_add_head"></string>
-    <string name="block_firebase_add_body_1">add key</string>
-    <string name="block_firebase_add_body_2">value</string>
+    <string name="block_firebase_add_body_1">添加 key</string>
+    <string name="block_firebase_add_body_2">值:</string>
     <string name="block_firebase_add_tail"></string>
 
     <string name="block_firebase_push_head"></string>
-    <string name="block_firebase_push_body_1">push value</string>
+    <string name="block_firebase_push_body_1">push 值:</string>
     <string name="block_firebase_push_tail"></string>
 
-    <string name="block_firebase_delete_head"></string>
-    <string name="block_firebase_delete_body_1">delete key</string>
+    <string name="block_firebase_delete_head">删除</string>
+    <string name="block_firebase_delete_body_1">key</string>
     <string name="block_firebase_delete_tail"></string>
 
-    <string name="block_firebase_get_children_head"></string>
-    <string name="block_firebase_get_children_body_1">get children to</string>
-    <string name="block_firebase_get_children_tail">then</string>
+    <string name="block_firebase_get_children_head">取</string>
+    <string name="block_firebase_get_children_body_1">children到</string>
+    <string name="block_firebase_get_children_tail">然后</string>
 
 
     <string name="block_str_to_map_head">Json</string>
-    <string name="block_str_to_map_body_1">to</string>
+    <string name="block_str_to_map_body_1">到</string>
     <string name="block_str_to_map_tail"></string>
 
     <string name="block_map_to_str_head"></string>
-    <string name="block_map_to_str_tail">to Json String</string>
+    <string name="block_map_to_str_tail">到Json字符串</string>
 
     <string name="block_str_to_list_map_head">Json</string>
-    <string name="block_str_to_list_map_body_1">to</string>
+    <string name="block_str_to_list_map_body_1">到</string>
     <string name="block_str_to_list_map_tail"></string>
 
     <string name="block_list_map_to_str_head"></string>
-    <string name="block_list_map_to_str_tail">to Json String</string>
+    <string name="block_list_map_to_str_tail">到Json字符串</string>
 
-    <string name="block_firebaseauth_create_user_head"></string>
-    <string name="block_firebaseauth_create_user_body_1">createUserWith Email</string>
-    <string name="block_firebaseauth_create_user_body_2">and Password</string>
+    <string name="block_firebaseauth_create_user_head">Firebase</string>
+    <string name="block_firebaseauth_create_user_body_1">创建用户 电子邮件Email:</string>
+    <string name="block_firebaseauth_create_user_body_2">密码:</string>
     <string name="block_firebaseauth_create_user_tail"></string>
 
-    <string name="block_firebaseauth_signin_user_head"></string>
-    <string name="block_firebaseauth_signin_user_body_1">signInWith Email</string>
-    <string name="block_firebaseauth_signin_user_body_2">and Password</string>
+    <string name="block_firebaseauth_signin_user_head">Firebase</string>
+    <string name="block_firebaseauth_signin_user_body_1">登录 电子邮件Email:</string>
+    <string name="block_firebaseauth_signin_user_body_2">密码:</string>
     <string name="block_firebaseauth_signin_user_tail"></string>
 
-    <string name="block_firebaseauth_reset_password_head"></string>
-    <string name="block_firebaseauth_reset_password_body_1">send password reset email to</string>
+    <string name="block_firebaseauth_reset_password_head">Firebase</string>
+    <string name="block_firebaseauth_reset_password_body_1">发送密码重置邮件到</string>
     <string name="block_firebaseauth_reset_password_tail"></string>
 
-    <string name="block_firebaseauth_signin_anonymously_head"></string>
-    <string name="block_firebaseauth_signin_anonymously_tail">signInAnonymously</string>
+    <string name="block_firebaseauth_signin_anonymously_head">Firebase</string>
+    <string name="block_firebaseauth_signin_anonymously_tail">匿名登录</string>
 
-    <string name="block_firebaseauth_is_logged_in_head"></string>
-    <string name="block_firebaseauth_is_logged_in_tail">FirebaseAuth isLoggedIn</string>
+    <string name="block_firebaseauth_is_logged_in_head">Firebase</string>
+    <string name="block_firebaseauth_is_logged_in_tail"> 已登录</string>
 
-    <string name="block_firebaseauth_get_email_head"></string>
-    <string name="block_firebaseauth_get_email_tail">FirebaseAuth getEmail</string>
+    <string name="block_firebaseauth_get_email_head">Firebase</string>
+    <string name="block_firebaseauth_get_email_tail">取邮箱</string>
 
-    <string name="block_firebaseauth_get_uid_head"></string>
-    <string name="block_firebaseauth_get_uid_tail">FirebaseAuth getUid</string>
+    <string name="block_firebaseauth_get_uid_head">Firebase</string>
+    <string name="block_firebaseauth_get_uid_tail">取Uid</string>
 
-    <string name="block_firebaseauth_signout_head"></string>
-    <string name="block_firebaseauth_signout_tail">FirebaseAuth signOut</string>
+    <string name="block_firebaseauth_signout_head">Firebase</string>
+    <string name="block_firebaseauth_signout_tail">登出</string>
 
-    <string name="block_firebase_get_key_head"></string>
-    <string name="block_firebase_get_key_tail">push getKey</string>
+    <string name="block_firebase_get_key_head">Firebase</string>
+    <string name="block_firebase_get_key_tail">推-push 取key-getKey</string>
 
     <string name="block_list_smooth_scrollto_head"></string>
-    <string name="block_list_smooth_scrollto_body_1">smoothScrollToPosition</string>
+    <string name="block_list_smooth_scrollto_body_1">平滑滚动到位置</string>
     <string name="block_list_smooth_scrollto_tail"></string>
 
     <string name="block_set_typeface_head"></string>
-    <string name="block_set_typeface_body_1">setTypeface</string>
-    <string name="block_set_typeface_body_2">with style</string>
+    <string name="block_set_typeface_body_1">设置字体</string>
+    <string name="block_set_typeface_body_2">与风格</string>
     <string name="block_set_typeface_tail"></string>
 
     <string name="block_get_location_x_head"></string>
-    <string name="block_get_location_x_tail">getLocationX</string>
+    <string name="block_get_location_x_tail">获取位置X</string>
 
     <string name="block_get_location_y_head"></string>
-    <string name="block_get_location_y_tail">getLocationY</string>
+    <string name="block_get_location_y_tail">获取位置Y</string>
 
     <!-- added April 26 2018 -->
-    <string name="block_is_drawer_open_head">isDrawerOpen</string>
-    <string name="block_is_drawer_open_tail"></string>
+    <string name="block_is_drawer_open_head">抽屉</string>
+    <string name="block_is_drawer_open_tail">是打开的</string>
 
-    <string name="block_open_drawer_head">openDrawer</string>
+    <string name="block_open_drawer_head">打开抽屉</string>
     <string name="block_open_drawer_tail"></string>
 
     <string name="block_close_drawer_head">closeDrawer</string>
@@ -2459,3 +2459,4 @@
     <string name="root_spec_on_files_picked_cancel_tail"></string>
 
 </resources>
+<!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn  -->
