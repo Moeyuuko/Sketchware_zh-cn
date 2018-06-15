@@ -81,7 +81,7 @@
     <string name="common_word_moreblock">更多方块</string>
 
     <string name="common_word_image">图片</string>
-    <string name="common_word_sound">声音</string>
+    <string name="common_word_sound">音频</string>
     <string name="common_word_font">字体</string>
     <string name="common_word_widget">小部件</string>
     <string name="common_word_block">方块</string>
@@ -103,15 +103,15 @@
     <string name="common_message_complete_copy_to_clipborad">复制到剪贴板</string>
 
     <string name="common_message_permission_account">需要联系人权限才能在Sketchware中启用社交媒体登录。 请在下一步中提供访问权限</string>
-    <string name="common_message_permission_account1">没有权限。 请点击“设置”以允许“联系人”权限。如果没有此权限，则无法使用Google帐户登录</string>
+    <string name="common_message_permission_account1">没有权限。 请点击 "设置" 以允许 "联系人" 权限。如果没有此权限，则无法使用Google帐户登录</string>
 
     <string name="common_message_permission_account_for_purchase">为了管理购买历史记录，我们需要获得访问您的Google帐户的权限</string>
-    <string name="common_message_permission_account1_for_purchase">没有权限. 请点击"设置"以允许"联系人"的权限。\n未经其许可，我们无法管理购买历史记录</string>
+    <string name="common_message_permission_account1_for_purchase">没有权限. 请点击 "Settings" 以允许"联系人"的权限。\n未经其许可，我们无法管理购买历史记录</string>
 
     <string name="common_message_permission_title_storage">需要权限</string>
 
     <string name="common_message_permission_storage">要访问照片，媒体和文件，请在下一步中给予Sketchware权限</string>
-    <string name="common_message_permission_storage1">没有权限.\n请点击"设置"以允许"存储"。 没有此权限，某些功能可能无法正常运行</string>
+    <string name="common_message_permission_storage1">没有权限.\n请点击 "设置" 以允许 "存储" 。 没有此权限，某些功能可能无法正常运行</string>
 
     <string name="common_message_permission_denied">没有权限</string>
 
@@ -184,7 +184,7 @@
     <string name="intro_pager_3_description">与他人探索和分享</string>
 
     <string name="intro_button_explore">探索</string>
-    <string name="intro_button_sign_in">签到</string>
+    <string name="intro_button_sign_in">登录</string>
 
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************        Intro  End    ************************************************ -->
@@ -326,81 +326,81 @@
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************   Design   Start               **************************************** -->
     <!-- ************************************************************************************************************************* -->
-    <string name="design_tab_title_view">View</string>
-    <string name="design_tab_title_event">Event</string>
-    <string name="design_tab_title_component">Component</string>
+    <string name="design_tab_title_view">视图</string>
+    <string name="design_tab_title_event">事件</string>
+    <string name="design_tab_title_component">组件</string>
 
-    <string name="design_actionbar_title_library">Library Manager</string>
-    <string name="design_actionbar_title_manager_view">View Manager</string>
-    <string name="design_actionbar_title_manager_collection">Collection Manager</string>
-    <string name="design_actionbar_title_manager_image">Image Manager</string>
-    <string name="design_actionbar_title_manager_sound">Sound Manager</string>
-    <string name="design_actionbar_title_manager_font">Font Manager</string>
-    <string name="design_actionbar_title_show_source_code">Show Source code</string>
+    <string name="design_actionbar_title_library">文库管理</string>
+    <string name="design_actionbar_title_manager_view">视图管理</string>
+    <string name="design_actionbar_title_manager_collection">采集管理</string>
+    <string name="design_actionbar_title_manager_image">图像管理</string>
+    <string name="design_actionbar_title_manager_sound">音频管理</string>
+    <string name="design_actionbar_title_manager_font">字形管理</string>
+    <string name="design_actionbar_title_show_source_code">显示源代码</string>
 
-    <string name="design_file_selector_title_java">Available Java Files</string>
+    <string name="design_file_selector_title_java">可用的Java文件</string>
 
-    <string name="design_option_menu_title_save_project">Save Project</string>
+    <string name="design_option_menu_title_save_project">保存项目</string>
 
-    <string name="design_quit_title_exit_projet">Exit Project</string>
-    <string name="design_quit_button_save_and_exit">Save &amp; Exit</string>
+    <string name="design_quit_title_exit_projet">退出项目</string>
+    <string name="design_quit_button_save_and_exit">保存 &amp; 退出</string>
 
-    <string name="design_quit_message_confirm_save">Do you want to save your changes before quitting?</string>
+    <string name="design_quit_message_confirm_save">您想在退出前保存更改吗？</string>
 
     <string name="design_restore_data_title">还原数据</string>
     <string name="design_restore_data_message_confirm">出了点问题，以前的数据没有保存。 你想恢复它吗？</string>
 
 
-    <string name="design_run_title_ready_to_build">Getting ready to build </string>
+    <string name="design_run_title_ready_to_build">准备建立 </string>
 
-    <string name="design_run_message_invalid_forever_block">Stop block does not exist in forever block</string>
-    <string name="design_run_message_usage_break_block">Break block can only be used inside the repeat or forever blocks</string>
+    <string name="design_run_message_invalid_forever_block">停止方块 不存在于 永久方块</string>
+    <string name="design_run_message_usage_break_block">中断方块 只能重复或内部使用于 永久方块</string>
 
-    <string name="design_drawer_menu_title">Configuration</string>
-    <string name="design_drawer_menu_bottom_title">Global</string>
+    <string name="design_drawer_menu_title">组件配置</string>
+    <string name="design_drawer_menu_bottom_title">全部</string>
 
-    <string name="design_drawer_menu_title_theme">Theme</string>
-    <string name="design_drawer_menu_title_library">Library</string>
-    <string name="design_drawer_menu_title_collection">Collection</string>
-    <string name="design_drawer_menu_title_view">View</string>
-    <string name="design_drawer_menu_title_image">Image</string>
-    <string name="design_drawer_menu_title_sound">Sound</string>
-    <string name="design_drawer_menu_title_font">Font</string>
-    <string name="design_drawer_menu_title_source_code">Show Source Code</string>
+    <string name="design_drawer_menu_title_theme">主题</string>
+    <string name="design_drawer_menu_title_library">文库</string>
+    <string name="design_drawer_menu_title_collection">全部</string>
+    <string name="design_drawer_menu_title_view">视图</string>
+    <string name="design_drawer_menu_title_image">图像</string>
+    <string name="design_drawer_menu_title_sound">音频</string>
+    <string name="design_drawer_menu_title_font">字形</string>
+    <string name="design_drawer_menu_title_source_code">显示源代码</string>
 
-    <string name="design_drawer_menu_description_theme">Color theme</string>
-    <string name="design_drawer_menu_description_library">Component settings</string>
-    <string name="design_drawer_menu_description_collection">My saved collections</string>
-    <string name="design_drawer_menu_description_view">Manage multiple screens</string>
-    <string name="design_drawer_menu_description_image">Import photos and icons</string>
-    <string name="design_drawer_menu_description_sound">Import music and sound efects</string>
-    <string name="design_drawer_menu_description_font">Import different fonts</string>
-    <string name="design_drawer_menu_description_source_code">Show Java and Xml files</string>
+    <string name="design_drawer_menu_description_theme">颜色主题</string>
+    <string name="design_drawer_menu_description_library">组件设置</string>
+    <string name="design_drawer_menu_description_collection">我保存的集合</string>
+    <string name="design_drawer_menu_description_view">管理多个屏幕</string>
+    <string name="design_drawer_menu_description_image">导入照片和图标</string>
+    <string name="design_drawer_menu_description_sound">导入音乐和声音效果</string>
+    <string name="design_drawer_menu_description_font">导入不同的字体</string>
+    <string name="design_drawer_menu_description_source_code">显示Java和Xml文件</string>
 
-    <string name="design_library_settings_title_enabled">Enabled</string>
+    <string name="design_library_settings_title_enabled">启用</string>
 
-    <string name="design_library_settings_guide_tutorial">Please refer the tutorial if it\'s your first time setting up.</string>
+    <string name="design_library_settings_guide_tutorial">如果这是您第一次设置,请参阅教程.</string>
 
-    <string name="design_library_title_appcompat">AppCompat</string>
-    <string name="design_library_title_appcompat_and_design">AppCompat and Design</string>
-    <string name="design_library_message_confirm_uncheck_appcompat_and_design">The existing Drawer Layout and FAB will be deleted. Would you like to continue?</string>
-    <string name="design_library_description_appcompat_and_design">Drawer Layout, Floating Action Button </string>
-    <string name="design_library_description_firebase">Use Firebase Database and Authentication</string>
-    <string name="design_library_message_slow_down_compilation_time">Including the library may slow down the compilation time on certain devices.</string>
+    <string name="design_library_title_appcompat">程序兼容性</string>
+    <string name="design_library_title_appcompat_and_design">应用程序兼容和设计</string>
+    <string name="design_library_message_confirm_uncheck_appcompat_and_design">现有的抽屉布局和FAB将被删除。 继续？</string>
+    <string name="design_library_description_appcompat_and_design">抽屉布局，浮动行动按钮 </string>
+    <string name="design_library_description_firebase">使用Firebase数据库和身份验证</string>
+    <string name="design_library_message_slow_down_compilation_time">包括库可能会减慢某些设备上的编译速度。</string>
 
-    <string name="design_library_appcompat_description">Activating App Compat library will let you add Drawer Layout and Floating Action Button to the Activities.</string>
+    <string name="design_library_appcompat_description">激活App 兼容库可让您将抽屉布局和浮动操作按钮添加到活动中。</string>
 
-    <string name="design_library_firebase_description">If enabled, you will be able to use Firebase DB, Auth, and Storage Components.</string>
+    <string name="design_library_firebase_description">如果启用，您将能够使用Firebase DB，Auth和存储组件。</string>
 
-    <string name="design_library_firebase_title_firebase_settings">Firebase Settings</string>
+    <string name="design_library_firebase_title_firebase_settings">Firebase设置</string>
 
-    <string name="design_library_firebase_title_data_location">Data location</string>
-    <string name="design_library_firebase_hint_enter_data_location">Enter the data location</string>
+    <string name="design_library_firebase_title_data_location">数据位置</string>
+    <string name="design_library_firebase_hint_enter_data_location">输入数据位置</string>
 
-    <string name="design_library_firebase_hint_enter_firebase_project_id">Enter Firebase Project ID</string>
-    <string name="design_library_firebase_hint_enter_firebase_app_id">Enter Firebase APP ID</string>
-    <string name="design_library_firebase_hint_enter_firebase_api_key">Enter Firebase API Key</string>
-    <string name="design_library_firebase_hint_enter_firebase_storage_bucket_url">Enter Firebase Storage Bucket Url</string>
+    <string name="design_library_firebase_hint_enter_firebase_project_id">输入Firebase项目ID</string>
+    <string name="design_library_firebase_hint_enter_firebase_app_id">输入Firebase APP ID</string>
+    <string name="design_library_firebase_hint_enter_firebase_api_key">输入Firebase API密钥</string>
+    <string name="design_library_firebase_hint_enter_firebase_storage_bucket_url">输入Firebase存储桶(Bucket) Url</string>
 
     <string name="design_library_firebase_description_settings">Project ID, App ID, and API Key must match the values inside the Firebase Console.</string>
     <string name="design_library_firebase_description_storage">Storage Bucket URL must match the value in Firebase Storage for it to work properly.</string>
@@ -422,82 +422,82 @@
     <string name="design_library_firebase_guide_path_example">Path starting from the root.\nex)\"users/username\"</string>
     <string name="design_library_firebase_message_id_fill_out">Project ID, App ID, and API Key must be filled out.</string>
 
-    <string name="design_manager_tab_title_this_project">This Project</string>
-    <string name="design_manager_tab_title_my_collection">My Collection</string>
+    <string name="design_manager_tab_title_this_project">此项目</string>
+    <string name="design_manager_tab_title_my_collection">我的收藏</string>
 
-    <string name="design_manager_title_add_to_collection">Add to My Collection</string>
-    <string name="design_manager_change_name_button">CHANGE NAME</string>
+    <string name="design_manager_title_add_to_collection">添加到我的收藏</string>
+    <string name="design_manager_change_name_button">重命名</string>
 
-    <string name="design_manager_message_collection_name_conflict">There seems to be a naming conflict. Please make sure there are no duplicate names.</string>
-    <string name="design_manager_message_collection_name_no_conflict">There were no naming conflicts</string>
+    <string name="design_manager_message_collection_name_conflict">似乎有一个命名冲突。 请确保没有重复的名称。</string>
+    <string name="design_manager_message_collection_name_no_conflict">没有命名冲突</string>
 
-    <string name="design_manager_message_edit_complete">Edit complete</string>
-    <string name="design_manager_message_add_complete">Add complete</string>
-    <string name="design_manager_message_import_complete">Import complete</string>
+    <string name="design_manager_message_edit_complete">编辑完成</string>
+    <string name="design_manager_message_add_complete">添加完成</string>
+    <string name="design_manager_message_import_complete">导入完成</string>
 
-    <string name="design_manager_view_title_add_custom_view">New Custom View</string>
+    <string name="design_manager_view_title_add_custom_view">新的自定义视图</string>
 
-    <string name="design_manager_view_title_add_view">New Activity</string>
-    <string name="design_manager_view_title_edit_view">Edit Activity</string>
+    <string name="design_manager_view_title_add_view">新活动</string>
+    <string name="design_manager_view_title_edit_view">修改活动</string>
 
-    <string name="design_manager_view_title_screen_orientation">Screen Orientation</string>
-    <string name="design_manager_view_title_keyboad_settings">Keyboard Settings</string>
+    <string name="design_manager_view_title_screen_orientation">屏幕方向</string>
+    <string name="design_manager_view_title_keyboad_settings">键盘设置</string>
 
-    <string name="design_manager_view_title_activity_preset">Activity Preset</string>
-    <string name="design_manager_view_title_empty_activity">Empty Activity</string>
+    <string name="design_manager_view_title_activity_preset">活动预设</string>
+    <string name="design_manager_view_title_empty_activity">空活动</string>
 
-    <string name="design_manager_view_title_view_name">View Name : </string>
-    <string name="design_manager_view_title_activity_name">Activity Name : </string>
+    <string name="design_manager_view_title_view_name">查看名称 : </string>
+    <string name="design_manager_view_title_activity_name">活动名称 : </string>
 
-    <string name="design_manager_view_message_slow_down">Including the drawer or the FAB may slow down the compilation time on certain devices.</string>
+    <string name="design_manager_view_message_slow_down">包括抽屉或FAB可能会减慢某些设备上的编译速度。</string>
 
-    <string name="design_manager_view_message_no_view">No views to display</string>
-    <string name="design_manager_view_description_guide_create_activity">To create a new Activity, add it here</string>
-    <string name="design_manager_view_description_guide_create_custom_view">Create a new Custom View here</string>
+    <string name="design_manager_view_message_no_view">没有要显示的视图</string>
+    <string name="design_manager_view_description_guide_create_activity">要创建新的活动，请在此处添加它</string>
+    <string name="design_manager_view_description_guide_create_custom_view">在此创建一个新的自定义视图</string>
 
-    <string name="design_manager_view_description_guide_use_custom_view">Custom View can be used to change the way items are displayed inside the ListView or the Spinner</string>
+    <string name="design_manager_view_description_guide_use_custom_view">自定义视图可用于更改项目在列表视图(ListView)或微调(Spinner)内显示的方式</string>
 
-    <string name="design_manager_view_hint_enter_view_name">Enter View name</string>
+    <string name="design_manager_view_hint_enter_view_name">输入查看名称</string>
 
-    <string name="design_manager_image_title_add_image">Add Image</string>
-    <string name="design_manager_image_title_edit_image">Edit Image</string>
-    <string name="design_manager_image_title_edit_image_name">Edit Image Name</string>
-    <string name="design_manager_image_description_guide_add_image">If you add an image here\n You can use it as an Icon or ImageView</string>
-    <string name="design_manager_image_hint_enter_image_name">Enter image name</string>
-    <string name="design_manager_image_title_apply_same_naming">Apply same naming style to other available images</string>
+    <string name="design_manager_image_title_add_image">添加图像</string>
+    <string name="design_manager_image_title_edit_image">修改图像</string>
+    <string name="design_manager_image_title_edit_image_name">修改图像名称</string>
+    <string name="design_manager_image_description_guide_add_image">如果你在这里添加图片\n You 您可以将它用作图标(Icon)或图像视图(ImageView)</string>
+    <string name="design_manager_image_hint_enter_image_name">输入图像名称</string>
+    <string name="design_manager_image_title_apply_same_naming">对其他可用的图像,应用相同的命名方式</string>
 
-    <string name="design_manager_sound_title_add_sound">Add Sound</string>
-    <string name="design_manager_sound_title_edit_sound">Edit Sound</string>
-    <string name="design_manager_sound_title_edit_sound_name">Edit Sound Name</string>
-    <string name="design_manager_sound_hint_enter_sound_name">Enter sound name</string>
-    <string name="design_manager_sound_description_guide_add_sound">Add background music\n or sound effects here</string>
-    <string name="design_manager_sound_title_apply_same_naming">Apply same naming style to other available sounds</string>
+    <string name="design_manager_sound_title_add_sound">添加音频</string>
+    <string name="design_manager_sound_title_edit_sound">修改音频</string>
+    <string name="design_manager_sound_title_edit_sound_name">修改音频名称</string>
+    <string name="design_manager_sound_hint_enter_sound_name">输入音频名称</string>
+    <string name="design_manager_sound_description_guide_add_sound">添加背景音乐或音效</string>
+    <string name="design_manager_sound_title_apply_same_naming">对其他可用的声音,应用相同的命名方式</string>
 
-    <string name="design_manager_font_title_add_font">Add Font</string>
-    <string name="design_manager_font_title_edit_font">Edit Font</string>
-    <string name="design_manager_font_title_edit_font_name">Edit Font Name</string>
-    <string name="design_manager_font_message_not_support_font">If your device does not support the font above, the text in the parentheses may fail to display</string>
-    <string name="design_manager_font_hint_enter_font_name">Enter font name</string>
-    <string name="design_manager_font_description_example_sentence">An example sentence for preview</string>
-    <string name="design_manager_font_description_guide_add_font">Add font files with .ttf extension</string>
-    <string name="design_manager_font_title_apply_same_naming">Apply same naming style to other available fonts</string>
+    <string name="design_manager_font_title_add_font">添加字体</string>
+    <string name="design_manager_font_title_edit_font">修改字体</string>
+    <string name="design_manager_font_title_edit_font_name">修改字体名称</string>
+    <string name="design_manager_font_message_not_support_font">如果您的设备不支持上述字体，则括号中的文字可能无法显示</string>
+    <string name="design_manager_font_hint_enter_font_name">输入字体名称</string>
+    <string name="design_manager_font_description_example_sentence">预览的一个例句</string>
+    <string name="design_manager_font_description_guide_add_font">添加.ttf扩展名的字体文件</string>
+    <string name="design_manager_font_title_apply_same_naming">对其他可用的字体,应用相同的命名风格</string>
 
-    <string name="design_manager_font_description_look_like_this">My new font would look like this!</string>
+    <string name="design_manager_font_description_look_like_this">我的新字体看起来像这样!</string>
 
-    <string name="design_manager_icon_actionbar_title">Import Icon</string>
-    <string name="design_manager_icon_hint_enter_icon_name">Enter icon name</string>
+    <string name="design_manager_icon_actionbar_title">导入图标</string>
+    <string name="design_manager_icon_hint_enter_icon_name">输入图标名称</string>
 
-    <string name="design_manager_image_import_icon_button_black">BLACK</string>
-    <string name="design_manager_image_import_icon_button_grey">GREY</string>
-    <string name="design_manager_image_import_icon_button_white">WHITE</string>
+    <string name="design_manager_image_import_icon_button_black">黑色</string>
+    <string name="design_manager_image_import_icon_button_grey">灰色</string>
+    <string name="design_manager_image_import_icon_button_white">白色</string>
 
-    <string name="design_manager_block_detail_actionbar_title">Block Details</string>
-    <string name="design_manager_block_hint_enter_block_name">Enter block name</string>
+    <string name="design_manager_block_detail_actionbar_title">方块细节</string>
+    <string name="design_manager_block_hint_enter_block_name">输出方块名称</string>
 
-    <string name="design_manager_widget_title_actionbar_title">Widget Details</string>
-    <string name="design_manager_widget_hint_enter_widget_name">Enter widget name</string>
+    <string name="design_manager_widget_title_actionbar_title">小部件详细信息</string>
+    <string name="design_manager_widget_hint_enter_widget_name">输入小部件名称</string>
 
-    <string name="design_property_recent_message_nodata">Recently used properties will be displayed</string>
+    <string name="design_property_recent_message_nodata">最近使用的属性将被显示</string>
 
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************   Design  End                 ***************************************** -->
@@ -597,45 +597,45 @@
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************   Component   Start           ***************************************** -->
     <!-- ************************************************************************************************************************* -->
-    <string name="component_context_menu_title">Component menu</string>
-    <string name="component_context_menu_title_delete_component">Delete Component</string>
+    <string name="component_context_menu_title">组件菜单</string>
+    <string name="component_context_menu_title_delete_component">删除组件</string>
 
-    <string name="component_hint_enter_name">Enter Component name</string>
+    <string name="component_hint_enter_name">输入组件名称</string>
 
-    <string name="component_file_title_file_name">File name</string>
-    <string name="component_file_hint_enter_file_name">Enter file name</string>
+    <string name="component_file_title_file_name">文件名</string>
+    <string name="component_file_hint_enter_file_name">输入文件名</string>
 
-    <string name="component_message_component_block_added">New blocks have been added in the Logic Editor</string>
-    <string name="component_message_no_components">No components to display</string>
+    <string name="component_message_component_block_added">新的方块已添加到逻辑编辑器</string>
+    <string name="component_message_no_components">没有要显示的组件</string>
 
-    <string name="component_file_picker_hint_mime_type">Enter mime type</string>
-    <string name="component_file_picker_title_select_mime_type">Select Mime Type</string>
+    <string name="component_file_picker_hint_mime_type">输入 Mime 类型</string>
+    <string name="component_file_picker_title_select_mime_type">选择 Mime 类型</string>
 
-    <string name="component_file_picker_title_select_mime_type_all_files">All files</string>
-    <string name="component_file_picker_title_select_mime_type_image_files">Image files</string>
-    <string name="component_file_picker_title_select_mime_type_audio_files">Audio files</string>
-    <string name="component_file_picker_title_select_mime_type_text_files">Text files</string>
+    <string name="component_file_picker_title_select_mime_type_all_files">全部文件</string>
+    <string name="component_file_picker_title_select_mime_type_image_files">图像文件</string>
+    <string name="component_file_picker_title_select_mime_type_audio_files">音频文件</string>
+    <string name="component_file_picker_title_select_mime_type_text_files">文本文件</string>
 
-    <string name="component_title_add_component">Add Component</string>
+    <string name="component_title_add_component">全部组件</string>
 
-    <string name="component_description_intent">Intent is used to start a new Activity</string>
-    <string name="component_description_file">File is used to save data locally</string>
-    <string name="component_description_calendar">Calendar is used to calculate time and date</string>
-    <string name="component_description_vibrator">Vibrator is used vibrate the device</string>
-    <string name="component_description_timer">Timer is used to delay certain actions</string>
-    <string name="component_description_soundpool">SoundPool is used to play short sound effects</string>
-    <string name="component_description_mediaplayer">MediaPlayer is used to play big sound files</string>
-    <string name="component_description_dialog">Dialog is used to create a pop-up</string>
-    <string name="component_description_objectanimator">ObjectAnimator is used to animate certain properties of a View</string>
-    <string name="component_description_gyrosope">The gyroscope measures the rate of rotation in rad/s around a device\'s x, y, and z axis.</string>
-    <string name="component_description_firebase_auth">Firebase Auth allows online user authentication</string>
+    <string name="component_description_intent">Intent \n用于启动新的活动</string>
+    <string name="component_description_file">File \n用于本地保存数据</string>
+    <string name="component_description_calendar">Calendar \n用于计算时间和日期</string>
+    <string name="component_description_vibrator">Vibrator \n用于振动设备</string>
+    <string name="component_description_timer">Timer \n用于延迟某些操作</string>
+    <string name="component_description_soundpool">SoundPool \n用于播放短暂的音频</string>
+    <string name="component_description_mediaplayer">MediaPlayer \n用于播放大型音频文件</string>
+    <string name="component_description_dialog">Dialog \n用于创建弹出窗口</string>
+    <string name="component_description_objectanimator">ObjectAnimator \n用于设置视图中的某些动画</string>
+    <string name="component_description_gyrosope">陀螺仪以设备x,y,z轴为准 \n以每秒几度(rad/s)为单位测量转速。</string>
+    <string name="component_description_firebase_auth">Firebase身份验证\n用于用户身份的在线验证</string>
 
     <!-- ************************************** ToDo : 2018.06.08 Component Description *******************************************-->
-    <string name="component_description_firebase_storage">Firebase Storage is built for app developers who need to store and serve user-generated content.</string>
-    <string name="component_description_camera">Camera is used to take a picture.</string>
-    <string name="component_description_file_picker">FilePicker is used to select raw and media files, such as images, sounds, and text.</string>
+    <string name="component_description_firebase_storage">Firebase Storage \n是为了 需要存储和提供 用户创建的内容 的应用开发者 创建的 </string>
+    <string name="component_description_camera">Camera \n用于拍摄照片。</string>
+    <string name="component_description_file_picker">FilePicker \n用于选择 RAW和媒体文件,如图像,音频和文本.(不就是个 文件选择器)</string>
     
-    <string name="component_description_file_picker_guide_mime_type_example">MIME type is used to identify a type of data.\nex)\"*/*\", \"image/*\", \"audio/*\", \"text/*\"</string>
+    <string name="component_description_file_picker_guide_mime_type_example">MIME用于识别数据类型.\nex)\"*/*\", \"image/*\", \"audio/*\", \"text/*\"</string>
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************   Component   End             ***************************************** -->
     <!-- ************************************************************************************************************************* -->
@@ -1272,31 +1272,31 @@
     <!-- ************************************************************************************************************************* -->
 
     <!-- new root spec -->
-    <string name="root_spec_common_define">确定-Define </string>
+    <string name="root_spec_common_define">确定</string>
     <string name="root_spec_common_when">每当 </string>
 
-    <string name="root_spec_initialize_head">当activity创建</string>
+    <string name="root_spec_initialize_head">当活动创建</string>
     <string name="root_spec_initialize_tail"></string>
 
     <string name="root_spec_on_back_pressed_head">在后退按钮上按下</string>
     <string name="root_spec_on_back_pressed_tail"></string>
 
-    <string name="root_spec_on_post_created_head">当activity启动完成</string>
+    <string name="root_spec_on_post_created_head">当活动启动完成</string>
     <string name="root_spec_on_post_created_tail"></string>
 
-    <string name="root_spec_on_start_head">当activity可见</string>
+    <string name="root_spec_on_start_head">当活动可见</string>
     <string name="root_spec_on_start_tail"></string>
 
-    <string name="root_spec_on_stop_head">当activity不可见</string>
+    <string name="root_spec_on_stop_head">当活动不可见</string>
     <string name="root_spec_on_stop_tail"></string>
 
-    <string name="root_spec_on_destroy_head">当activity销毁</string>
+    <string name="root_spec_on_destroy_head">当活动销毁</string>
     <string name="root_spec_on_destroy_tail"></string>
 
-    <string name="root_spec_on_resume_head">当activity恢复</string>
+    <string name="root_spec_on_resume_head">当活动恢复</string>
     <string name="root_spec_on_resume_tail"></string>
 
-    <string name="root_spec_on_pause_head">当activity暂停</string>
+    <string name="root_spec_on_pause_head">当活动暂停</string>
     <string name="root_spec_on_pause_tail"></string>
 
     <string name="root_spec_on_clicked_head">点击</string>
@@ -1341,7 +1341,7 @@
     <string name="root_spec_on_item_long_clicked_head">当长按项目</string>
     <string name="root_spec_on_item_long_clicked_tail"></string>
 
-    <string name="root_spec_on_bind_custom_view_head">当绑定自定义View</string>
+    <string name="root_spec_on_bind_custom_view_head">当绑定自定义视图</string>
     <string name="root_spec_on_bind_custom_view_body_1"></string>
     <string name="root_spec_on_bind_custom_view_tail"></string>
 
@@ -1407,13 +1407,13 @@
     <string name="root_spec_on_files_picked_tail"></string>
 
 
-    <string name="block_category_var">变量Variable</string>
-    <string name="block_category_list">列表List</string>
-    <string name="block_category_control">控制Control</string>
-    <string name="block_category_math">数学Math</string>
-    <string name="block_category_operator">运算Operator</string>
-    <string name="block_category_view_func">视图View</string>
-    <string name="block_category_component_func">组件Component</string>
+    <string name="block_category_var">变量</string>
+    <string name="block_category_list">列表</string>
+    <string name="block_category_control">控制</string>
+    <string name="block_category_math">数学</string>
+    <string name="block_category_operator">运算</string>
+    <string name="block_category_view_func">视图</string>
+    <string name="block_category_component_func">组件</string>
     <string name="block_category_file">文件</string>
     <string name="block_category_moreblock">更多方块</string>
 
@@ -1905,69 +1905,69 @@
     <string name="block_spn_refresh_head">下拉框</string>
     <string name="block_spn_refresh_tail">重载新数据</string>
 
-    <string name="block_webview_load_url_head">webview</string>
+    <string name="block_webview_load_url_head"></string>
     <string name="block_webview_load_url_body_1">加载Url</string>
     <string name="block_webview_load_url_tail"></string>
 
-    <string name="block_webview_get_url_head">webview</string>
+    <string name="block_webview_get_url_head"></string>
     <string name="block_webview_get_url_tail">取Url</string>
 
-    <string name="block_webview_set_cache_mode_head">webview</string>
+    <string name="block_webview_set_cache_mode_head"></string>
     <string name="block_webview_set_cache_mode_body_1">设缓存模式</string>
     <string name="block_webview_set_cache_mode_tail"></string>
 
-    <string name="block_webview_can_go_back_head">webview</string>
+    <string name="block_webview_can_go_back_head"></string>
     <string name="block_webview_can_go_back_tail">可后退</string>
 
-    <string name="block_webview_can_go_forward_head">webview</string>
+    <string name="block_webview_can_go_forward_head"></string>
     <string name="block_webview_can_go_forward_tail">可前进</string>
 
-    <string name="block_webview_go_back_head">webview</string>
+    <string name="block_webview_go_back_head"></string>
     <string name="block_webview_go_back_tail">后退</string>
 
     <string name="block_webview_go_forward_head"></string>
     <string name="block_webview_go_forward_tail">前进</string>
 
-    <string name="block_webview_clear_cache_head">webview</string>
+    <string name="block_webview_clear_cache_head"></string>
     <string name="block_webview_clear_cache_tail">清理缓存</string>
 
-    <string name="block_webview_clear_history_head">webview</string>
+    <string name="block_webview_clear_history_head"></string>
     <string name="block_webview_clear_history_tail">清理历史</string>
 
-    <string name="block_webview_stop_loading_head">webview</string>
+    <string name="block_webview_stop_loading_head"></string>
     <string name="block_webview_stop_loading_tail">停止加载</string>
 
-    <string name="block_webview_zoom_in_head">webview</string>
+    <string name="block_webview_zoom_in_head"></string>
     <string name="block_webview_zoom_in_tail">放大</string>
 
-    <string name="block_webview_zoom_out_head">webview</string>
+    <string name="block_webview_zoom_out_head"></string>
     <string name="block_webview_zoom_out_tail">缩小</string>
 
-    <string name="block_intent_set_action_head">intent</string>
+    <string name="block_intent_set_action_head"></string>
     <string name="block_intent_set_action_body_1">设Action</string>
     <string name="block_intent_set_action_tail"></string>
 
-    <string name="block_intent_set_data_head">intent</string>
+    <string name="block_intent_set_data_head"></string>
     <string name="block_intent_set_data_body_1">设Data</string>
     <string name="block_intent_set_data_tail"></string>
 
-    <string name="block_intent_set_screen_head">intent</string>
-    <string name="block_intent_set_screen_body_1">设Screen</string>
+    <string name="block_intent_set_screen_head"></string>
+    <string name="block_intent_set_screen_body_1">设屏幕</string>
     <string name="block_intent_set_screen_tail"></string>
 
-    <string name="block_intent_put_extra_head">intent</string>
+    <string name="block_intent_put_extra_head"></string>
     <string name="block_intent_put_extra_body_1">放置额外 key</string>
     <string name="block_intent_put_extra_body_2">值</string>
     <string name="block_intent_put_extra_tail"></string>
 
-    <string name="block_intent_set_flags_head">intent</string>
+    <string name="block_intent_set_flags_head"></string>
     <string name="block_intent_set_flags_body_1">设Flags</string>
     <string name="block_intent_set_flags_tail"></string>
 
-    <string name="block_start_activity_head">开启Activity</string>
+    <string name="block_start_activity_head">开启活动</string>
     <string name="block_start_activity_tail"></string>
 
-    <string name="block_intent_get_string_head">Activity 取额外 key</string>
+    <string name="block_intent_get_string_head">活动取额外 key</string>
     <string name="block_intent_get_string_tail"></string>
 
     <string name="block_finish_activity_head">完成</string>
@@ -2008,7 +2008,7 @@
     <string name="block_calendar_diff_tail"></string>
 
     <string name="block_vibrator_action_head"></string>
-    <string name="block_vibrator_action_body_1">震动-vibrate for</string>
+    <string name="block_vibrator_action_body_1">震动</string>
     <string name="block_vibrator_action_tail">ms</string>
 
     <string name="block_timer_after_head"></string>
@@ -2035,7 +2035,7 @@
     <string name="block_dialog_show_tail">显示</string>
 
     <string name="block_dialog_dismiss_head">对话框</string>
-    <string name="block_dialog_dismiss_tail">解散-dismiss</string>
+    <string name="block_dialog_dismiss_tail">解除</string>
 
     <string name="block_dialog_ok_button_head">对话框</string>
     <string name="block_dialog_ok_button_body_1">OK 按钮</string>
@@ -2050,7 +2050,7 @@
     <string name="block_dialog_neutral_button_tail">点击</string>
 
     <string name="block_mediaplayer_create_head">媒体播放</string>
-    <string name="block_mediaplayer_create_body_1">创建-create</string>
+    <string name="block_mediaplayer_create_body_1">创建</string>
     <string name="block_mediaplayer_create_tail"></string>
 
     <string name="block_mediaplayer_start_head">媒体播放</string>
@@ -2085,20 +2085,20 @@
     <string name="block_mediaplayer_is_looping_head">媒体播放</string>
     <string name="block_mediaplayer_is_looping_tail">是循环的</string>
 
-    <string name="block_soundpool_create_head">soundpool</string>
+    <string name="block_soundpool_create_head">音频池</string>
     <string name="block_soundpool_create_body_1">创建最大流的数量</string>
     <string name="block_soundpool_create_tail"></string>
 
-    <string name="block_soundpool_load_head">soundpool声音 ID:</string>
+    <string name="block_soundpool_load_head">音频池 ID:</string>
     <string name="block_soundpool_load_body_1">加载</string>
     <string name="block_soundpool_load_tail"></string>
 
-    <string name="block_soundpool_stream_play_head">soundpool流ID : </string>
-    <string name="block_soundpool_stream_play_body_1">播放声音 ID:</string>
+    <string name="block_soundpool_stream_play_head">音频池 流ID : </string>
+    <string name="block_soundpool_stream_play_body_1">播放音频 ID:</string>
     <string name="block_soundpool_stream_play_body_2">1 +</string>
     <string name="block_soundpool_stream_play_tail">倍</string>
 
-    <string name="block_soundpool_stream_stop_head">soundpool</string>
+    <string name="block_soundpool_stream_stop_head">音频池</string>
     <string name="block_soundpool_stream_stop_body_1">停止流 ID:</string>
     <string name="block_soundpool_stream_stop_tail"></string>
 
@@ -2142,15 +2142,15 @@
     <string name="block_objectanimator_cancel_tail">后退</string>
 
     <string name="block_objectanimator_is_running_head">动画</string>
-    <string name="block_objectanimator_is_running_tail">是在运行</string>
+    <string name="block_objectanimator_is_running_tail">是否在运行</string>
 
-    <string name="block_do_toast_head">Toast提示</string>
+    <string name="block_do_toast_head">弹出提示</string>
     <string name="block_do_toast_tail"></string>
 
     <string name="block_copy_to_clipboard_head">复制到剪贴板</string>
     <string name="block_copy_to_clipboard_tail"></string>
 
-    <string name="block_set_title_head">Activity 设标题</string>
+    <string name="block_set_title_head">设活动标题</string>
     <string name="block_set_title_tail"></string>
 
 
@@ -2262,179 +2262,179 @@
     <string name="block_open_drawer_head">打开抽屉</string>
     <string name="block_open_drawer_tail"></string>
 
-    <string name="block_close_drawer_head">closeDrawer</string>
+    <string name="block_close_drawer_head">关闭抽屉</string>
     <string name="block_close_drawer_tail"></string>
 
-    <string name="block_firebase_start_listen_head"></string>
-    <string name="block_firebase_start_listen_tail">start Listening</string>
+    <string name="block_firebase_start_listen_head">开始</string>
+    <string name="block_firebase_start_listen_tail">聆听</string>
 
-    <string name="block_firebase_stop_listen_head"></string>
-    <string name="block_firebase_stop_listen_tail">stop Listening</string>
+    <string name="block_firebase_stop_listen_head">停止</string>
+    <string name="block_firebase_stop_listen_tail">聆听</string>
 
-    <string name="block_gyroscope_start_listen_head"></string>
-    <string name="block_gyroscope_start_listen_tail">Sensor start</string>
+    <string name="block_gyroscope_start_listen_head">传感器</string>
+    <string name="block_gyroscope_start_listen_tail">启动</string>
 
-    <string name="block_gyroscope_stop_listen_head"></string>
-    <string name="block_gyroscope_stop_listen_tail">Sensor stop</string>
-    <string name="block_add_map_to_list_head">add</string>
-    <string name="block_add_map_to_list_body_1">to</string>
+    <string name="block_gyroscope_stop_listen_head">传感器</string>
+    <string name="block_gyroscope_stop_listen_tail">停止</string>
+    <string name="block_add_map_to_list_head">添加</string>
+    <string name="block_add_map_to_list_body_1">到</string>
     <string name="block_add_map_to_list_tail"></string>
 
-    <string name="block_insert_map_to_list_head">insert</string>
-    <string name="block_insert_map_to_list_body_1">at</string>
-    <string name="block_insert_map_to_list_body_2">to</string>
+    <string name="block_insert_map_to_list_head">插入</string>
+    <string name="block_insert_map_to_list_body_1">在</string>
+    <string name="block_insert_map_to_list_body_2">到</string>
     <string name="block_insert_map_to_list_tail"></string>
 
-    <string name="block_get_map_in_list_head">get at</string>
-    <string name="block_get_map_in_list_body_1">of</string>
-    <string name="block_get_map_in_list_body_2">to</string>
+    <string name="block_get_map_in_list_head">取</string>
+    <string name="block_get_map_in_list_body_1">的</string>
+    <string name="block_get_map_in_list_body_2">到</string>
     <string name="block_get_map_in_list_tail"></string>
 
     <string name="block_firebasestorage_upload_file_head"></string>
-    <string name="block_firebasestorage_upload_file_body_1">upload file path</string>
-    <string name="block_firebasestorage_upload_file_body_2">name as</string>
+    <string name="block_firebasestorage_upload_file_body_1">上传文件路径</string>
+    <string name="block_firebasestorage_upload_file_body_2">名字为</string>
     <string name="block_firebasestorage_upload_file_tail"></string>
 
     <string name="block_firebasestorage_download_file_head"></string>
-    <string name="block_firebasestorage_download_file_body_1">download file url</string>
-    <string name="block_firebasestorage_download_file_body_2">to file path</string>
+    <string name="block_firebasestorage_download_file_body_1">下载文件的网址</string>
+    <string name="block_firebasestorage_download_file_body_2">到文件路径</string>
     <string name="block_firebasestorage_download_file_tail"></string>
 
     <string name="block_firebasestorage_delete_head"></string>
-    <string name="block_firebasestorage_delete_body_1">delete file url</string>
+    <string name="block_firebasestorage_delete_body_1">删除文件的网址</string>
     <string name="block_firebasestorage_delete_tail"></string>
 
     <string name="block_camera_start_take_picture_head"></string>
-    <string name="block_camera_start_take_picture_tail">take picture</string>
+    <string name="block_camera_start_take_picture_tail">拍照</string>
 
     <string name="block_file_picker_start_pick_files_head"></string>
-    <string name="block_file_picker_start_pick_files_tail">pick files</string>
+    <string name="block_file_picker_start_pick_files_tail">选择文件</string>
 
-    <string name="block_fileutil_delete_head">delete file path</string>
+    <string name="block_fileutil_delete_head">删除文件</string>
     <string name="block_fileutil_delete_tail"></string>
 
-    <string name="block_fileutil_copy_head">copy file path</string>
-    <string name="block_fileutil_copy_body_1">to path</string>
+    <string name="block_fileutil_copy_head">复制文件</string>
+    <string name="block_fileutil_copy_body_1">到</string>
     <string name="block_fileutil_copy_tail"></string>
 
-    <string name="block_fileutil_write_head">write String</string>
-    <string name="block_fileutil_write_body_1">to file path</string>
+    <string name="block_fileutil_write_head">写字符串</string>
+    <string name="block_fileutil_write_body_1">到文件</string>
     <string name="block_fileutil_write_tail"></string>
 
-    <string name="block_fileutil_read_head">read file path</string>
+    <string name="block_fileutil_read_head">读文件</string>
     <string name="block_fileutil_read_tail"></string>
 
-    <string name="block_fileutil_move_head">move file path</string>
-    <string name="block_fileutil_move_body_1">to path</string>
+    <string name="block_fileutil_move_head">移动文件</string>
+    <string name="block_fileutil_move_body_1">到</string>
     <string name="block_fileutil_move_tail"></string>
 
-    <string name="block_fileutil_is_exist_head">is exist file path</string>
+    <string name="block_fileutil_is_exist_head">是否存在</string>
     <string name="block_fileutil_is_exist_tail"></string>
 
-    <string name="block_fileutil_make_dir_head">make directory path</string>
+    <string name="block_fileutil_make_dir_head">建立目录</string>
     <string name="block_fileutil_make_dir_tail"></string>
 
-    <string name="block_fileutil_list_dir_head">file list in path</string>
-    <string name="block_fileutil_list_dir_body_1">to</string>
+    <string name="block_fileutil_list_dir_head">文件列表</string>
+    <string name="block_fileutil_list_dir_body_1">到</string>
     <string name="block_fileutil_list_dir_tail"></string>
 
-    <string name="block_fileutil_is_dir_head">path</string>
-    <string name="block_fileutil_is_dir_tail">is directory</string>
+    <string name="block_fileutil_is_dir_head"></string>
+    <string name="block_fileutil_is_dir_tail">是目录</string>
 
-    <string name="block_fileutil_is_file_head">path</string>
-    <string name="block_fileutil_is_file_tail">is file</string>
+    <string name="block_fileutil_is_file_head"></string>
+    <string name="block_fileutil_is_file_tail">是文件</string>
 
-    <string name="block_fileutil_length_head">get length of path</string>
+    <string name="block_fileutil_length_head">得到的长度</string>
     <string name="block_fileutil_length_tail"></string>
 
-    <string name="block_fileutil_starts_with_head"></string>
-    <string name="block_fileutil_starts_with_body_1">starts with</string>
+    <string name="block_fileutil_starts_with_head">以</string>
+    <string name="block_fileutil_starts_with_body_1">开始</string>
     <string name="block_fileutil_starts_with_tail"></string>
 
-    <string name="block_fileutil_ends_with_head"></string>
-    <string name="block_fileutil_ends_with_body_1">ends with</string>
+    <string name="block_fileutil_ends_with_head">以</string>
+    <string name="block_fileutil_ends_with_body_1">结束</string>
     <string name="block_fileutil_ends_with_tail"></string>
 
-    <string name="block_fileutil_get_last_segment_path_head">get last segment path of</string>
-    <string name="block_fileutil_get_last_segment_path_body_1"></string>
+    <string name="block_fileutil_get_last_segment_path_head">取</string>
+    <string name="block_fileutil_get_last_segment_path_body_1">最后一段路径</string>
     <string name="block_fileutil_get_last_segment_path_tail"></string>
 
-    <string name="block_get_external_storage_dir_head">get external storage directory</string>
-    <string name="block_get_external_storage_dir_tail"></string>
+    <string name="block_get_external_storage_dir_head">取</string>
+    <string name="block_get_external_storage_dir_tail">外部存储目录</string>
 
-    <string name="block_get_package_data_dir_head">get package data directory</string>
-    <string name="block_get_package_data_dir_tail"></string>
+    <string name="block_get_package_data_dir_head">取</string>
+    <string name="block_get_package_data_dir_tail">包数据目录</string>
 
-    <string name="block_get_public_dir_head">get public directory type</string>
-    <string name="block_get_public_dir_tail"></string>
+    <string name="block_get_public_dir_head">取</string>
+    <string name="block_get_public_dir_tail">公共目录类型</string>
 
-    <string name="block_resize_bitmap_ratio_head">resize image retain ratio from path</string>
-    <string name="block_resize_bitmap_ratio_body_1">to path</string>
-    <string name="block_resize_bitmap_ratio_body_2">max size</string>
+    <string name="block_resize_bitmap_ratio_head">调整图像</string>
+    <string name="block_resize_bitmap_ratio_body_1">保留比例 到</string>
+    <string name="block_resize_bitmap_ratio_body_2">最大尺寸</string>
     <string name="block_resize_bitmap_ratio_tail"></string>
 
-    <string name="block_resize_bitmap_square_head">resize image to square from path</string>
-    <string name="block_resize_bitmap_square_body_1">to path</string>
-    <string name="block_resize_bitmap_square_body_2">max size</string>
+    <string name="block_resize_bitmap_square_head">调整图像</string>
+    <string name="block_resize_bitmap_square_body_1">方形大小 到</string>
+    <string name="block_resize_bitmap_square_body_2">最大尺寸</string>
     <string name="block_resize_bitmap_square_tail"></string>
 
-    <string name="block_resize_bitmap_circle_head">resize image to circle from path</string>
-    <string name="block_resize_bitmap_circle_body_1">to path</string>
+    <string name="block_resize_bitmap_circle_head">调整图像</string>
+    <string name="block_resize_bitmap_circle_body_1">圆形大小 到</string>
     <string name="block_resize_bitmap_circle_tail"></string>
 
-    <string name="block_resize_bitmap_rounded_head">resize image rounded from path</string>
-    <string name="block_resize_bitmap_rounded_body_1">to path</string>
-    <string name="block_resize_bitmap_rounded_body_2">round pixels</string>
+    <string name="block_resize_bitmap_rounded_head">调整图像</string>
+    <string name="block_resize_bitmap_rounded_body_1">圆角大小 到</string>
+    <string name="block_resize_bitmap_rounded_body_2">圆像素</string>
     <string name="block_resize_bitmap_rounded_tail"></string>
 
-    <string name="block_crop_bitmap_center_head">crop image center from path</string>
-    <string name="block_crop_bitmap_center_body_1">to path</string>
-    <string name="block_crop_bitmap_center_body_2">width</string>
-    <string name="block_crop_bitmap_center_body_3">height</string>
+    <string name="block_crop_bitmap_center_head">从图像</string>
+    <string name="block_crop_bitmap_center_body_1">中央裁剪 到</string>
+    <string name="block_crop_bitmap_center_body_2">宽</string>
+    <string name="block_crop_bitmap_center_body_3">高</string>
     <string name="block_crop_bitmap_center_tail"></string>
 
-    <string name="block_rotate_bitmap_head">rotate image from path</string>
-    <string name="block_rotate_bitmap_body_1">to path</string>
-    <string name="block_rotate_bitmap_body_2">angle</string>
+    <string name="block_rotate_bitmap_head">旋转图像</string>
+    <string name="block_rotate_bitmap_body_1">到</string>
+    <string name="block_rotate_bitmap_body_2">角度</string>
     <string name="block_rotate_bitmap_tail"></string>
 
-    <string name="block_scale_bitmap_head">scale image from path</string>
-    <string name="block_scale_bitmap_body_1">to path</string>
+    <string name="block_scale_bitmap_head">缩放图像</string>
+    <string name="block_scale_bitmap_body_1">到</string>
     <string name="block_scale_bitmap_body_2">x</string>
     <string name="block_scale_bitmap_body_3">y</string>
     <string name="block_scale_bitmap_tail"></string>
 
-    <string name="block_skew_bitmap_head">skew image from path</string>
-    <string name="block_skew_bitmap_body_1">to path</string>
+    <string name="block_skew_bitmap_head">倾斜图像</string>
+    <string name="block_skew_bitmap_body_1">到</string>
     <string name="block_skew_bitmap_body_2">x</string>
     <string name="block_skew_bitmap_body_3">y</string>
     <string name="block_skew_bitmap_tail"></string>
 
-    <string name="block_set_bitmap_color_filter_head">set image color filter from path</string>
-    <string name="block_set_bitmap_color_filter_body_1">to path</string>
-    <string name="block_set_bitmap_color_filter_body_2">color</string>
+    <string name="block_set_bitmap_color_filter_head">设置图像</string>
+    <string name="block_set_bitmap_color_filter_body_1">颜色过滤器 到</string>
+    <string name="block_set_bitmap_color_filter_body_2">颜色</string>
     <string name="block_set_bitmap_color_filter_tail"></string>
 
-    <string name="block_set_bitmap_brightness_head">set image brightness from path</string>
-    <string name="block_set_bitmap_brightness_body_1">to path</string>
-    <string name="block_set_bitmap_brightness_body_2">value</string>
+    <string name="block_set_bitmap_brightness_head">设置图像</string>
+    <string name="block_set_bitmap_brightness_body_1">亮度 到</string>
+    <string name="block_set_bitmap_brightness_body_2">值</string>
     <string name="block_set_bitmap_brightness_tail"></string>
 
-    <string name="block_set_bitmap_contrast_head">set image contrast from path</string>
-    <string name="block_set_bitmap_contrast_body_1">to path</string>
-    <string name="block_set_bitmap_contrast_body_2">value</string>
+    <string name="block_set_bitmap_contrast_head">设置图像</string>
+    <string name="block_set_bitmap_contrast_body_1">对比度 到</string>
+    <string name="block_set_bitmap_contrast_body_2">值</string>
     <string name="block_set_bitmap_contrast_tail"></string>
 
-    <string name="block_set_image_file_path_head"></string>
-    <string name="block_set_image_file_path_body_1">set image from file path</string>
+    <string name="block_set_image_file_path_head">设</string>
+    <string name="block_set_image_file_path_body_1">图像文件路径为</string>
     <string name="block_set_image_file_path_tail"></string>
 
-    <string name="block_set_image_url_head"></string>
-    <string name="block_set_image_url_body_1">set image from url</string>
+    <string name="block_set_image_url_head">设</string>
+    <string name="block_set_image_url_body_1">图像网址为</string>
     <string name="block_set_image_url_tail"></string>
 
-    <string name="block_get_jpeg_rotate_head">get jpeg rotate from file path</string>
-    <string name="block_get_jpeg_rotate_tail"></string>
+    <string name="block_get_jpeg_rotate_head">取jpeg</string>
+    <string name="block_get_jpeg_rotate_tail">的旋转</string>
 
     <!-- ************************************************************************************************************************* -->
     <!-- ************************************************************************************************************************* -->
@@ -2449,13 +2449,13 @@
     <!-- ************************************************************************************************************************* -->
 
     <!-- append 3.0.3 -->
-    <string name="event_onpicturetakencancel">onPictureTakenCancel</string>
-    <string name="event_onfilespickedcancel">onFilesPickedCancel</string>
+    <string name="event_onpicturetakencancel">当取消照片拍摄</string>
+    <string name="event_onfilespickedcancel">当取消选择文件</string>
 
-    <string name="root_spec_on_picture_taken_cancel_head">onPictureTakenCancel</string>
+    <string name="root_spec_on_picture_taken_cancel_head">当取消照片拍摄</string>
     <string name="root_spec_on_picture_taken_cancel_tail"></string>
 
-    <string name="root_spec_on_files_picked_cancel_head">onFilesPickedCancel</string>
+    <string name="root_spec_on_files_picked_cancel_head">当取消选择文件取消</string>
     <string name="root_spec_on_files_picked_cancel_tail"></string>
 
 </resources>
