@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="1.2" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="1.3" locale="zh"?><resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn  -->
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************        Common  Start    *********************************************** -->
@@ -107,7 +107,7 @@
     <string name="common_message_permission_account1">没有权限。 请点击 "设置" 以允许 "联系人" 权限。如果没有此权限，则无法使用Google帐户登录</string>
 
     <string name="common_message_permission_account_for_purchase">为了管理购买历史记录，我们需要获得访问您的Google帐户的权限</string>
-    <string name="common_message_permission_account1_for_purchase">没有权限. 请点击 "Settings" 以允许"联系人"的权限。\n未经其许可，我们无法管理购买历史记录</string>
+    <string name="common_message_permission_account1_for_purchase">没有权限. 请点击"设置"以允许"联系人"的权限。\n未经其许可，我们无法管理购买历史记录</string>
 
     <string name="common_message_permission_title_storage">需要权限</string>
 
