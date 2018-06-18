@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="1.3" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="2.0" locale="zh"?><resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn  -->
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************        Common  Start    *********************************************** -->
@@ -403,25 +403,25 @@
     <string name="design_library_firebase_hint_enter_firebase_api_key">输入Firebase API密钥</string>
     <string name="design_library_firebase_hint_enter_firebase_storage_bucket_url">输入Firebase存储桶(Bucket) Url</string>
 
-    <string name="design_library_firebase_description_settings">Project ID, App ID, and API Key must match the values inside the Firebase Console.</string>
-    <string name="design_library_firebase_description_storage">Storage Bucket URL must match the value in Firebase Storage for it to work properly.</string>
+    <string name="design_library_firebase_description_settings">项目ID，应用程序ID和API密钥必须与Firebase控制台中的值匹配.</string>
+    <string name="design_library_firebase_description_storage">存储分区网址必须与Firebase存储中的值匹配才能正常运行.</string>
 
-    <string name="design_library_firebase_title_firebase_setup_tutorial">Firebase Setup Tutorial</string>
+    <string name="design_library_firebase_title_firebase_setup_tutorial">Firebase安装教程</string>
     <string name="design_library_firebase_title_firebase">Firebase</string>
 
-    <string name="design_library_firebase_dialog_description_confirm_uncheck_firebase">If you uncheck the option for Firebase DB, existing Firebase components will be deleted. Are you sure you want to continue?</string>
+    <string name="design_library_firebase_dialog_description_confirm_uncheck_firebase">如果您取消选中Firebase数据库选项，现有的Firebase组件将被删除。 你确定你要继续吗？</string>
 
-    <string name="design_library_firebase_button_goto_firebase_console">Go To Firebase Console</string>
-    <string name="design_library_firebase_button_goto_firebase_database">Go To Firebase Database</string>
-    <string name="design_library_firebase_button_goto_firebase_authentication">Go To Firebase Authentication</string>
-    <string name="design_library_firebase_button_goto_firebase_storage">Go To Firebase Storage</string>
+    <string name="design_library_firebase_button_goto_firebase_console">转到Firebase控制台</string>
+    <string name="design_library_firebase_button_goto_firebase_database">转到Firebase数据库</string>
+    <string name="design_library_firebase_button_goto_firebase_authentication">转到Firebase身份验证</string>
+    <string name="design_library_firebase_button_goto_firebase_storage">转到Firebase存储</string>
 
-    <string name="design_library_firebase_description_about_firebase">Firebase Realtime Database is Google\'s cloud-based NoSQL database, where you can save and sync data realtime.</string>
+    <string name="design_library_firebase_description_about_firebase">Firebase实时数据库是Google基于云的NoSQL数据库，您可以在其中实时保存和同步数据.</string>
 
-    <string name="design_library_guide_setup_first">In order to use this component, you have to setup the settings in the Library Manager first.</string>
-    <string name="design_library_firebase_guide_setup_first">In order to use this component, you have to setup the API Key in the Firebase Settings first.</string>
-    <string name="design_library_firebase_guide_path_example">Path starting from the root.\nex)\"users/username\"</string>
-    <string name="design_library_firebase_message_id_fill_out">Project ID, App ID, and API Key must be filled out.</string>
+    <string name="design_library_guide_setup_first">为了使用此组件，您必须首先在库管理器中设置.</string>
+    <string name="design_library_firebase_guide_setup_first">为了使用此组件，您必须先在Firebase设置中设置API密钥.</string>
+    <string name="design_library_firebase_guide_path_example">从根开始的路径.\nex)\"users/username\"</string>
+    <string name="design_library_firebase_message_id_fill_out">项目ID，应用程序ID和API密钥必须填写.</string>
 
     <string name="design_manager_tab_title_this_project">此项目</string>
     <string name="design_manager_tab_title_my_collection">我的收藏</string>
@@ -525,24 +525,24 @@
     <!-- ************************************************************************************************************************* -->
 
 
-    <string name="event_title_add_new_event">Add new event</string>
-    <string name="event_title_add_new_component">Add new component</string>
+    <string name="event_title_add_new_event">添加新事件</string>
+    <string name="event_title_add_new_component">添加新组件</string>
 
-    <string name="event_message_new_event">New event added</string>
-    <string name="event_message_new_events">New events added</string>
-    <string name="event_message_no_events">No events to display</string>
-    <string name="event_message_no_avail_events">No available events to add</string>
+    <string name="event_message_new_event">新事件添加</string>
+    <string name="event_message_new_events">新增事件</string>
+    <string name="event_message_no_events">没有要显示的事件</string>
+    <string name="event_message_no_avail_events">没有可用的事件添加</string>
 
-    <string name="event_context_menu_title">Event Menu</string>
-    <string name="event_context_menu_title_initialize_logic">Initialize logic</string>
-    <string name="event_context_menu_title_delete_more_block">Delete moreBlock</string>
-    <string name="event_context_menu_title_delete_event">Delete Event</string>
+    <string name="event_context_menu_title">活动菜单</string>
+    <string name="event_context_menu_title_initialize_logic">初始化逻辑</string>
+    <string name="event_context_menu_title_delete_more_block">删除更多块</string>
+    <string name="event_context_menu_title_delete_event">删除事件</string>
 
-    <string name="event_dialog_confirm_reset_logic">Are you sure you want to reset this logic?</string>
+    <string name="event_dialog_confirm_reset_logic">你确定你想重置这个逻辑吗？</string>
 
-    <string name="event_dialog_confirm_delete_moreblock">Are you sure you want to delete this moreBlock?</string>
-    <string name="event_dialog_confirm_delete_component">Are you sure you want to delete the selected component?</string>
-    <string name="event_dialog_confirm_delete_logic">All logic data of the selected event will be lost\nDo you want to continue?</string>
+    <string name="event_dialog_confirm_delete_moreblock">你确定要删除这个更多的块吗？</string>
+    <string name="event_dialog_confirm_delete_component">您确定要删除选定的组件吗？</string>
+    <string name="event_dialog_confirm_delete_logic">所选事件的所有逻辑数据都将丢失\n你想继续吗？</string>
 
     <string name="event_initialize">当活动创建</string>
     <string name="event_definefunc">更多的块-MoreBlock</string>
@@ -650,9 +650,9 @@
     <string name="logic_block_favorites_delete_message">您确定要从我的收藏中删除您保存的区块吗？ 此操作无法撤消.</string>
 
 
-    <string name="logic_variable_type_boolean">布尔-Boolean</string>
-    <string name="logic_variable_type_number">号码-Number</string>
-    <string name="logic_variable_type_string">字符串-String</string>
+    <string name="logic_variable_type_boolean">布尔</string>
+    <string name="logic_variable_type_number">号码</string>
+    <string name="logic_variable_type_string">字符串</string>
     <string name="logic_variable_type_map">地图-Map</string>
     <string name="logic_variable_type_list_number">号码列表</string>
     <string name="logic_variable_type_list_string">字符串列表</string>
@@ -685,37 +685,37 @@
     <string name="logic_editor_title_select_component_intent_flags">选择意图(intent)标志</string>
 
 
-    <string name="logic_editor_title_select_component_calendar">Select calendar component</string>
-    <string name="logic_editor_title_select_component_calendar_field">Select calendar field</string>
-    <string name="logic_editor_title_select_component_vibrator">Select vibrator component</string>
-    <string name="logic_editor_title_select_component_timer">Select timer component</string>
-    <string name="logic_editor_title_select_component_firebase">Select Firebase DB component</string>
-    <string name="logic_editor_title_select_component_dialog">Select dialog component</string>
-    <string name="logic_editor_title_select_component_mediaplayer">Select MediaPlayer component</string>
-    <string name="logic_editor_title_select_component_soundpool">Select SoundPool component</string>
-    <string name="logic_editor_title_select_component_objectanimator">Select ObjectAnimator component</string>
-    <string name="logic_editor_title_select_component_gyroscope">Select Gyroscope component</string>
-    <string name="logic_editor_title_select_component_interstitialad">Select Interstitial Ad component</string>
-    <string name="logic_editor_title_select_component_firebasestorage">Select Firebase Storage component</string>
-    <string name="logic_editor_title_select_component_camera">Select Camera component</string>
-    <string name="logic_editor_title_select_component_filepicker">Select FilePicker component</string>
-    <string name="logic_editor_title_select_visibility">Select visibility</string>
-    <string name="logic_editor_title_select_cache_mode">Select cache mode</string>
-    <string name="logic_editor_title_select_animator_repeat_mode">Select repeat mode</string>
-    <string name="logic_editor_title_select_animator_target_property">Select target property</string>
-    <string name="logic_editor_title_select_animator_interpolator">Select interpolator</string>
-    <string name="logic_editor_title_select_gyroscope">Select gyroscope component</string>
-    <string name="logic_editor_title_select_directory_type">Select directory type</string>
+    <string name="logic_editor_title_select_component_calendar">选择日历组件</string>
+    <string name="logic_editor_title_select_component_calendar_field">选择日历栏</string>
+    <string name="logic_editor_title_select_component_vibrator">选择振动器组件</string>
+    <string name="logic_editor_title_select_component_timer">选择计时器组件</string>
+    <string name="logic_editor_title_select_component_firebase">选择Firebase数据库组件</string>
+    <string name="logic_editor_title_select_component_dialog">选择对话框组件</string>
+    <string name="logic_editor_title_select_component_mediaplayer">选择媒体播放器组件</string>
+    <string name="logic_editor_title_select_component_soundpool">选择音频池组件</string>
+    <string name="logic_editor_title_select_component_objectanimator">选择动画对象组件</string>
+    <string name="logic_editor_title_select_component_gyroscope">选择陀螺仪组件</string>
+    <string name="logic_editor_title_select_component_interstitialad">选择插页式广告组件</string>
+    <string name="logic_editor_title_select_component_firebasestorage">选择Firebase存储组件</string>
+    <string name="logic_editor_title_select_component_camera">选择相机组件</string>
+    <string name="logic_editor_title_select_component_filepicker">选择文件选择器组件</string>
+    <string name="logic_editor_title_select_visibility">选择可见性</string>
+    <string name="logic_editor_title_select_cache_mode">选择缓存模式</string>
+    <string name="logic_editor_title_select_animator_repeat_mode">选择重复模式</string>
+    <string name="logic_editor_title_select_animator_target_property">选择目标属性</string>
+    <string name="logic_editor_title_select_animator_interpolator">选择插补器</string>
+    <string name="logic_editor_title_select_gyroscope">选择陀螺仪组件</string>
+    <string name="logic_editor_title_select_directory_type">选择目录类型</string>
 
 
-    <string name="logic_editor_component_firebaseauth_title_select_firebase_auth">Select Firebase Auth component</string>
+    <string name="logic_editor_component_firebaseauth_title_select_firebase_auth">选择Firebase身份验证组件</string>
 
 
 
 
 
-    <string name="logic_editor_option_menu_title_copy_blocks">Copy blocks</string>
-    <string name="logic_editor_option_menu_title_paste_blocks">Paste copied blocks</string>
+    <string name="logic_editor_option_menu_title_copy_blocks">复制块</string>
+    <string name="logic_editor_option_menu_title_paste_blocks">粘贴复制的块</string>
 
     <string name="logic_editor_panel_button_add_variable">添加变量</string>
     <string name="logic_editor_panel_button_remove_variable">删除变量</string>
@@ -775,47 +775,47 @@
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************        Account  Start        ****************************************** -->
     <!-- ************************************************************************************************************************* -->
-    <string name="account_mypage_tab_title_shared">Shared</string>
-    <string name="account_mypage_tab_title_favorite">Favorite</string>
+    <string name="account_mypage_tab_title_shared">共享</string>
+    <string name="account_mypage_tab_title_favorite">喜爱</string>
 
-    <string name="account_mypage_title_remaing_shares">Remaining Shares : </string>
-    <string name="account_mypage_button_go_premmium">GO PREMIUM</string>
+    <string name="account_mypage_title_remaing_shares">剩余的分享 : </string>
+    <string name="account_mypage_button_go_premmium">去溢价</string>
 
-    <string name="account_mypage_message_no_projects">No projects to display</string>
+    <string name="account_mypage_message_no_projects">没有要显示的项目</string>
 
-    <string name="account_settings_actionbar_title">Account Settings</string>
-    <string name="account_settings_description_no_nickname">No nickname created</string>
-    <string name="account_settings_button_logout">Log Out</string>
+    <string name="account_settings_actionbar_title">帐号设定</string>
+    <string name="account_settings_description_no_nickname">没有创建昵称</string>
+    <string name="account_settings_button_logout">登出</string>
 
-    <string name="account_login_description_keep_your_project">Keep your projects safe \nwith a free Sketchware Account</string>
-    <string name="account_login_description_create_account">Create a Sketchware Account</string>
-    <string name="account_login_description_agree_terms">By logging in, you\'re agreeing to the terms</string>
+    <string name="account_login_description_keep_your_project">使用免费的Sketchware账户保证您的项目安全</string>
+    <string name="account_login_description_create_account">创建一个Sketchware账户</string>
+    <string name="account_login_description_agree_terms">通过登录，您将同意这些条款</string>
 
-    <string name="account_login_button_terms_of_service">Terms of Service</string>
+    <string name="account_login_button_terms_of_service">服务条款</string>
 
-    <string name="account_reset_password_actionbar_title">Reset Password</string>
+    <string name="account_reset_password_actionbar_title">重设密码</string>
 
-    <string name="account_error_failed_login">Failed to login</string>
+    <string name="account_error_failed_login">登录失败</string>
 
-    <string name="account_dialog_google_login_title">Choose an account</string>
+    <string name="account_dialog_google_login_title">选择一个帐户</string>
 
-    <string name="account_dialog_suspended_title">Account Suspended</string>
-    <string name="account_dialog_suspended_description">Your account (%s) has been suspended. If you feel like this suspension was made by mistake, please contact help@sketchware.io</string>
+    <string name="account_dialog_suspended_title">帐户已停用</string>
+    <string name="account_dialog_suspended_description">您的帐户 (%s) 已被停用. 如果您觉得这是错误的, 请联系 help@sketchware.io</string>
 
-    <string name="account_deactivate_actionbar_title">Deactivate Account</string>
+    <string name="account_deactivate_actionbar_title">停用账号</string>
 
-    <string name="account_message_nickname_unavailable">Current nickname is unavailable</string>
-    <string name="account_message_already_used_nickname">Nickname unavailable</string>
-
-
-    <string name="account_edit_profile_actionbar_title">Edit Profile</string>
-    <string name="account_edit_profile_description_nickname_public">*This name will be shown to public</string>
-    <string name="account_edit_profile_hint_enter_nickname">Enter your name or nickname</string>
+    <string name="account_message_nickname_unavailable">当前昵称不可用</string>
+    <string name="account_message_already_used_nickname">昵称不可用</string>
 
 
-    <string name="account_deactivate_dialog_deactivate_account">Deactivate</string>
-    <string name="account_deactivate_button_deactivate_account">Deactivate account</string>
-    <string name="account_deactivate_dialog_confirm_lost_data">All information will be lost.\nDo you want to continue?</string>
+    <string name="account_edit_profile_actionbar_title">编辑个人资料</string>
+    <string name="account_edit_profile_description_nickname_public">*此名称将显示给公众</string>
+    <string name="account_edit_profile_hint_enter_nickname">输入你的名字或昵称</string>
+
+
+    <string name="account_deactivate_dialog_deactivate_account">停用</string>
+    <string name="account_deactivate_button_deactivate_account">停用账号</string>
+    <string name="account_deactivate_dialog_confirm_lost_data">所有信息都将丢失.\n你想继续吗?</string>
 
 
     <!-- ************************************************************************************************************************* -->
@@ -826,102 +826,102 @@
     <!-- *************************************************   Shared Project  Start       ***************************************** -->
     <!-- ************************************************************************************************************************* -->
 
-    <string name="shared_project_viewpager_title_trending">TRENDING</string>
-    <string name="shared_project_viewpager_button_open_project">Open Project</string>
-    <string name="shared_project_list_title_new">NEW</string>
-    <string name="shared_project_list_title_popular">POPULAR</string>
-    <string name="shared_project_list_title_editor_choice">EDITORS\' CHOICE</string>
+    <string name="shared_project_viewpager_title_trending">趋势</string>
+    <string name="shared_project_viewpager_button_open_project">打开项目</string>
+    <string name="shared_project_list_title_new">新的</string>
+    <string name="shared_project_list_title_popular">流行</string>
+    <string name="shared_project_list_title_editor_choice">编辑选择</string>
 
-    <string name="shared_project_all_actionbar_title_editor_choice_project">Editors\' Choice Projects</string>
-    <string name="shared_project_all_actionbar_title_popular_project">Popular Projects</string>
-    <string name="shared_project_all_actionbar_title_new_project">New Projects</string>
-    <string name="shared_project_all_actionbar_title_my_shared_project">My Shared Projects</string>
-    <string name="shared_project_all_actionbar_title_my_liked_project">My Liked Projects</string>
-    <string name="shared_project_all_actionbar_title_who_liked_project">%s\'s Shared Projects</string>
+    <string name="shared_project_all_actionbar_title_editor_choice_project">编辑选择项目</string>
+    <string name="shared_project_all_actionbar_title_popular_project">热门项目</string>
+    <string name="shared_project_all_actionbar_title_new_project">新的项目</string>
+    <string name="shared_project_all_actionbar_title_my_shared_project">我的共享项目</string>
+    <string name="shared_project_all_actionbar_title_my_liked_project">我喜欢的项目</string>
+    <string name="shared_project_all_actionbar_title_who_liked_project">%s的共享项目</string>
 
-    <string name="shared_project_message_no_shared_projects">No shared projects to display</string>
+    <string name="shared_project_message_no_shared_projects">没有共享的项目可以显示</string>
 
-    <string name="shared_project_detail_dialog_last_version_title">Update Required</string>
-    <string name="shared_project_detail_dialog_last_version_description">You need the latest version of Sketchware to open this project</string>
+    <string name="shared_project_detail_dialog_last_version_title">需要更新</string>
+    <string name="shared_project_detail_dialog_last_version_description">您需要最新版本的Sketchware才能打开此项目</string>
 
-    <string name="shared_project_detail_dialog_share_project_title">Share Project</string>
-    <string name="shared_project_detail_dialog_share_project_confirm">Would you like to share this project?</string>
+    <string name="shared_project_detail_dialog_share_project_title">分享项目</string>
+    <string name="shared_project_detail_dialog_share_project_confirm">你想分享这个项目吗？</string>
 
-    <string name="shared_project_detail_tab_title_about">About</string>
-    <string name="shared_project_detail_tab_title_comments">Comments</string>
+    <string name="shared_project_detail_tab_title_about">关于</string>
+    <string name="shared_project_detail_tab_title_comments">注释</string>
 
-    <string name="shared_project_detail_button_open_project">OPEN PROJECT</string>
+    <string name="shared_project_detail_button_open_project">打开项目</string>
 
-    <string name="shared_project_detail_about_title_read_less">READ LESS</string>
-    <string name="shared_project_detail_about_title_read_more">READ MORE</string>
+    <string name="shared_project_detail_about_title_read_less">阅读少量</string>
+    <string name="shared_project_detail_about_title_read_more">阅读更多</string>
 
-    <string name="shared_project_detail_about_project_information_last_updated">Last Updated</string>
-    <string name="shared_project_detail_about_project_information_registered_date">Registered Date</string>
+    <string name="shared_project_detail_about_project_information_last_updated">最近更新时间</string>
+    <string name="shared_project_detail_about_project_information_registered_date">注册日期</string>
 
-    <string name="shared_project_detail_about_title_more_project_by_whom">More Projects by %s</string>
-    <string name="shared_project_detail_about_title_report_project">Report Project</string>
+    <string name="shared_project_detail_about_title_more_project_by_whom">%s更多的项目 </string>
+    <string name="shared_project_detail_about_title_report_project">报告项目</string>
 
-    <string name="shared_project_detail_about_button_title_save_as_new">Save as New</string>
-    <string name="shared_project_detail_about_button_title_edit_project">Edit Project</string>
-    <string name="shared_project_detail_about_button_title_delete_project">Delete Project</string>
+    <string name="shared_project_detail_about_button_title_save_as_new">保存为新的</string>
+    <string name="shared_project_detail_about_button_title_edit_project">修改项目</string>
+    <string name="shared_project_detail_about_button_title_delete_project">删除项目</string>
 
-    <string name="shared_project_detail_about_report_project_title_reason_type_1">Sexual content</string>
-    <string name="shared_project_detail_about_report_project_title_reason_type_2">Graphic violence</string>
-    <string name="shared_project_detail_about_report_project_title_reason_type_3">Hateful or abusive content</string>
-    <string name="shared_project_detail_about_report_project_title_reason_type_4">Spam</string>
-    <string name="shared_project_detail_about_report_project_title_reason_type_5">Advertisements</string>
-    <string name="shared_project_detail_about_report_project_title_reason_type_6">Gambling content</string>
-    <string name="shared_project_detail_about_report_project_title_reason_type_7">Illegal activity</string>
-    <string name="shared_project_detail_about_report_project_title_reason_type_8">Other objection</string>
-
-
-    <string name="shared_project_detail_about_report_project_dialog_title_flag_as_inappropriate">Flag as inappropriate</string>
-    <string name="shared_project_detail_about_report_project_dialog_description_reason">The reason you find this content or app objectionable:</string>
-    <string name="shared_project_detail_about_report_project_hint_written_english">The reason has to be written in English</string>
-
-    <string name="shared_project_detail_about_error_failed_delete_project">Deleting project failed\nPlease try again later</string>
-    <string name="shared_project_detail_about_error_failed_download_project">Download failed\nPlease try again later</string>
+    <string name="shared_project_detail_about_report_project_title_reason_type_1">色情内容</string>
+    <string name="shared_project_detail_about_report_project_title_reason_type_2">暴力图像</string>
+    <string name="shared_project_detail_about_report_project_title_reason_type_3">憎恨或辱骂的内容</string>
+    <string name="shared_project_detail_about_report_project_title_reason_type_4">垃圾邮件</string>
+    <string name="shared_project_detail_about_report_project_title_reason_type_5">广告</string>
+    <string name="shared_project_detail_about_report_project_title_reason_type_6">赌博内容</string>
+    <string name="shared_project_detail_about_report_project_title_reason_type_7">非法活动</string>
+    <string name="shared_project_detail_about_report_project_title_reason_type_8">其他异议</string>
 
 
-    <string name="shared_project_detail_comments_hint_enter_comment">Enter your comment</string>
+    <string name="shared_project_detail_about_report_project_dialog_title_flag_as_inappropriate">举报不当内容</string>
+    <string name="shared_project_detail_about_report_project_dialog_description_reason">您发现此内容或应用令人反感的原因:</string>
+    <string name="shared_project_detail_about_report_project_hint_written_english">原因必须用英文书写</string>
 
-    <string name="shared_project_detail_comments_context_menu_title">Show %s\'s projets</string>
-    <string name="shared_project_detail_comments_context_menu_title_comment_copy">Copy Comment</string>
-    <string name="shared_project_detail_comments_context_menu_title_comment_delete">Delete Comment</string>
-
-    <string name="shared_project_detail_comments_confirm_delete_comment">Are you sure you want to delete this comment? </string>
-
-
-    <string name="shared_project_detail_comments_message_no_comments">No comments to display</string>
-    <string name="shared_project_detail_comments_message_commented">Commented</string>
-    <string name="shared_project_detail_comments_message_already_delete_comment">This comment was already deleted</string>
-    <string name="shared_project_detail_comments_error_failed_load_comment">Failed to load comments \n Please try again later</string>
-    <string name="shared_project_detail_comments_error_failed_delete_comment">Deleting comment failed\nPlease try again later</string>
-
-    <string name="shared_project_detail_comment_hint_enter_comment">Enter your comment</string>
-    <string name="shared_project_detail_comment_error_failed_comment">Failed to comment \n Please try again later</string>
+    <string name="shared_project_detail_about_error_failed_delete_project">删除项目失败\n请稍后再试</string>
+    <string name="shared_project_detail_about_error_failed_download_project">下载失败\n请稍后再试</string>
 
 
-    <string name="shared_project_detail_message_already_liked_project">You already liked this project</string>
-    <string name="shared_project_detail_message_liked">Liked</string>
-    <string name="shared_project_detail_message_unliked">Unliked</string>
-    <string name="shared_project_detail_message_unregister_like">Like was not registered</string>
-    <string name="shared_project_detail_error_failed_like_project">Like failed \n Please try again later</string>
-    <string name="shared_project_detail_error_failed_unlike_project">Unlike failed \n Please try again later</string>
+    <string name="shared_project_detail_comments_hint_enter_comment">输入你的评论</string>
+
+    <string name="shared_project_detail_comments_context_menu_title">显示 %s\的项目</string>
+    <string name="shared_project_detail_comments_context_menu_title_comment_copy">复制评论</string>
+    <string name="shared_project_detail_comments_context_menu_title_comment_delete">删除评论</string>
+
+    <string name="shared_project_detail_comments_confirm_delete_comment">你确定要删除此评论吗？ </string>
 
 
-    <string name="shared_project_detail_comment_complete_deleted_comment">Deleted Comment</string>
-    <string name="shared_project_detail_comment_complete_deleted_project">Deleted Project</string>
+    <string name="shared_project_detail_comments_message_no_comments">没有要显示的评论</string>
+    <string name="shared_project_detail_comments_message_commented">评论</string>
+    <string name="shared_project_detail_comments_message_already_delete_comment">此评论已被删除</string>
+    <string name="shared_project_detail_comments_error_failed_load_comment">无法加载评论\n请稍后再试</string>
+    <string name="shared_project_detail_comments_error_failed_delete_comment">删除评论失败\n请稍后再试</string>
+
+    <string name="shared_project_detail_comment_hint_enter_comment">输入你的评论</string>
+    <string name="shared_project_detail_comment_error_failed_comment">无法发表评论\n请稍后再试</string>
 
 
-    <string name="shared_project_error_failed_generate_shareable_link">Failed to generate a shareable link</string>
-    <string name="shared_project_confirm_delete_project">Are you sure you want to delete this project?  You can\'t undo this action</string>
+    <string name="shared_project_detail_message_already_liked_project">你已经喜欢这个项目</string>
+    <string name="shared_project_detail_message_liked">喜欢</string>
+    <string name="shared_project_detail_message_unliked">取消喜欢</string>
+    <string name="shared_project_detail_message_unregister_like">好像没有注册</string>
+    <string name="shared_project_detail_error_failed_like_project">喜欢失败 \n 请稍后再试</string>
+    <string name="shared_project_detail_error_failed_unlike_project">取消喜欢失败 \n 请稍后再试</string>
 
 
-    <string name="shared_project_viewpager_message_share_my_project">What\'s your awesome project?</string>
-    <string name="shared_project_viewpager_button_share_my_project">SHARE MY PROJECT</string>
+    <string name="shared_project_detail_comment_complete_deleted_comment">已删除评论</string>
+    <string name="shared_project_detail_comment_complete_deleted_project">已删除的项目</string>
 
-    <string name="shared_project_viewpager_message_go_premium">Want your project featured?</string>
+
+    <string name="shared_project_error_failed_generate_shareable_link">无法生成可分享的链接</string>
+    <string name="shared_project_confirm_delete_project">你确定要删除这个项目吗？ 这个动作无法撤销</string>
+
+
+    <string name="shared_project_viewpager_message_share_my_project">你最棒项目是什么？</string>
+    <string name="shared_project_viewpager_button_share_my_project">分享我的项目</string>
+
+    <string name="shared_project_viewpager_message_go_premium">想要你的项目特色？</string>
 
 
     <!-- ************************************************************************************************************************* -->
@@ -997,7 +997,7 @@
 
     <string name="language_message_already_liked_lanuage">你已经喜欢这种语言</string>
     <string name="language_message_liked">喜欢</string>
-    <string name="language_message_unliked">不喜欢</string>
+    <string name="language_message_unliked">取消喜欢</string>
     <string name="language_error_failed_like">设置喜欢失败 \n 请稍后再试</string>
     <string name="language_message_unregister_like">添加喜欢失败</string>
     <string name="language_error_failed_unlike_project">设置不喜欢失败 \n 请稍后再试</string>
@@ -1090,58 +1090,58 @@
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************  Promotion Start            ******************************************* -->
     <!-- ************************************************************************************************************************* -->
-    <string name="promotion_list_actionbar_title">Ongoing Promotions</string>
-    <string name="promotion_title_my_enrolled_promotions">My Enrolled Promotions</string>
-    <string name="promotion_title_available_promotions">Available Promotions</string>
-    <string name="promotion_title_tickets">%d tickets</string>
-    <string name="promotion_redeem_title">REDEEM</string>
+    <string name="promotion_list_actionbar_title">正在进行的促销</string>
+    <string name="promotion_title_my_enrolled_promotions">我已登记的促销</string>
+    <string name="promotion_title_available_promotions">可用促销</string>
+    <string name="promotion_title_tickets">%d 券</string>
+    <string name="promotion_redeem_title">选择使用</string>
 
-    <string name="promotion_checkin_description_x_days">%d checked-in days</string>
-    <string name="promotion_checkin_description_checkin_rule">Check in every day to win a free discount coupon!</string>
+    <string name="promotion_checkin_description_x_days">%d 注册日期</string>
+    <string name="promotion_checkin_description_checkin_rule">每天查看赢取免费折扣券！</string>
 
-    <string name="promotion_checkin_button_redeem_coupon">REDEEM COUPON</string>
-    <string name="promotion_checkin_button_check_in">CHECK IN</string>
+    <string name="promotion_checkin_button_redeem_coupon">兑换优惠券</string>
+    <string name="promotion_checkin_button_check_in">报到</string>
 
 
-    <string name="promotion_ticket_title">Ticket</string>
-    <string name="promotion_ticket_title_my_tickets">My Available Tickets</string>
-    <string name="promotion_ticket_title_choose_tickets">Choose a Ticket</string>
+    <string name="promotion_ticket_title">券</string>
+    <string name="promotion_ticket_title_my_tickets">我的可用券</string>
+    <string name="promotion_ticket_title_choose_tickets">选择一张券</string>
 
-    <string name="promotion_ticket_button_show_result">Show Results</string>
-    <string name="promotion_ticket_description_received_tickets">You have received %d tickets</string>
-    <string name="promotion_ticket_description_received_ticket">You have received %d ticket</string>
+    <string name="promotion_ticket_button_show_result">显示结果</string>
+    <string name="promotion_ticket_description_received_tickets">你收到了一些 %d 券</string>
+    <string name="promotion_ticket_description_received_ticket">你收到了 %d 券</string>
 
-    <string name="promotion_reward_title_no_rewards">No Rewards</string>
-    <string name="promotion_reward_message_no_rewards">There are no available rewards</string>
-    <string name="promotion_reward_title_won_free_pass">Won a free pass</string>
-    <string name="promotion_description_reward_discount_coupon">Won a %s discount coupon</string>
+    <string name="promotion_reward_title_no_rewards">没有奖励</string>
+    <string name="promotion_reward_message_no_rewards">没有可用的奖励</string>
+    <string name="promotion_reward_title_won_free_pass">赢得免费通行证</string>
+    <string name="promotion_description_reward_discount_coupon">赢得 %s 优惠券</string>
 
-    <string name="promotion_description_can_redeem_coupon">You can redeem the %s coupon</string>
+    <string name="promotion_description_can_redeem_coupon">你可以兑换 %s 优惠券</string>
 
-    <string name="promotion_description_try_again_next_time">Please try again next time</string>
-    <string name="promotion_message_checked_in_today">You have checked in today</string>
+    <string name="promotion_description_try_again_next_time">请再次尝试</string>
+    <string name="promotion_message_checked_in_today">你今天查看了</string>
 
-    <string name="promotion_description_check_in">You will be able to win a discount coupon after checking in a certain number of days</string>
-    <string name="promotion_description_tickets">You will have a higher chance of winning the pass depending on the number of tickets you own</string>
-    <string name="promotion_description_check_in_did_you_check">Did you check in today? You will receive a free discount coupon!</string>
+    <string name="promotion_description_check_in">在一定的天数后，您将能够赢得折扣券</string>
+    <string name="promotion_description_tickets">根据您拥有的门票数量，您将有更高的获胜机会</string>
+    <string name="promotion_description_check_in_did_you_check">你今天签到了吗？ 您将获得免费折扣券！</string>
 
-    <string name="promotion_reward_message_won_free_pass">You have won a free pass!\nPlease redeem this pass before %s</string>
-    <string name="promotion_description_won_discount_coupon" formatted="false">You have won a free %d discount coupon\nPlease redeem this coupon before %s</string>
+    <string name="promotion_reward_message_won_free_pass">您赢得了免费通行证！\n请先兑换此通行证 %s</string>
+    <string name="promotion_description_won_discount_coupon" formatted="false">您赢得了免费的%d折扣优惠券\n请先兑换此优惠券 %s</string>
 
-    <string name="promotion_reward_message_expired">The reward has been expired\n[Expiration date: %s]</string>
+    <string name="promotion_reward_message_expired">奖励已经过期\n[截止日期: %s]</string>
 
-    <string name="promotion_description_no_promotion">There are no promotions available</string>
-    <string name="promotion_description_early_end">* The promotion may end earlier than noted</string>
+    <string name="promotion_description_no_promotion">没有促销活动</string>
+    <string name="promotion_description_early_end">* 促销活动可能比注明的时间更早结束</string>
 
-    <string name="promotion_description_already_check_in">You have already participated today. Please try again tomorrow</string>
-    <string name="promotion_message_not_period">Please try again during the promotion period</string>
+    <string name="promotion_description_already_check_in">你今天已经参加了。 请明天再试</string>
+    <string name="promotion_message_not_period">请在促销期间再试一次</string>
 
-    <string name="promotion_reward_message_invalid_reward">Invalid Reward</string>
+    <string name="promotion_reward_message_invalid_reward">奖励无效</string>
 
-    <string name="promotion_reward_details">Reward Details</string>
-    <string name="promotion_title_discount_coupons">Discount Coupons</string>
+    <string name="promotion_reward_details">奖励详情</string>
+    <string name="promotion_title_discount_coupons">优惠券</string>
 
-    <string name="promotion_title_check_my_promotions">Check my available promotions</string>
+    <string name="promotion_title_check_my_promotions">检查我的可用促销</string>
 
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************  Promotion Start            ******************************************* -->
