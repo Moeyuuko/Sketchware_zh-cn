@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="2.0" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="2.1" locale="zh"?><resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn  -->
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************        Common  Start    *********************************************** -->
@@ -730,7 +730,7 @@
     <string name="logic_editor_title_add_new_variable">添加新变量</string>
     <string name="logic_editor_title_remove_variable">删除一个变量</string>
 
-    <string name="logic_editor_title_block_collection">我的座位集合</string>
+    <string name="logic_editor_title_block_collection">我的收藏</string>
 
     <string name="logic_editor_title_add_new_list">添加新列表</string>
     <string name="logic_editor_title_remove_list">删除一个列表</string>
@@ -830,9 +830,9 @@
     <string name="shared_project_viewpager_button_open_project">打开项目</string>
     <string name="shared_project_list_title_new">新的</string>
     <string name="shared_project_list_title_popular">流行</string>
-    <string name="shared_project_list_title_editor_choice">编辑选择</string>
+    <string name="shared_project_list_title_editor_choice">小编精选</string>
 
-    <string name="shared_project_all_actionbar_title_editor_choice_project">编辑选择项目</string>
+    <string name="shared_project_all_actionbar_title_editor_choice_project">小编精选项目</string>
     <string name="shared_project_all_actionbar_title_popular_project">热门项目</string>
     <string name="shared_project_all_actionbar_title_new_project">新的项目</string>
     <string name="shared_project_all_actionbar_title_my_shared_project">我的共享项目</string>
@@ -1100,7 +1100,7 @@
     <string name="promotion_checkin_description_checkin_rule">每天查看赢取免费折扣券！</string>
 
     <string name="promotion_checkin_button_redeem_coupon">兑换优惠券</string>
-    <string name="promotion_checkin_button_check_in">报到</string>
+    <string name="promotion_checkin_button_check_in">签到</string>
 
 
     <string name="promotion_ticket_title">券</string>
