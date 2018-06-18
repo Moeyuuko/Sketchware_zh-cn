@@ -1,11 +1,22 @@
-Sketchware°²×¿ Î»ÓÚ/storage/emulated/0/sketchware/localizationÄ¿Â¼µÄÓïÑÔÎÄ¼ş ºº»¯
+<!DOCTYPE html><html lang="zh-CN">
+<html xmlns="http://www.w3.org/1999/xhtml">	
+<body>
 
-strings.xml Îªºº»¯ºóÎÄ¼ş
+<h1>Sketchwareè¯­è¨€æ–‡ä»¶ç¿»è¯‘(ä¸­æ–‡-æ±‰åŒ–-ä¸­åœ‹èª)</h1>
+<h2>è¯­è¨€æ–‡ä»¶ç›®å½•ä½äº/sketchware/localization</h2>
+<div>
+3.0.3ç‰ˆæœ¬åå¯åœ¨ ä¾§è¾¹æ æ‰“å¼€è¯­è¨€è®¾ç½®[language settings]å¯»æ‰¾æˆ‘çš„[Moeyuuko]ç¿»è¯‘æ–‡ä»¶ä¸‹è½½ å°†è‡ªåŠ¨å®‰è£…<br>
+<br>
+strings.xml---------------æ±‰åŒ–åæ–‡ä»¶ [3.0.3ç‰ˆæœ¬]<br>
+strings.old.xml-----------æ—§æ–‡ä»¶<br>
+strings_provided.xml----åŸè‹±è¯­æ–‡ä»¶<br>
+<br>
+ps: ç¿»è¯‘å·²å…¨éƒ¨å®Œæˆ å°†å¼€å§‹è¯¦ç»†ä¿®æ­£ å¦‚å‘ç°é”™è¯¯ æ¬¢è¿çº æ­£ å°½é‡é™„ä¸Šæˆªå›¾æˆ–è€…åŸå¥ ä¾¿äºå¯»æ‰¾<br>
+<br>
+é‚®ç®±æ–¹å¼åé¦ˆ:[æ­£åœ¨å‡†å¤‡...]<br>
+åšå®¢æ–¹å¼åé¦ˆ:[æ­£åœ¨å‡†å¤‡...]<br>
+</div>
+<p>åº”ç”¨çš„google playåœ°å€:<a href="https://play.google.com/store/apps/details?id=com.besome.sketch"> https://play.google.com/store/apps/details?id=com.besome.sketch</a><p>
 
-strings_provided.xml ÎªÔ´àÓÓ¢ÓïÎÄ¼ş
-
-ps: ×¢Òâ!! ·­ÒëÎ´Íê³É ÎÒÃ¿ÌìÒ»µãÒ»µãÈ¥·­Òë ×ÜÓĞÒ»Ìì»áÍê³ÉµÄ  Èç·¢ÏÖ´íÎó »¶Ó­¾ÀÕı
-
-·­Òë·½Ê½: »ú·­+ÈË¹¤ĞŞ¸Ä  Èç¹ûÄã¸Ğ¾õÕâ¾ä×ÓÒ»¹É»ú·­Î¶ Äã¿ÉÒÔ¸æËßÒ»ÏÂÎÒ ÎÒ»á¾¡¿ìĞŞÕı
-
-Ó¦ÓÃµÄgoogle playµØÖ·:https://play.google.com/store/apps/details?id=com.besome.sketch
+</body>
+</html>
