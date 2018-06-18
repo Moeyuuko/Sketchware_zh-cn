@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="2.1" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="2.2" locale="zh"?><resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn  -->
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************        Common  Start    *********************************************** -->
@@ -848,7 +848,7 @@
     <string name="shared_project_detail_dialog_share_project_confirm">你想分享这个项目吗？</string>
 
     <string name="shared_project_detail_tab_title_about">关于</string>
-    <string name="shared_project_detail_tab_title_comments">注释</string>
+    <string name="shared_project_detail_tab_title_comments">评论</string>
 
     <string name="shared_project_detail_button_open_project">打开项目</string>
 
@@ -858,7 +858,7 @@
     <string name="shared_project_detail_about_project_information_last_updated">最近更新时间</string>
     <string name="shared_project_detail_about_project_information_registered_date">注册日期</string>
 
-    <string name="shared_project_detail_about_title_more_project_by_whom">%s更多的项目 </string>
+    <string name="shared_project_detail_about_title_more_project_by_whom">更多%s的项目 </string>
     <string name="shared_project_detail_about_title_report_project">报告项目</string>
 
     <string name="shared_project_detail_about_button_title_save_as_new">保存为新的</string>
@@ -1035,7 +1035,7 @@
     <!-- *************************************************  Program Information  Start        ************************************* -->
     <!-- ************************************************************************************************************************* -->
     <string name="program_information_actionbar_title">程序信息</string>
-    <string name="program_information_button_reset_system">重置系统(Reset system)</string>
+    <string name="program_information_button_reset_system">重置</string>
     <string name="program_information_button_check_update">检查更新</string>
 
     <string name="program_information_title_docs">更新日志</string>
