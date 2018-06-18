@@ -3,9 +3,9 @@
 <body>
 
 <h1>Sketchware语言文件汉化</h1>
-<h2>(中文-汉化-中國語-翻译)</h2>
-<h2>语言文件目录位于/sketchware/localization</h2>
 <div>
+(中文-汉化-中國語-翻译)
+语言文件目录位于/sketchware/localization<br>
 3.0.3版本后可在 侧边栏打开语言设置[language settings]寻找我的[Moeyuuko]翻译文件下载 将自动安装<br>
 <br>
 strings.xml---------------汉化后文件 [3.0.3版本]<br>
