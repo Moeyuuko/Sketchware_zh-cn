@@ -2,4 +2,3 @@
 .stignore
 *.bak
 .stversions/*
-tmp/*
