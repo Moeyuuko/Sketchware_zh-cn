@@ -9,7 +9,7 @@
 3.0.3版本后可在 侧边栏打开语言设置[language settings]寻找我的[Moeyuuko]翻译文件下载 将自动安装<br>
 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关<br>
 <br>
-strings.xml---------------汉化后文件 [3.0.3版本]<br>
+strings.xml---------------汉化后文件<br>
 strings.old.xml-----------旧文件<br>
 strings_provided.xml----原英语文件<br>
 <br>
