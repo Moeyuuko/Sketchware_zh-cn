@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="2.2.1" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="2.2.2" locale="zh"?><resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关-->
     <!-- *************************************************        Common  Start    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
@@ -335,7 +335,7 @@
     <string name="design_actionbar_title_manager_collection">收藏管理</string>
     <string name="design_actionbar_title_manager_image">图像管理</string>
     <string name="design_actionbar_title_manager_sound">音频管理</string>
-    <string name="design_actionbar_title_manager_font">字形管理</string>
+    <string name="design_actionbar_title_manager_font">字体管理</string>
     <string name="design_actionbar_title_show_source_code">显示源代码</string>
 
     <string name="design_file_selector_title_java">可用的Java文件</string>
@@ -365,7 +365,7 @@
     <string name="design_drawer_menu_title_view">视图</string>
     <string name="design_drawer_menu_title_image">图像</string>
     <string name="design_drawer_menu_title_sound">音频</string>
-    <string name="design_drawer_menu_title_font">字形</string>
+    <string name="design_drawer_menu_title_font">字体</string>
     <string name="design_drawer_menu_title_source_code">显示源代码</string>
 
     <string name="design_drawer_menu_description_theme">颜色主题</string>
@@ -652,7 +652,7 @@
     <string name="logic_variable_type_boolean">布尔</string>
     <string name="logic_variable_type_number">号码</string>
     <string name="logic_variable_type_string">字符串</string>
-    <string name="logic_variable_type_map">地图-Map</string>
+    <string name="logic_variable_type_map">Map</string>
     <string name="logic_variable_type_list_number">号码列表</string>
     <string name="logic_variable_type_list_string">字符串列表</string>
     <string name="logic_variable_type_list_map">Map列表</string>
@@ -851,14 +851,14 @@
 
     <string name="shared_project_detail_button_open_project">打开项目</string>
 
-    <string name="shared_project_detail_about_title_read_less">阅读少量</string>
+    <string name="shared_project_detail_about_title_read_less">△收起△</string>
     <string name="shared_project_detail_about_title_read_more">阅读更多</string>
 
     <string name="shared_project_detail_about_project_information_last_updated">最近更新时间</string>
-    <string name="shared_project_detail_about_project_information_registered_date">注册日期</string>
+    <string name="shared_project_detail_about_project_information_registered_date">发布时间</string>
 
     <string name="shared_project_detail_about_title_more_project_by_whom">更多%s的项目 </string>
-    <string name="shared_project_detail_about_title_report_project">报告项目</string>
+    <string name="shared_project_detail_about_title_report_project">举报项目</string>
 
     <string name="shared_project_detail_about_button_title_save_as_new">保存为新的</string>
     <string name="shared_project_detail_about_button_title_edit_project">修改项目</string>
@@ -1222,7 +1222,7 @@
     <string name="property_orientation">方向</string>
     <string name="property_text_size">文本尺寸</string>
     <string name="property_text_style">文本样式</string>
-    <string name="property_text_font">文本字形</string>
+    <string name="property_text_font">文本字体</string>
     <string name="property_input_type">输入类型</string>
     <string name="property_ime_option">输入法编辑器选项</string>
     <string name="property_spinner_mode">微调模式</string>
@@ -1275,28 +1275,28 @@
     <string name="root_spec_common_define">确定</string>
     <string name="root_spec_common_when">每当 </string>
 
-    <string name="root_spec_initialize_head">当活动创建</string>
+    <string name="root_spec_initialize_head">活动创建</string>
     <string name="root_spec_initialize_tail"></string>
 
     <string name="root_spec_on_back_pressed_head">在后退按钮上按下</string>
     <string name="root_spec_on_back_pressed_tail"></string>
 
-    <string name="root_spec_on_post_created_head">当活动启动完成</string>
+    <string name="root_spec_on_post_created_head">活动启动完成</string>
     <string name="root_spec_on_post_created_tail"></string>
 
-    <string name="root_spec_on_start_head">当活动可见</string>
+    <string name="root_spec_on_start_head">活动可见</string>
     <string name="root_spec_on_start_tail"></string>
 
-    <string name="root_spec_on_stop_head">当活动不可见</string>
+    <string name="root_spec_on_stop_head">活动不可见</string>
     <string name="root_spec_on_stop_tail"></string>
 
-    <string name="root_spec_on_destroy_head">当活动销毁</string>
+    <string name="root_spec_on_destroy_head">活动销毁</string>
     <string name="root_spec_on_destroy_tail"></string>
 
-    <string name="root_spec_on_resume_head">当活动恢复</string>
+    <string name="root_spec_on_resume_head">活动恢复</string>
     <string name="root_spec_on_resume_tail"></string>
 
-    <string name="root_spec_on_pause_head">当活动暂停</string>
+    <string name="root_spec_on_pause_head">活动暂停</string>
     <string name="root_spec_on_pause_tail"></string>
 
     <string name="root_spec_on_clicked_head">点击</string>
@@ -1320,89 +1320,89 @@
     <string name="root_spec_on_progress_changed_head">进度改变</string>
     <string name="root_spec_on_progress_changed_tail"></string>
 
-    <string name="root_spec_on_start_tracking_touch_head">当开始跟踪到触摸</string>
+    <string name="root_spec_on_start_tracking_touch_head">开始跟踪到触摸</string>
     <string name="root_spec_on_start_tracking_touch_tail"></string>
 
-    <string name="root_spec_on_stop_tracking_touch_head">当停止跟踪到触摸</string>
+    <string name="root_spec_on_stop_tracking_touch_head">停止跟踪到触摸</string>
     <string name="root_spec_on_stop_tracking_touch_tail"></string>
 
-    <string name="root_spec_on_animation_start_head">当动画开始</string>
+    <string name="root_spec_on_animation_start_head">动画开始</string>
     <string name="root_spec_on_animation_start_tail"></string>
 
-    <string name="root_spec_on_animation_end_head">当动画结束</string>
+    <string name="root_spec_on_animation_end_head">动画结束</string>
     <string name="root_spec_on_animation_end_tail"></string>
 
-    <string name="root_spec_on_animation_cancel_head">当动画取消</string>
+    <string name="root_spec_on_animation_cancel_head">动画取消</string>
     <string name="root_spec_on_animation_cancel_tail"></string>
 
-    <string name="root_spec_on_item_clicked_head">当点击项目</string>
+    <string name="root_spec_on_item_clicked_head">点击项目</string>
     <string name="root_spec_on_item_clicked_tail"></string>
 
-    <string name="root_spec_on_item_long_clicked_head">当长按项目</string>
+    <string name="root_spec_on_item_long_clicked_head">长按项目</string>
     <string name="root_spec_on_item_long_clicked_tail"></string>
 
-    <string name="root_spec_on_bind_custom_view_head">当绑定自定义视图</string>
+    <string name="root_spec_on_bind_custom_view_head">绑定自定义视图</string>
     <string name="root_spec_on_bind_custom_view_body_1"></string>
     <string name="root_spec_on_bind_custom_view_tail"></string>
 
 
-    <string name="root_spec_on_child_added_head">当Child被添加</string>
+    <string name="root_spec_on_child_added_head">子部分被添加</string>
     <string name="root_spec_on_child_added_body_1"></string>
     <string name="root_spec_on_child_added_tail"></string>
 
-    <string name="root_spec_on_child_changed_head">当Child变化</string>
+    <string name="root_spec_on_child_changed_head">子部分变化</string>
     <string name="root_spec_on_child_changed_body_1"></string>
     <string name="root_spec_on_child_changed_tail"></string>
 
-    <string name="root_spec_on_child_removed_head">当Child移除</string>
+    <string name="root_spec_on_child_removed_head">子部分移除</string>
     <string name="root_spec_on_child_removed_body_1"></string>
     <string name="root_spec_on_child_removed_tail"></string>
 
-    <string name="root_spec_on_cancelled_head">当取消</string>
+    <string name="root_spec_on_cancelled_head">取消</string>
     <string name="root_spec_on_cancelled_body_1"></string>
     <string name="root_spec_on_cancelled_tail"></string>
 
-    <string name="root_spec_on_create_user_complete_head">当创建用户完成</string>
+    <string name="root_spec_on_create_user_complete_head">创建用户完成</string>
     <string name="root_spec_on_create_user_complete_body_1"></string>
     <string name="root_spec_on_create_user_complete_tail"></string>
 
-    <string name="root_spec_on_sign_in_user_complete_head">当登录用户完成</string>
+    <string name="root_spec_on_sign_in_user_complete_head">登录用户完成</string>
     <string name="root_spec_on_sign_in_user_complete_body_1"></string>
     <string name="root_spec_on_sign_in_user_complete_tail"></string>
 
-    <string name="root_spec_on_reset_password_email_sent_head">当重置密码电子邮件发送</string>
+    <string name="root_spec_on_reset_password_email_sent_head">重置密码电子邮件发送</string>
     <string name="root_spec_on_reset_password_email_sent_body_1"></string>
     <string name="root_spec_on_reset_password_email_sent_tail"></string>
 
-    <string name="root_spec_on_sensor_changed_head">当传感器改变</string>
+    <string name="root_spec_on_sensor_changed_head">传感器改变</string>
     <string name="root_spec_on_sensor_changed_body_1"></string>
     <string name="root_spec_on_sensor_changed_tail"></string>
 
-    <string name="root_spec_on_date_change_head">当日期变化</string>
+    <string name="root_spec_on_date_change_head">日期变化</string>
     <string name="root_spec_on_date_change_body_1"></string>
     <string name="root_spec_on_date_change_body_2"></string>
     <string name="root_spec_on_date_change_tail"></string>
 
-    <string name="root_spec_on_upload_progress_head">当上传进行时</string>
+    <string name="root_spec_on_upload_progress_head">上传进行时</string>
     <string name="root_spec_on_upload_progress_tail"></string>
 
-    <string name="root_spec_on_upload_success_head">当上传完成时</string>
+    <string name="root_spec_on_upload_success_head">上传完成时</string>
     <string name="root_spec_on_upload_success_tail"></string>
 
-    <string name="root_spec_on_download_success_head">当下载完成时</string>
+    <string name="root_spec_on_download_success_head">下载完成时</string>
     <string name="root_spec_on_download_success_tail"></string>
 
-    <string name="root_spec_on_delete_success_head">当删除完成时</string>
+    <string name="root_spec_on_delete_success_head">删除完成时</string>
     <string name="root_spec_on_delete_success_tail"></string>
 
-    <string name="root_spec_on_failure_head">当失败时</string>
+    <string name="root_spec_on_failure_head">失败时</string>
     <string name="root_spec_on_failure_tail"></string>
 
-    <string name="root_spec_on_picture_taken_head">当拍摄照片时</string>
+    <string name="root_spec_on_picture_taken_head">拍摄照片时</string>
     <string name="root_spec_on_picture_taken_body_1"></string>
     <string name="root_spec_on_picture_taken_tail"></string>
 
-    <string name="root_spec_on_files_picked_head">当选取文件时</string>
+    <string name="root_spec_on_files_picked_head">选取文件时</string>
     <string name="root_spec_on_files_picked_body_1"></string>
     <string name="root_spec_on_files_picked_tail"></string>
 
@@ -1705,7 +1705,7 @@
 
     <string name="block_math_pow_head"></string>
     <string name="block_math_pow_body_1">to the</string>
-    <string name="block_math_pow_tail">power</string>
+    <string name="block_math_pow_tail">幂-power</string>
 
     <string name="block_math_min_head">最小</string>
     <string name="block_math_min_body_1">和</string>
