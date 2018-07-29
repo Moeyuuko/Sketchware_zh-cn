@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="2.2.1" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="2.2.3" locale="zh"?><resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关-->
     <!-- *************************************************        Common  Start    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
@@ -335,7 +335,7 @@
     <string name="design_actionbar_title_manager_collection">收藏管理</string>
     <string name="design_actionbar_title_manager_image">图像管理</string>
     <string name="design_actionbar_title_manager_sound">音频管理</string>
-    <string name="design_actionbar_title_manager_font">字形管理</string>
+    <string name="design_actionbar_title_manager_font">字体管理</string>
     <string name="design_actionbar_title_show_source_code">显示源代码</string>
 
     <string name="design_file_selector_title_java">可用的Java文件</string>
@@ -365,7 +365,7 @@
     <string name="design_drawer_menu_title_view">视图</string>
     <string name="design_drawer_menu_title_image">图像</string>
     <string name="design_drawer_menu_title_sound">音频</string>
-    <string name="design_drawer_menu_title_font">字形</string>
+    <string name="design_drawer_menu_title_font">字体</string>
     <string name="design_drawer_menu_title_source_code">显示源代码</string>
 
     <string name="design_drawer_menu_description_theme">颜色主题</string>
@@ -652,7 +652,7 @@
     <string name="logic_variable_type_boolean">布尔</string>
     <string name="logic_variable_type_number">号码</string>
     <string name="logic_variable_type_string">字符串</string>
-    <string name="logic_variable_type_map">地图-Map</string>
+    <string name="logic_variable_type_map">Map</string>
     <string name="logic_variable_type_list_number">号码列表</string>
     <string name="logic_variable_type_list_string">字符串列表</string>
     <string name="logic_variable_type_list_map">Map列表</string>
@@ -851,14 +851,14 @@
 
     <string name="shared_project_detail_button_open_project">打开项目</string>
 
-    <string name="shared_project_detail_about_title_read_less">阅读少量</string>
+    <string name="shared_project_detail_about_title_read_less">△收起△</string>
     <string name="shared_project_detail_about_title_read_more">阅读更多</string>
 
     <string name="shared_project_detail_about_project_information_last_updated">最近更新时间</string>
-    <string name="shared_project_detail_about_project_information_registered_date">注册日期</string>
+    <string name="shared_project_detail_about_project_information_registered_date">发布时间</string>
 
     <string name="shared_project_detail_about_title_more_project_by_whom">更多%s的项目 </string>
-    <string name="shared_project_detail_about_title_report_project">报告项目</string>
+    <string name="shared_project_detail_about_title_report_project">举报项目</string>
 
     <string name="shared_project_detail_about_button_title_save_as_new">保存为新的</string>
     <string name="shared_project_detail_about_button_title_edit_project">修改项目</string>
@@ -945,7 +945,7 @@
 
     <string name="language_message_confirm_update_new_version">新版本的本地化文件可用. 你想更新吗？</string>
 
-    <string name="language_message_complete_download_restart">下载完成。 现在重新启动Sketchware</string>
+    <string name="language_message_complete_download_restart">下载完成，现在重新启动Sketchware</string>
 
     <string name="language_message_not_support_font">如果您的设备不支持上述字体，则括号中的文字可能无法显示</string>
 
@@ -1222,7 +1222,7 @@
     <string name="property_orientation">方向</string>
     <string name="property_text_size">文本尺寸</string>
     <string name="property_text_style">文本样式</string>
-    <string name="property_text_font">文本字形</string>
+    <string name="property_text_font">文本字体</string>
     <string name="property_input_type">输入类型</string>
     <string name="property_ime_option">输入法编辑器选项</string>
     <string name="property_spinner_mode">微调模式</string>

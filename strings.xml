@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="2.2.2" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="2.2.3" locale="zh"?><resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关-->
     <!-- *************************************************        Common  Start    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
@@ -945,7 +945,7 @@
 
     <string name="language_message_confirm_update_new_version">新版本的本地化文件可用. 你想更新吗？</string>
 
-    <string name="language_message_complete_download_restart">下载完成。 现在重新启动Sketchware</string>
+    <string name="language_message_complete_download_restart">下载完成，现在重新启动Sketchware</string>
 
     <string name="language_message_not_support_font">如果您的设备不支持上述字体，则括号中的文字可能无法显示</string>
 
