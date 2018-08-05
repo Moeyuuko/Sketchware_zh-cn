@@ -60,6 +60,7 @@
     <string name="common_word_upload">Upload</string>
 
     <string name="common_word_preview">Preview</string>
+    <string name="common_word_review">Review</string>
     <string name="common_word_restore">Restore</string>
     <string name="common_word_warning">Warning</string>
     <string name="common_word_deprecated">*deprecated</string>
@@ -379,7 +380,7 @@
 
     <string name="design_library_settings_title_enabled">Enabled</string>
 
-    <string name="design_library_settings_guide_tutorial">Please refer the tutorial if it\'s your first time setting up.</string>
+    <string name="design_library_settings_guide_tutorial">Please refer to the tutorial if it\'s your first time setting up.</string>
 
     <string name="design_library_title_appcompat">AppCompat</string>
     <string name="design_library_title_appcompat_and_design">AppCompat and Design</string>
@@ -634,7 +635,7 @@
     <string name="component_description_firebase_storage">Firebase Storage is built for app developers who need to store and serve user-generated content.</string>
     <string name="component_description_camera">Camera is used to take a picture.</string>
     <string name="component_description_file_picker">FilePicker is used to select raw and media files, such as images, sounds, and text.</string>
-    
+
     <string name="component_description_file_picker_guide_mime_type_example">MIME type is used to identify a type of data.\nex)\"*/*\", \"image/*\", \"audio/*\", \"text/*\"</string>
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************   Component   End             ***************************************** -->
@@ -1145,6 +1146,7 @@
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************  Promotion Start            ******************************************* -->
     <!-- ************************************************************************************************************************* -->
+
 
 
     <!-- ************************************************************************************************************************* -->
@@ -2441,6 +2443,7 @@
     <!-- ***********************************************           Block End             *************************************** -->
     <!-- ************************************************************************************************************************* -->
     <!-- ************************************************************************************************************************* -->
+    <!-- ************************************************************************************************************************** -->
 
     <!-- ************************************************************************************************************************* -->
     <!-- ************************************************************************************************************************* -->
@@ -2457,5 +2460,341 @@
 
     <string name="root_spec_on_files_picked_cancel_head">onFilesPickedCancel</string>
     <string name="root_spec_on_files_picked_cancel_tail"></string>
+
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.1.0 start       ********************************************* -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="common_word_step">STEP %d</string>
+    <string name="common_word_prev">PREV</string>
+    <string name="common_word_next">NEXT</string>
+    <string name="common_word_go_to_documentation">Go To Documentation</string>
+
+    <string name="property_ad_size">adSize</string>
+
+    <string name="event_ondatechange">onDateChange</string>
+    <string name="property_first_day_of_week">firstDayOfWeek</string>
+
+    <string name="component_description_interstitial_ad">Interstitial Ad lets you add fullscreen advertisements.</string>
+
+    <string name="design_library_description_admob">Use Google AdMob</string>
+
+    <string name="design_library_admob_title_admob">AdMob</string>
+    <string name="design_library_admob_button_goto_console">Open AdMob Console</string>
+    <string name="design_library_admob_button_goto_setting">Open AdMob Setting</string>
+    <string name="design_library_admob_description">AdMob is a mobile advertisement platform provided by Google. Monetize your apps by adding AdMob.</string>
+    <string name="design_library_admob_dialog_description_confirm_uncheck">If you uncheck the option for AdMob, existing AdMob widgets and components will be deleted. Are you sure you want to continue?</string>
+
+    <string name="design_library_admob_setting_step1_title">Add Ad Units</string>
+    <string name="design_library_admob_setting_step1_desc">First, you need to create Ad Units inside the AdMob console. Add the created Ad Units manually or by linking your AdMob account.</string>
+
+    <string name="design_library_admob_setting_step2_title">Assign Ad Unit IDs</string>
+    <string name="design_library_admob_setting_step2_desc">Assign Ad Unit IDs to the Banner and Interstitial ads.</string>
+
+    <string name="design_library_admob_setting_step3_title">Configure Test Devices</string>
+    <string name="design_library_admob_setting_step3_desc">If you test AdMob without adding your device ID, your AdMob account may be banned. Please add your device ID.</string>
+
+    <string name="design_library_admob_setting_step4_title">Review Information</string>
+    <string name="design_library_admob_setting_step4_desc">Please review the information below. If they are all correct, click on \"Save\".</string>
+
+    <string name="design_library_admob_button_request_adunit">Link AdMob Account</string>
+    <string name="design_library_admob_button_manual_add_to_adunit">Add Manually</string>
+    <string name="design_library_admob_setting_message_add_ad_unit">At least one Ad Unit ID is needed</string>
+    <string name="design_library_admob_message_failed_to_request">Request for Ad Unit failed. Please double check your AdMob account [%s].</string>
+
+    <string name="design_library_admob_dialog_add_adunit_title">Add Ad Unit</string>
+    <string name="design_library_admob_dialog_add_adunit_hint_adunit_name">Ad Unit Name</string>
+    <string name="design_library_admob_dialog_add_adunit_hint_adunit_id">Ad Unit ID</string>
+
+    <string name="design_library_admob_dialog_delete_adunit_title">Delete Ad Unit</string>
+    <string name="design_library_admob_dialog_confirm_delete_adunit">You are about to delete the selected Ad Unit. Are you sure?</string>
+
+    <string name="design_library_admob_title_banner">Banner AD</string>
+    <string name="design_library_admob_title_interstitial">Interstitial AD</string>
+    <string name="design_library_admob_title_ad_name">Ad Name</string>
+    <string name="design_library_admob_title_ad_unit_id">Ad Unit ID</string>
+
+    <string name="design_library_admob_dialog_select_unit_title">Select Ad Unit</string>
+    <string name="design_library_admob_message_select_ad_unit">Please select appropriate Ad Unit for each item</string>
+
+    <string name="design_library_admob_button_set_test_device">Add Test Devices</string>
+
+    <string name="design_library_admob_dialog_set_test_device_title">Test Devices</string>
+    <string name="design_library_admob_dialog_set_test_device_hint_device_id">Device ID</string>
+    <string name="design_library_admob_dialog_set_test_device_warning_duplicated">Duplicate Device ID found</string>
+
+    <string name="design_library_admob_dialog_delete_test_device_title">Delete Test Device</string>
+    <string name="design_library_admob_dialog_confirm_delete_test_device">You are about to delete the selected Test Device ID. Are you sure?</string>
+
+    <string name="design_library_admob_component_setup_first">In order to use this component, you have to setup the settings in the Library Manager first.</string>
+    <string name="design_library_admob_widget_setup_first">In order to use this widget, you have to setup the settings in the Library Manager first.</string>
+
+    <string name="design_library_admob_message_no_unit_id">No Ad Unit ID to display</string>
+    <string name="design_library_admob_message_no_test_device">No Test Device ID to display</string>
+
+    <string name="design_library_firebase_message_need_compat">AppCompat Library will be enabled since Firebase requires AppCompat as a dependency.</string>
+    <string name="design_library_appcompat_need_firebase_disable">You can not disable the AppCompat Library when Firebase is in use.</string>
+
+    <string name="root_spec_on_ad_loaded_head">onAdLoaded</string>
+    <string name="root_spec_on_ad_loaded_tail"></string>
+
+    <string name="root_spec_on_ad_failed_to_load_head">onAdFailedToLoad</string>
+    <string name="root_spec_on_ad_failed_to_load_tail"></string>
+
+    <string name="root_spec_on_ad_opened_head">onAdOpened</string>
+    <string name="root_spec_on_ad_opened_tail"></string>
+
+    <string name="root_spec_on_ad_closed_head">onAdClosed</string>
+    <string name="root_spec_on_ad_closed_tail"></string>
+
+    <string name="block_adview_load_ad_head"></string>
+    <string name="block_adview_load_ad_tail">load</string>
+
+    <string name="block_interstitialad_create_head"></string>
+    <string name="block_interstitialad_create_tail">create</string>
+
+    <string name="block_interstitialad_load_ad_head"></string>
+    <string name="block_interstitialad_load_ad_tail">load</string>
+
+    <string name="block_interstitialad_show_head"></string>
+    <string name="block_interstitialad_show_tail">show</string>
+
+    <string name="main_drawer_title_subscribe">Subscribe</string>
+
+
+
+    <string name="publish_myproject_button_name">Publish To Google Play Store</string>
+
+    <string name="publish_account_setting_connecting_account_step_name">Do you have a Google Play Developer Account?</string>
+    <string name="publish_account_setting_select_json_step_name">Check Service Account Credentials</string>
+
+    <string name="publish_account_setting_title">Publish Account Settings</string>
+
+    <string name="publish_title_dialog_authorization_error">Authorization Error</string>
+    <string name="publish_message_dialog_authorization_error">This json file\'s access token expired. Please select a valid json file</string>
+
+    <string name="publish_title_dialog_invalid_json">Invalid Json File</string>
+    <string name="publish_message_dialog_invalid_json">The json file is invalid. Please double check the file</string>
+
+    <string name="publish_connecting_account_have_account">I have a Google Play Developer account</string>
+    <string name="publish_connecting_account_no_have_account">I do not have a Google Play Developer account</string>
+
+    <string name="publish_select_account_json_title_json_path">Json File</string>
+    <string name="publish_select_account_json_title_client_id">Client Id</string>
+    <string name="publish_select_account_json_title_client_mail">Client Email</string>
+
+    <string name="publish_select_account_json_title_dialog_json_file_desc">Select Json File</string>
+    <string name="publish_select_account_json_message_dialog_json_file_desc">This procedure is necessary for future publishing. Sketchware does not save or edit this json file. Do you want to continue?</string>
+
+    <string name="publish_select_account_json_dialog_refresh_account_title">Refresh Service Account</string>
+    <string name="publish_select_account_json_dialog_refresh_account_desc">Service Account credentials will be reset. Do you want to continue?</string>
+
+    <string name="publish_no_account_title">Become a Publisher</string>
+    <string name="publish_no_account_desc">To publish apps on Google Play, you need a Google Play Developer account. Please create a Google Play Developer account first.</string>
+    <string name="publish_no_account_step_desc">Please refer the documentation for additional help.</string>
+
+    <string name="publish_no_account_move_to_console">Go To Play Developer Console</string>
+
+    <string name="publish_select_project_step_name">App Information</string>
+    <string name="publish_check_upload_apk_step_name">Publish Type</string>
+    <string name="publish_store_listing_step_name">Store Listing</string>
+    <string name="publish_images_step_name">Graphic Assets</string>
+    <string name="publish_upload_apk_step_name">Upload APK File</string>
+    <string name="publish_release_track_step_name">Release Information</string>
+    <string name="publish_preview_step_name">Review Information</string>
+
+    <string name="publish_select_project_step_desc">Default Language and Name</string>
+    <string name="publish_check_upload_apk_step_desc">Determine the type of this publishing</string>
+    <string name="publish_store_listing_step_desc">Provide short and full descriptions</string>
+    <string name="publish_images_step_desc">Attach images for your app</string>
+    <string name="publish_upload_apk_step_desc">Sign and upload an apk file for this project</string>
+    <string name="publish_release_track_step_desc">Provide release information</string>
+    <string name="publish_preview_step_desc">Below is a preview of your application on the Play Store. Please review that all the information is correct.</string>
+
+    <string name="publish_publish_button_name">PUBLISH</string>
+    <string name="publish_sign_button_name">SIGN</string>
+
+    <string name="publish_title_choose_project">Choose a Project</string>
+    <string name="publish_desc_choose_project">Select a project to publish or update</string>
+
+    <string name="publish_message_dialog_default_package_name">Please use a different package name.\nProjects starting with \"%s\" package name can not be published</string>
+
+    <string name="publish_title_dialog_invalid_version">Version Code Error</string>
+    <string name="publish_message_dialog_invalid_version">The version code needs to be updated before publishing. Update the version code automatically?</string>
+
+    <string name="publish_title_dialog_load_data">Load Data Error</string>
+    <string name="publish_title_dialog_commit">Publisher Commit Error</string>
+    <string name="publish_title_dialog_access">Publisher Access Error</string>
+    <string name="publish_title_dialog_upload_data">Upload Data Error</string>
+    <string name="publish_title_dialog_delete_data">Delete Data Error</string>
+    <string name="publish_title_dialog_change_version_code">Change Version Code</string>
+    <string name="publish_title_dialog_conflict_version_code">Conflict Version Code</string>
+
+    <string name="publish_message_dialog_conflict_version_code">This version code cannot be used. If you wish to update the version code, please click on the OK button.</string>
+    <string name="publish_message_dialog_change_version_code">This app\'s version code has changed. Do you want to sign the APK file again?</string>
+
+    <string name="publish_select_project_no_projects">No Projects to display</string>
+    <string name="publish_select_project_title_default_language">Default Language</string>
+    <string name="publish_select_project_title_application_name">Application Name</string>
+
+    <string name="publish_check_upload_apk_title_radio_upload">I want to publish an update including the APK file</string>
+    <string name="publish_check_upload_apk_title_radio_not_upload">I want to update the store description</string>
+
+    <string name="publish_check_upload_apk_title_dialog_upload_apk_agreement">Upload APK File Agreement</string>
+    <string name="publish_check_upload_apk_message_dialog_upload_apk_agreement">After the app is published, the APK file will be uploaded to Sketchware server for backup purposes. Do you want to continue?</string>
+
+    <string name="publish_store_listing_title">Title</string>
+    <string name="publish_store_listing_title_short_desc">Short Description</string>
+    <string name="publish_store_listing_title_full_desc">Full Description</string>
+    <string name="publish_store_listing_title_video">Video</string>
+
+    <string name="publish_store_listing_title_dialog_invalid_edit_text">Invalid %s Length</string>
+    <string name="publish_store_listing_message_dialog_invalid_edit_text">The text length is invalid. Please double check the length of your listing.</string>
+
+    <string name="publish_images_title_icon">Icon</string>
+    <string name="publish_images_title_screenshots">Screenshots</string>
+
+    <string name="publish_images_title_dialog_invalid_delete_screenshot">Delete Screenshot Error</string>
+    <string name="publish_images_message_dialog_invalid_delete_screenshot">There should be at least two screenshots</string>
+
+    <string name="publish_images_title_dialog_invalid_screenshot_size">Screenshot Size Error</string>
+    <string name="publish_images_message_dialog_invalid_screenshot_size">Screenshot size is invalid. (Min length for any side: 320px. Max length for any side: 3840px)</string>
+
+    <string name="publish_images_title_dialog_invalid_icon_size">Icon Size Error</string>
+    <string name="publish_images_message_dialog_invalid_icon_size">Icon size is invalid. (512 X 512)</string>
+
+    <string name="publish_images_title_dialog_delete_screenshot">Delete Screenshot</string>
+    <string name="publish_images_message_dialog_delete_screenshot">Do you want to delete this image?</string>
+
+    <string name="publish_upload_apk_title_manage_my_release_key">Sign the APK file automatically (Recommended)</string>
+    <string name="publish_upload_apk_title_own_release_key">Use my own release key to sign the APK file</string>
+    <string name="publish_upload_apk_title_no_update">I am not updating my APK file</string>
+    <string name="publish_upload_apk_title_cert">Release Key</string>
+    <string name="publish_upload_apk_title_passwd">Password</string>
+    <string name="publish_upload_apk_title_dialog_upload_apk">Upload Apk Error</string>
+    <string name="publish_upload_apk_wrong_release_key_passwd">The password for this release key is incorrect.</string>
+    <string name="publish_upload_apk_retry_sign_apk_button_name">Sign APK file again</string>
+    <string name="publish_upload_apk_file_not_exist">The APK file does not exist. Please sign the APK file again</string>
+    <string name="publish_upload_apk_ready_to_upload">The APK file is ready to upload.\nClick \"NEXT\" to upload the APK file</string>
+    <string name="publish_upload_apk_upload_complete">The APK file is uploaded and ready for publishing.</string>
+    <string name="publish_upload_apk_title_use_release_key_in_sketchware">Use the release key in Sketchware server to sign the APK file</string>
+    <string name="publish_upload_apk_title_already_uploaded_apk">I want to use the published APK file</string>
+    <string name="publish_upload_apk_not_select_release_key_file">You didn\'t select a release key</string>
+
+    <string name="publish_release_track_title_track">Track</string>
+    <string name="publish_release_track_title_status">Status</string>
+    <string name="publish_release_track_title_release_name">Release Name</string>
+    <string name="publish_release_track_title_release_version">Release Version</string>
+    <string name="publish_release_track_title_release_note">Release Note</string>
+    <string name="publish_release_track_title_fraction">Fraction</string>
+
+    <string name="publish_release_track_title_alpha">Alpha</string>
+    <string name="publish_release_track_title_beta">Beta</string>
+    <string name="publish_release_track_title_production">Production</string>
+    <string name="publish_release_track_title_internal">Internal</string>
+
+    <string name="publish_release_track_title_dialog_select_status">Select Status</string>
+
+    <string name="publish_release_track_title_dialog_halted">Halted</string>
+    <string name="publish_release_track_title_dialog_inprogress">In Progress</string>
+    <string name="publish_release_track_title_dialog_completed">Completed</string>
+    <string name="publish_release_track_title_dialog_draft">Draft</string>
+
+    <string name="publish_release_track_title_dialog_track_manage_error">Track Manage Error</string>
+    <string name="publish_release_track_message_dialog_track_manage_error">The APK file does not exist in this track\'s status. Please double check if this track includes the APK file.</string>
+    <string name="publish_release_track_message_dialog_invalid_upload_track_data_error">The version code of the APK file has to be higher than the version code of this track\'s status. Please double check this track\'s status.</string>
+
+    <string name="publish_preview_install">INSTALL</string>
+    <string name="publish_preview_read_more">READ MORE</string>
+
+    <string name="publish_preview_delete_no_release_note">No release note to display</string>
+
+    <string name="publish_complete_title">Publish Complete</string>
+    <string name="publish_complete_desc">The project was successfully published.</string>
+    <string name="publish_complete_title_published_track">Published Track</string>
+    <string name="publish_complete_title_published_version_code">Published Version Code</string>
+    <string name="publish_complete_title_published_data">Published Date</string>
+    <string name="publish_complete_title_published_status">Published Status</string>
+    <string name="publish_complete_title_published_fraction">Published Fraction</string>
+
+    <string name="publish_complete_back_up_button_name">Back Up</string>
+
+    <string name="publish_exception_title_code">Code</string>
+    <string name="publish_exception_title_reason">Reason</string>
+    <string name="publish_exception_title_message">Message</string>
+    <string name="publish_exception_title_read_in_detail">More Detail</string>
+
+    <string name="publish_manage_title">Publishing Manager</string>
+    <string name="publish_manage_no_publish_apps">Publish your first app by clicking on the FAB</string>
+
+    <string name="publish_one_final_step_title">Your First Upload</string>
+    <string name="publish_one_final_step_title_desc">This is your first time uploading this application</string>
+    <string name="publish_one_final_step_desc_apk">One APK with the same package name must be manually submitted to the Google Play Store before the publish to Google Play function works properly.</string>
+    <string name="publish_one_final_step_desc_mail">When you click the button below, We will send you a detailed guide with the necessary assets to your email:</string>
+    <string name="publish_one_final_step_understand_button_name">I UNDERSTAND</string>
+    <string name="publish_one_final_step_title_dialog_mail_addr">Email Address</string>
+    <string name="publish_one_final_step_hint_dialog_mail_addr">Please input your email address</string>
+    <string name="publish_one_final_step_dialog_no_write">Please input a valid email address</string>
+    <string name="publish_one_final_step_dialog_message_mail_failed">Failed to send the email</string>
+
+    <string name="publish_mail_complete_title">We sent you an email!</string>
+    <string name="publish_mail_complete_desc">We sent your apk and a publishing guide to your email. Please follow the guide on the email and publish your first apk.</string>
+
+    <string name="publish_title_dialog_project_not_linked">Project Not Linked</string>
+    <string name="publish_message_dialog_project_not_linked">The service account is invalid to this package or this package name is already existed in Google Play Store. Please check these issues</string>
+
+    <string name="publish_title_dialog_compile_apk_failed">Compile APK Failed</string>
+    <string name="publish_message_dialog_compile_apk_failed">The compilation of the APK file is failed. Please check this project</string>
+
+    <string name="publish_title_dialog_cannot_start_publish">Publish Start Failed</string>
+    <string name="publish_message_dialog_cannot_start_publish">Please try again after save as new</string>
+
+
+    <string name="common_word_playstore">Play Store</string>
+
+    <string name="myprojects_list_menu_title_publish">Publish</string>
+
+    <string name="publish_project_backup_complete_title">Backup Complete</string>
+    <string name="publish_project_backup_fail_title">Backup Failed</string>
+    <string name="publish_project_backup_complete_description">Backup Success. You will be able to re-download the project whenever you need to.</string>
+
+    <string name="publish_project_download_complete_title">Download Complete</string>
+    <string name="publish_project_download_fail_title">Download Failed</string>
+    <string name="publish_project_download_complete_description">Download for %s Completed</string>
+
+    <string name="title_compatible_chrome_browser">Chrome Browser Required</string>
+
+    <string name="publish_message_failed_to_compile">APK compilation failed</string>
+
+    <string name="subscribe_title_one">Publish to Google Play Store</string>
+    <string name="subscribe_title_two">AdMob</string>
+    <string name="subscribe_title_three">Ad-free Experience</string>
+    <string name="subscribe_title_four">Export Projects</string>
+    <string name="subscribe_title_five">Unlimited Sharing</string>
+
+    <string name="subscribe_desc_one">Publish and update your applications</string>
+    <string name="subscribe_desc_two">Monetize your applications</string>
+    <string name="subscribe_desc_three">Ad-free experience</string>
+    <string name="subscribe_desc_four">Export Java and XML source code for Android Studio</string>
+    <string name="subscribe_desc_five">Unlimited share, sign, and exports</string>
+
+    <string name="subscribe_desc_become_a_premium_user">Subscribe now to become a premium user!</string>
+    <string name="subscribe_desc_premium_users_can">Premium users can</string>
+
+    <string name="subscribe_title_premium_features">Premium Features</string>
+
+    <string name="subscribe_title_problem_in_app_billing">Problem setting up in-app billing: </string>
+
+    <string name="subscribe_title_error_purchasing_1">1. Error purchasing: </string>
+    <string name="subscribe_title_error_purchasing_2">2. Error purchasing: </string>
+
+    <string name="subscribe_title_verify_error">Verification error </string>
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.1.0 end              ********************************************* -->
+    <!-- ************************************************************************************************************************* -->
+
+
 
 </resources>
