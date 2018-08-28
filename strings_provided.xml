@@ -2795,6 +2795,38 @@
     <!-- *************************************************  append 3.1.0 end              ********************************************* -->
     <!-- ************************************************************************************************************************* -->
 
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.3.0 start       ********************************************* -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="main_drawer_title_save_sketchware">Save Sketchware</string>
+
+    <string name="tutorials_download_sample_title">Download</string>
+    <string name="tutorials_download_sample_desc">You can download the sample project shown in the video</string>
+
+
+    <string name="design_library_admob_title_admob_manager">AdMob Manager</string>
+
+    <string name="design_library_firebase_setting_step1_title">Project Settings</string>
+    <string name="design_library_firebase_setting_step1_desc">Enter Project ID, Web API Key, and App ID</string>
+
+    <string name="design_library_firebase_setting_step2_title">Storage URL Settings</string>
+    <string name="design_library_firebase_setting_step2_desc">Enter the Firebase Storage URL</string>
+
+    <string name="design_library_firebase_setting_step3_title">Settings Review</string>
+    <string name="design_library_firebase_setting_step3_desc">Please review the information below. If they are all correct, click on \"Save\"..</string>
+
+    <string name="design_library_firebase_title_project_id">Project ID</string>
+    <string name="design_library_firebase_title_app_id">App ID</string>
+    <string name="design_library_firebase_title_api_key">API Key</string>
+    <string name="design_library_firebase_title_storage_bucket_url">Storage Bucket URL</string>
+
+    <string name="design_library_firebase_message_not_input_text">Please provide all necessary information</string>
+
+    <string name="design_library_firebase_title_firebase_manager">Firebase Manager</string>
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.3.0 end         ********************************************* -->
+    <!-- ************************************************************************************************************************* -->
 
 
 </resources>
