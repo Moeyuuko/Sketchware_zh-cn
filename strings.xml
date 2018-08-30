@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.3.0" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.3.1" locale="zh"?><resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关-->
     <!-- *************************************************        Common  Start    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
@@ -1665,23 +1665,23 @@
     <string name="block_string_replace_all_body_2">替换成</string>
     <string name="block_string_replace_all_tail"></string>
 
-    <string name="block_to_number_head">到数字</string>
-    <string name="block_to_number_tail"></string>
+    <string name="block_to_number_head"></string>
+    <string name="block_to_number_tail">到数字</string>
 
     <string name="block_trim_head">剪切</string>
     <string name="block_trim_tail"></string>
 
-    <string name="block_to_upper_case_head">到大写</string>
-    <string name="block_to_upper_case_tail"></string>
+    <string name="block_to_upper_case_head"></string>
+    <string name="block_to_upper_case_tail">到大写</string>
 
-    <string name="block_to_lower_case_head">到小写</string>
-    <string name="block_to_lower_case_tail"></string>
+    <string name="block_to_lower_case_head"></string>
+    <string name="block_to_lower_case_tail">到小写</string>
 
-    <string name="block_to_string_head">到字符串</string>
-    <string name="block_to_string_tail">没有小数</string>
+    <string name="block_to_string_head"></string>
+    <string name="block_to_string_tail">到字符串 不带小数</string>
 
-    <string name="block_to_string_with_decimal_head">到字符串</string>
-    <string name="block_to_string_with_decimal_tail">没有小数</string>
+    <string name="block_to_string_with_decimal_head"></string>
+    <string name="block_to_string_with_decimal_tail">到字符串 带小数</string>
 
     <string name="block_to_string_format_head"></string>
     <string name="block_to_string_format_body_1">到十进制格式</string>
@@ -1706,64 +1706,64 @@
     <string name="block_math_e_tail"></string>
 
     <string name="block_math_pow_head"></string>
-    <string name="block_math_pow_body_1">to the</string>
-    <string name="block_math_pow_tail">幂-power</string>
+    <string name="block_math_pow_body_1">到</string>
+    <string name="block_math_pow_tail">的幂-power</string>
 
-    <string name="block_math_min_head">最小</string>
+    <string name="block_math_min_head"></string>
     <string name="block_math_min_body_1">和</string>
-    <string name="block_math_min_tail"></string>
+    <string name="block_math_min_tail">的最小值</string>
 
-    <string name="block_math_max_head">最大</string>
+    <string name="block_math_max_head"></string>
     <string name="block_math_max_body_1">和</string>
-    <string name="block_math_max_tail"></string>
+    <string name="block_math_max_tail">的最大值</string>
 
-    <string name="block_math_sqrt_head">平方根</string>
-    <string name="block_math_sqrt_tail"></string>
+    <string name="block_math_sqrt_head"></string>
+    <string name="block_math_sqrt_tail">的平方根</string>
 
-    <string name="block_math_abs_head">绝对值</string>
-    <string name="block_math_abs_tail"></string>
+    <string name="block_math_abs_head"></string>
+    <string name="block_math_abs_tail">的绝对值</string>
 
-    <string name="block_math_round_head">四舍五入-round</string>
-    <string name="block_math_round_tail"></string>
+    <string name="block_math_round_head"></string>
+    <string name="block_math_round_tail">的四舍五入-round</string>
 
-    <string name="block_math_ceil_head">上取整-ceil</string>
-    <string name="block_math_ceil_tail"></string>
+    <string name="block_math_ceil_head"></string>
+    <string name="block_math_ceil_tail">的上取整-ceil</string>
 
-    <string name="block_math_floor_head">下取整-floor</string>
-    <string name="block_math_floor_tail"></string>
+    <string name="block_math_floor_head"></string>
+    <string name="block_math_floor_tail">的下取整-floor</string>
 
-    <string name="block_math_sin_head">正弦-sin</string>
-    <string name="block_math_sin_tail"></string>
+    <string name="block_math_sin_head"></string>
+    <string name="block_math_sin_tail">的正弦-sin</string>
 
-    <string name="block_math_cos_head">余弦-cos</string>
-    <string name="block_math_cos_tail"></string>
+    <string name="block_math_cos_head"></string>
+    <string name="block_math_cos_tail">的余弦-cos</string>
 
-    <string name="block_math_tan_head">正切-tan</string>
-    <string name="block_math_tan_tail"></string>
+    <string name="block_math_tan_head"></string>
+    <string name="block_math_tan_tail">的正切-tan</string>
 
-    <string name="block_math_asin_head">反正弦-arcsin</string>
-    <string name="block_math_asin_tail"></string>
+    <string name="block_math_asin_head"></string>
+    <string name="block_math_asin_tail">的反正弦-arcsin</string>
 
-    <string name="block_math_acos_head">反余弦arccos</string>
-    <string name="block_math_acos_tail"></string>
+    <string name="block_math_acos_head"></string>
+    <string name="block_math_acos_tail">的反余弦-arccos</string>
 
-    <string name="block_math_atan_head">反正切arctan</string>
-    <string name="block_math_atan_tail"></string>
+    <string name="block_math_atan_head"></string>
+    <string name="block_math_atan_tail">的反正切-arctan</string>
 
-    <string name="block_math_exp_head">指数-exp</string>
-    <string name="block_math_exp_tail"></string>
+    <string name="block_math_exp_head"></string>
+    <string name="block_math_exp_tail">的指数-exp</string>
 
-    <string name="block_math_log_head">自然对数-ln</string>
-    <string name="block_math_log_tail"></string>
+    <string name="block_math_log_head"></string>
+    <string name="block_math_log_tail">的自然对数-ln</string>
 
-    <string name="block_math_log10_head">对数-log</string>
-    <string name="block_math_log10_tail"></string>
+    <string name="block_math_log10_head"></string>
+    <string name="block_math_log10_tail">的对数-log</string>
 
     <string name="block_math_to_radian_head">角度-Degree</string>
     <string name="block_math_to_radian_tail">到弧度-Radian</string>
 
     <string name="block_math_to_degree_head">弧度-Radian</string>
-    <string name="block_math_to_degree_tail">到角度Degree</string>
+    <string name="block_math_to_degree_tail">到角度-Degree</string>
 
     <string name="block_view_on_click_head">当</string>
     <string name="block_view_on_click_tail">点击</string>
