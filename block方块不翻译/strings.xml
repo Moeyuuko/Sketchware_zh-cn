@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.0.0" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.3.2" locale="zh"?><resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关-->
     <!-- *************************************************        Common  Start    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
@@ -178,7 +178,7 @@
     <string name="intro_pager_1_title">创建一个棒棒的应用</string>
     <string name="intro_pager_1_description">友好的界面与无忧无虑的体验</string>
 
-    <string name="intro_pager_2_title">简单的块编程</string>
+    <string name="intro_pager_2_title">简单的方块编程</string>
     <string name="intro_pager_2_description">无需编程经验</string>
 
     <string name="intro_pager_3_title">与世界分享</string>
@@ -2795,6 +2795,38 @@
     <!-- *************************************************  append 3.1.0 end              ********************************************* -->
     <!-- ************************************************************************************************************************* -->
 
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.3.0 start       ********************************************* -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="main_drawer_title_save_sketchware">保存Sketchware</string>
+
+    <string name="tutorials_download_sample_title">下载</string>
+    <string name="tutorials_download_sample_desc">您可以下载视频中展示的示例项目</string>
+
+
+    <string name="design_library_admob_title_admob_manager">AdMob管理器</string>
+
+    <string name="design_library_firebase_setting_step1_title">项目设置</string>
+    <string name="design_library_firebase_setting_step1_desc">输入项目ID，Web API密钥和App ID</string>
+
+    <string name="design_library_firebase_setting_step2_title">存储URL设置</string>
+    <string name="design_library_firebase_setting_step2_desc">输入Firebase存储URL</string>
+
+    <string name="design_library_firebase_setting_step3_title">设置审核</string>
+    <string name="design_library_firebase_setting_step3_desc">请查看以下信息。 如果它们都正确，请单击 \"保存\"..</string>
+
+    <string name="design_library_firebase_title_project_id">项目ID</string>
+    <string name="design_library_firebase_title_app_id">App ID</string>
+    <string name="design_library_firebase_title_api_key">API Key</string>
+    <string name="design_library_firebase_title_storage_bucket_url">存储桶URL</string>
+
+    <string name="design_library_firebase_message_not_input_text">请提供所有必要的信息</string>
+
+    <string name="design_library_firebase_title_firebase_manager">Firebase管理器</string>
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.3.0 end         ********************************************* -->
+    <!-- ************************************************************************************************************************* -->
 
 
 </resources>
