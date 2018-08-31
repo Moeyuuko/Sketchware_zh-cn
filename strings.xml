@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.3.1" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.3.2" locale="zh"?><resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关-->
     <!-- *************************************************        Common  Start    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
@@ -178,7 +178,7 @@
     <string name="intro_pager_1_title">创建一个棒棒的应用</string>
     <string name="intro_pager_1_description">友好的界面与无忧无虑的体验</string>
 
-    <string name="intro_pager_2_title">简单的块编程</string>
+    <string name="intro_pager_2_title">简单的方块编程</string>
     <string name="intro_pager_2_description">无需编程经验</string>
 
     <string name="intro_pager_3_title">与世界分享</string>
@@ -1622,8 +1622,8 @@
     <string name="block_random_body_1">到</string>
     <string name="block_random_tail"></string>
 
-    <string name="block_string_length_head">长度</string>
-    <string name="block_string_length_tail"></string>
+    <string name="block_string_length_head"></string>
+    <string name="block_string_length_tail">的长度</string>
 
     <string name="block_string_join_head">加入</string>
     <string name="block_string_join_body_1">和</string>
@@ -1650,18 +1650,18 @@
     <string name="block_string_contains_body_1">包含</string>
     <string name="block_string_contains_tail"></string>
 
-    <string name="block_string_replace_head"></string>
-    <string name="block_string_replace_body_1">替换所有 字符</string>
-    <string name="block_string_replace_body_2">替换成</string>
+    <string name="block_string_replace_head">替换</string>
+    <string name="block_string_replace_body_1">的所有</string>
+    <string name="block_string_replace_body_2">字符为</string>
     <string name="block_string_replace_tail"></string>
 
-    <string name="block_string_replace_first_head"></string>
-    <string name="block_string_replace_first_body_1">替换第一正则表达式</string>
+    <string name="block_string_replace_first_head">替换</string>
+    <string name="block_string_replace_first_body_1">用第一个正则表达式将</string>
     <string name="block_string_replace_first_body_2">替换成</string>
     <string name="block_string_replace_first_tail"></string>
 
-    <string name="block_string_replace_all_head"></string>
-    <string name="block_string_replace_all_body_1">替换所有正则表达式</string>
+    <string name="block_string_replace_all_head">替换</string>
+    <string name="block_string_replace_all_body_1">用所有正则表达式将</string>
     <string name="block_string_replace_all_body_2">替换成</string>
     <string name="block_string_replace_all_tail"></string>
 
