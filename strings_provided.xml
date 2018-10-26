@@ -2828,5 +2828,181 @@
     <!-- *************************************************  append 3.3.0 end         ********************************************* -->
     <!-- ************************************************************************************************************************* -->
 
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.4.0 start      ********************************************** -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="main_tab_title_competitions">Competitions</string>
+
+
+    <string name="common_word_progressing">In Progress</string>
+
+    <string name="user_grade_actionbar">User Rank</string>
+    <string name="user_grade_title">Rank Information</string>
+    <string name="user_grade_point_range_title">Points Range</string>
+
+    <string name="competition_status_not_started">Starting Soon</string>
+    <string name="competition_status_closed">Closed</string>
+    <string name="competition_status_completed">Completed</string>
+
+    <string name="competition_remain_today">Closes Today</string>
+    <string name="competition_remain_days">Days Remaining</string>
+
+    <string name="competition_message_no_data">No competitions to display</string>
+
+    <string name="competition_detail_my_status_title">My Status</string>
+    <string name="competition_detail_reward_title">Rewards</string>
+    <string name="competition_detail_reward_google_gift_title">Google Play Gift Card</string>
+    <string name="competition_detail_reward_point_title">Points Rewarded</string>
+
+    <string name="competition_detail_reward_enroll_point_title">Entering Bonus</string>
+    <string name="competition_detail_reward_winner_point_title">Winning Bonus</string>
+
+    <string name="competition_detail_button_enroll">Enroll</string>
+    <string name="competition_detail_button_submit">Submit</string>
+
+    <string name="competition_detail_my_status_can_enroll">Eligible to Enroll</string>
+    <string name="competition_detail_my_status_cannot_enroll">Not Eligible to Enroll</string>
+    <string name="competition_detail_my_status_enrolled">Enrolled</string>
+    <string name="competition_detail_my_status_not_enrolled">Not Enrolled</string>
+    <string name="competition_detail_my_status_cannot_enroll_grade">Your rank does not meet the requirements</string>
+
+    <string name="competition_detail_my_status_submit">Submitted</string>
+    <string name="competition_detail_my_status_not_submit">Not Submitted</string>
+    <string name="competition_detail_my_status_winner">Winner</string>
+
+    <string name="competition_detail_my_result_winner">Congratulations. You won!</string>
+
+    <string name="competition_detail_message_success_enroll">Enroll Complete</string>
+
+    <string name="competition_terms_actionbar_title">Competition Terms</string>
+    <string name="competition_terms_title_how_to_submit">Submission Steps</string>
+    <string name="competition_terms_desc_how_to_submit">
+        1. Screen Record the project, starting from when you click on the "RUN" button inside the project..\n
+        * There are many screen capture applications available on the Play Store.\n
+        2. Upload the video on YouTube.\n
+        3. Submit the YouTube URL along with the project.\n
+        4. Failing to follow the steps above will result in a disqualification.
+    </string>
+    <string name="competition_terms_title_terms">Competition Terms</string>
+    <string name="competition_terms_title_agreement">I agree to the terms and conditions</string>
+    <string name="competition_terms_button_join_entry">Request Enrollment</string>
+
+    <string name="competition_submit_actionbar_title">Submit Project</string>
+    <string name="competition_submit_youtube_url_title">Youtube URL</string>
+    <string name="competition_submit_youtube_description">Please submit the screen recording of the demo. (Recorded from pressing the RUN Button)</string>
+    <string name="competition_submit_title_select_project">Select the project to submit</string>
+    <string name="competition_submit_message_input_youtube_url">Enter the YouTube URL</string>
+    <string name="competition_submit_message_select_project">Select the project</string>
+    <string name="competition_submit_message_submit_complete">Submit Complete</string>
+    <string name="competition_submit_message_failed_to_submit">Submit Failed</string>
+
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.4.0 end      ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.5.0 start    ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="root_spec_on_response_head">onResponse</string>
+    <string name="root_spec_on_response_tail"></string>
+
+    <string name="root_spec_on_error_response_head">onErrorResponse</string>
+    <string name="root_spec_on_error_response_tail"></string>
+
+    <string name="block_requestnetwork_set_params_head"></string>
+    <string name="block_requestnetwork_set_params_body_1">set params</string>
+    <string name="block_requestnetwork_set_params_body_2">to request type</string>
+    <string name="block_requestnetwork_set_params_tail"></string>
+
+    <string name="block_requestnetwork_set_headers_head"></string>
+    <string name="block_requestnetwork_set_headers_body_1">set headers</string>
+    <string name="block_requestnetwork_set_headers_tail"></string>
+
+    <string name="block_requestnetwork_start_request_network_head"></string>
+    <string name="block_requestnetwork_start_request_network_body_1">start network request to method</string>
+    <string name="block_requestnetwork_start_request_network_body_2">to url</string>
+    <string name="block_requestnetwork_start_request_network_body_3">with tag</string>
+    <string name="block_requestnetwork_start_request_network_tail"></string>
+
+    <string name="component_description_request_network">RequestNetwork is used to make Web API calls</string>
+
+    <string name="event_on_response">onResponse</string>
+    <string name="event_on_error_response">onErrorResponse</string>
+
+    <string name="block_progressbar_set_indeterminate_head"></string>
+    <string name="block_progressbar_set_indeterminate_body_1">setIndeterminate</string>
+    <string name="block_progressbar_set_indeterminate_tail"></string>
+
+    <string name="property_progressbar_style">progressBarStyle</string>
+    <string name="property_indeterminate">indeterminate</string>
+
+    <string name="logic_editor_title_select_component_request_network">Select RequestNetwork component</string>
+    <string name="logic_editor_title_request_network_method">Select Method</string>
+    <string name="logic_editor_title_request_network_request_type">Select Request Type</string>
+    <string name="logic_editor_title_select_component_text_to_speech">Select TextToSpeech component</string>
+
+    <string name="component_description_text_to_speech">TextToSpeech is used to convert text to speech</string>
+
+    <string name="block_texttospeech_set_pitch_head"></string>
+    <string name="block_texttospeech_set_pitch_body_1">set pitch</string>
+    <string name="block_texttospeech_set_pitch_tail"></string>
+
+    <string name="block_texttospeech_set_speech_rate_head"></string>
+    <string name="block_texttospeech_set_speech_rate_body_1">set speech rate</string>
+    <string name="block_texttospeech_set_speech_rate_tail"></string>
+
+    <string name="block_texttospeech_speak_head"></string>
+    <string name="block_texttospeech_speak_body_1">set speak</string>
+    <string name="block_texttospeech_speak_tail"></string>
+
+    <string name="block_texttospeech_is_speaking_head"></string>
+    <string name="block_texttospeech_is_speaking_tail">is speaking</string>
+
+    <string name="block_texttospeech_stop_head"></string>
+    <string name="block_texttospeech_stop_tail">stop</string>
+
+    <string name="block_texttospeech_shutdown_head"></string>
+    <string name="block_texttospeech_shutdown_tail">shutdown</string>
+
+    <string name="component_description_speech_to_text">SpeechToText is used to convert speech to text</string>
+
+    <string name="event_on_speech_result">onSpeechResponse</string>
+    <string name="event_on_speech_error">onSpeechError</string>
+
+    <string name="logic_editor_title_select_component_speech_to_text">Select SpeechToText component</string>
+
+    <string name="root_spec_on_speech_result_head">onSpeechResult</string>
+    <string name="root_spec_on_speech_result_tail"></string>
+
+    <string name="root_spec_on_speech_error_head">onSpeechError</string>
+    <string name="root_spec_on_speech_error_tail"></string>
+
+    <string name="block_speechtotext_start_listening_head"></string>
+    <string name="block_speechtotext_start_listening_tail">start listening</string>
+
+    <string name="block_speechtotext_stop_listening_head"></string>
+    <string name="block_speechtotext_stop_listening_tail">stop listening</string>
+
+    <string name="block_speechtotext_shutdown_head"></string>
+    <string name="block_speechtotext_shutdown_tail">shutdown</string>
+
+    <string name="init_language_setting_dialog_message">Sketchware\'s default language is English. Would you like to change it?</string>
+
+    <string name="intro_guide_desc">Try Sketchware Now!</string>
+
+    <string name="common_word_preset">Preset</string>
+    <string name="preset_setting_title">Preset Settings</string>
+    <string name="preset_setting_edit_warning">If you apply a Preset, exiting View data will be deleted. Continue?</string>
+
+    <string name="intro_button_start">Start</string>
+
+    <string name="account_deprecated_facebook">Deprecated Facebook Login Method \n* If you need to transfer your previous account to Google account, please contact us at help@sketchware.io.</string>
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.5.0 end      ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
 
 </resources>
