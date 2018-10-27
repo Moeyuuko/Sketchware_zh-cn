@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.5.1" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.5.2" locale="zh"?><resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关-->
     <!-- *************************************************        Common  Start    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
@@ -2843,7 +2843,7 @@
 
     <string name="competition_status_not_started">即将开始</string>
     <string name="competition_status_closed">关闭</string>
-    <string name="competition_status_completed">已完成</string>
+    <string name="competition_status_completed">已结束</string>
 
     <string name="competition_remain_today">今天关闭</string>
     <string name="competition_remain_days">剩余天数</string>
