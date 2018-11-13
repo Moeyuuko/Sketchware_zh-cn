@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.5.2" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.5.4.4" locale="zh"?><resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关-->
     <!-- *************************************************        Common  Start    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
@@ -358,11 +358,11 @@
     <string name="design_run_message_usage_break_block">中断块 只能重复或内部使用于 永久块</string>
 
     <string name="design_drawer_menu_title">组件配置</string>
-    <string name="design_drawer_menu_bottom_title">全部</string>
+    <string name="design_drawer_menu_bottom_title">全局</string>
 
     <string name="design_drawer_menu_title_theme">主题</string>
     <string name="design_drawer_menu_title_library">库</string>
-    <string name="design_drawer_menu_title_collection">全部</string>
+    <string name="design_drawer_menu_title_collection">收藏</string>
     <string name="design_drawer_menu_title_view">视图</string>
     <string name="design_drawer_menu_title_image">图像</string>
     <string name="design_drawer_menu_title_sound">音频</string>
@@ -371,7 +371,7 @@
 
     <string name="design_drawer_menu_description_theme">颜色主题</string>
     <string name="design_drawer_menu_description_library">组件设置</string>
-    <string name="design_drawer_menu_description_collection">我保存的集合</string>
+    <string name="design_drawer_menu_description_collection">我保存的组件</string>
     <string name="design_drawer_menu_description_view">管理多个屏幕</string>
     <string name="design_drawer_menu_description_image">导入照片和图标</string>
     <string name="design_drawer_menu_description_sound">导入音乐和声音效果</string>
@@ -1073,10 +1073,10 @@
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************  System Settings  Start           ************************************* -->
     <!-- ************************************************************************************************************************* -->
-    <string name="system_settings_title_setting_vibration">设置振动</string>
+    <string name="system_settings_title_setting_vibration">振动</string>
     <string name="system_settings_title_automatically_save">自动保存</string>
     <string name="system_settings_title_use_push_notification">使用推送通知</string>
-    <string name="system_settings_title_enable_alerts">启用警报</string>
+    <string name="system_settings_title_enable_alerts">启用提醒</string>
     <string name="system_settings_title_subsribe_newsletter">订阅Sketchware新闻</string>
 
     <string name="system_settings_description_setting_vibration">当小部件或块被长时间按下时震动</string>
@@ -3004,6 +3004,14 @@
     <!-- *************************************************  append 3.5.0 end      ************************************************ -->
     <!-- ************************************************************************************************************************* -->
 
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.5.4 start    ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
 
+    <string name="subscribe_button_unlock">观看视频解锁</string>
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.5.4 end      ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
 </resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关-->
