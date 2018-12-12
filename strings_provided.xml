@@ -3013,4 +3013,169 @@
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************  append 3.5.4 end      ************************************************ -->
     <!-- ************************************************************************************************************************* -->
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.6.0 start    ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="share_collection_message_dialog_delete_upload_data">The data for uploading is all removed. Do you want to continue?</string>
+
+    <string name="common_word_download">Download</string>
+
+    <string name="shared_collection_detail_header_name">Update Information</string>
+    <string name="shared_collection_detail_message_cancel_set_data">Adding collection is canceled. Downloaded data is all removed.</string>
+    <string name="shared_collection_detail_message_set_data_complete">Adding collection is completed</string>
+
+    <string name="share_collection_information_message_screenshots">At least one screenshot is needed</string>
+    <string name="share_collection_information_message_short_desc">Please explain this collection in short description</string>
+    <string name="share_collection_information_message_desc_length">The text length is invalid. Please double check the length of your collection information.</string>
+    <string name="share_collection_information_message_hint_short_desc">Text about this collection in short</string>
+    <string name="share_collection_information_message_hint_long_desc">Text about this collection in detail</string>
+    <string name="share_collection_information_title_short_desc">Short Description</string>
+    <string name="share_collection_information_title_long_desc">Long Description</string>
+    <string name="share_collection_information_title_screenshots">Screenshot</string>
+
+    <string name="shared_collection_list_title_recent">Recent</string>
+    <string name="shared_collection_list_title_down">Download</string>
+    <string name="shared_collection_list_title_like">Like</string>
+
+    <string name="share_view_select_favorite_view_step_name">Select View</string>
+    <string name="share_view_information_step_name">View Information</string>
+    <string name="share_view_select_required_images_step_name">Select Image</string>
+    <string name="share_view_review_information_step_name">Review Information</string>
+
+    <string name="share_view_select_favorite_view_step_desc">Select view you\'d like to share</string>
+    <string name="share_view_information_step_desc">Input description and screenshot about this view</string>
+    <string name="share_view_select_required_images_step_desc">Select image needed for this view</string>
+    <string name="share_view_review_information_step_desc">Please review the information below. If they are all correct, click on \"Share\"..</string>
+
+    <string name="share_view_select_favorite_view_message_favorite_view">Please select a view you\'d like to share</string>
+
+    <string name="share_view_information_title_view_name">View Name</string>
+
+    <string name="share_block_select_favorite_block_step_name">Select Block</string>
+    <string name="share_block_information_step_name">Block Information</string>
+    <string name="share_block_select_required_images_step_name">Select Image</string>
+    <string name="share_block_select_required_fonts_step_name">Select Font</string>
+    <string name="share_block_select_required_sounds_step_name">Select Sound</string>
+    <string name="share_block_review_information_step_name">Review Information</string>
+
+    <string name="share_block_select_favorite_block_step_desc">Select block you\'d like to share</string>
+    <string name="share_block_information_step_desc">Input description and screenshot about this block</string>
+    <string name="share_block_select_required_images_step_desc">Select image needed for this block</string>
+    <string name="share_block_select_required_fonts_step_desc">Select font needed for this block</string>
+    <string name="share_block_select_required_sounds_step_desc">Select sound needed for this block</string>
+    <string name="share_block_review_information_step_desc">Please review the information below. If they are all correct, click on \"Share\"..</string>
+
+    <string name="share_block_select_favorite_block_message_favorite_block">Please select a block you\'d like to share</string>
+
+    <string name="share_block_information_title_block_name">Block Name</string>
+
+    <string name="shared_views_detail_title_view_detail">View Details</string>
+    <string name="shared_views_detail_see_more_views">See more views of %s</string>
+    <string name="shared_views_detail_title_dialog_delete_my_shared_view">Delete Shared View</string>
+    <string name="shared_views_detail_message_dialog_delete_my_shared_view">Do you want to delete this view?</string>
+    <string name="shared_views_detail_message_already_liked_view">Already Liked View</string>
+
+    <string name="shared_blocks_detail_title_block_detail">Block Details</string>
+    <string name="shared_blocks_detail_see_more_blocks">See more blocks of %s</string>
+    <string name="shared_blocks_detail_title_dialog_delete_my_shared_blocks">Delete Shared Block</string>
+    <string name="shared_blocks_detail_message_dialog_delete_my_shared_blocks">Do you want to delete this block</string>
+    <string name="shared_blocks_detail_message_already_liked_blocks">Already Liked Block</string>
+
+    <string name="shared_views_list_title_shared_views">Shared View</string>
+    <string name="shared_views_list_title_my_shared_views">My Shared View</string>
+    <string name="shared_views_list_title_other_user_shared_views">%s\'s Shared View</string>
+
+    <string name="shared_blocks_list_title_shared_blocks">Shared Block</string>
+    <string name="shared_blocks_list_title_my_shared_blocks">My Shared Block</string>
+    <string name="shared_blocks_list_title_other_user_shared_blocks">%s\'s Shared Block</string>
+
+    <string name="shared_search_collection_list_title">Search View Result of %s</string>
+
+    <string name="shared_collection_word_search_collection">Search Collection</string>
+    <string name="shared_collection_title_recommend">Recommended For You!</string>
+    <string name="shared_collection_message_no_data">No data to display</string>
+    <string name="shared_collection_title_top_downloaded">Top Downloaded 5</string>
+    <string name="shared_collection_word_show_details">Show Details</string>
+    <string name="shared_collection_message_recommend_no_data">No recommendation to display</string>
+
+    <string name="shared_view_preview_title">View Preview</string>
+    <string name="shared_block_preview_title">Block Preview</string>
+
+    <string name="shared_collection_message_download_complete">Download Completed</string>
+    <string name="shared_collection_message_download_fail">Download Failed</string>
+    <string name="shared_collection_message_downloaded_data_setting">Applying Downloaded Data...</string>
+    <string name="shared_collection_message_delete_complete">Delete Completed</string>
+    <string name="shared_collection_message_delete_fail">Delete Failed\nPlease try again later</string>
+
+    <string name="shared_view_preview_message_download_complete">Download Completed. Please check this view</string>
+    <string name="shared_block_preview_message_download_complete">Download Completed. Please check this block</string>
+
+    <string name="shared_view_message_downloading_view_data">Downloading View Data</string>
+    <string name="shared_block_message_downloading_block_data">Downloading Block Data</string>
+
+    <string name="share_view_message_uploading_view_data">Uploading View Data</string>
+    <string name="share_block_message_uploading_block_data">Uploading Block Data</string>
+
+    <string name="common_message_uploading">Uploading...</string>
+
+    <string name="shared_collection_message_no_search_keyword">Please input keyword to search</string>
+
+    <string name="tutorial_status_request_publish">Apply Channel Registration</string>
+    <string name="tutorial_status_already_requested">Under Review</string>
+    <string name="tutorial_status_management_channel">Channel Management</string>
+
+    <string name="tutorial_list_button_goto_channel">Go to channel</string>
+    <string name="tutorial_list_button_download_sample_project">Download Sample Project</string>
+    <string name="tutorial_list_message_no_video">No videos to display</string>
+
+    <string name="tutorial_message_request_publish">If you\'re the owner of a Youtube channel and Sketchware tutorials are uploaded to the channel, apply to publish your Youtube channel in Sketchware.</string>
+    <string name="tutorial_word_request_publish">Apply</string>
+
+    <string name="tutorial_management_actionbar_title">Tutorial Channel Management</string>
+    <string name="tutorial_management_title_channel_info">Channel Information</string>
+    <string name="tutorial_management_title_language_info">Language Information</string>
+    <string name="tutorial_management_title_video_list">Video List</string>
+    <string name="tutorial_management_message_delete_fail">Failed to delete</string>
+    <string name="tutorial_management_message_delete_complete">Delete Complete</string>
+
+    <string name="tutorial_request_publish_actionbar_title">Tutorial Channel Registration</string>
+    <string name="tutorial_request_publish_title_warning">Note</string>
+    <string name="tutorial_request_publish_message_warning">It takes up to 3 days to complete the registration.\nThe number of videos is limited to a maximum of 5.\nThe maximum number of videos can be changed according to the operating instructions of Sketchware.\nYou can upload a sample project with the video.</string>
+    <string name="tutorial_request_publish_title_youtube_url">Youtube Channel URL</string>
+    <string name="tutorial_request_publish_title_api_key">API KEY</string>
+    <string name="tutorial_request_publish_button_goto_doc">Way to get API key</string>
+    <string name="tutorial_request_publish_button_cert">Certificate</string>
+    <string name="tutorial_request_publish_title_available_language">Select Language</string>
+
+    <string name="tutorial_request_publish_message_cert_fail">Failed to certificate.\nPlease check the url and the api key again.</string>
+    <string name="tutorial_request_publish_message_cert_complete">Certificate Complete.</string>
+    <string name="tutorial_request_publish_message_request_fail">Failed to apply. Please contact the administrator.</string>
+    <string name="tutorial_request_publish_message_request_complete">Applying Complete.</string>
+    <string name="tutorial_request_publish_message_invalid_user">The account is invalid to register.</string>
+    <string name="tutorial_request_publish_message_already_exist">The registration is already applied.</string>
+
+    <string name="tutorial_upload_actionbar_title">Upload Tutorial Video</string>
+    <string name="tutorial_upload_title_youtube_url">Youtube Video URL</string>
+    <string name="tutorial_upload_title_video_info">Video Information</string>
+    <string name="tutorial_upload_title_sample_project">Upload Sample Project</string>
+    <string name="tutorial_upload_message_input_url">Please input URL</string>
+    <string name="tutorial_upload_message_cert_fail">Failed to certificate.\nPlease check the URL again.</string>
+    <string name="tutorial_upload_message_not_cert_url">Please certificate the URL.</string>
+    <string name="tutorial_upload_message_select_sample_project">Please select a sample project.</string>
+    <string name="tutorial_upload_message_upload_complete">Register Complete.</string>
+    <string name="tutorial_upload_message_upload_fail">Failed to register.</string>
+
+    <string name="view_widget_favorites_image_auto_added">Images used in the widget are added to this project.</string>
+    <string name="view_widget_favorites_save_guide_new">If you save this widget, this widget will be added to widget collection and images used in this widget will be added to image collection automatically. Saved widget can be used in all projects.</string>
+    <string name="shared_collection_message_update_soon">This feature will be updated soon. Please wait to the next update.</string>
+
+    <string name="tutorial_upload_message_over_max_video_count">You have exceeded the maximum number of uploading video (5).</string>
+    <string name="shared_views_detail_message_add_collection_complete">Add Collection Complete. If the view has the required images, the required images are added to image collection automatically and you can use the view with the required images in your project directly.</string>
+    <string name="shared_collection_detail_title_dialog_add_collection_complete">Add Collection Complete</string>
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.6.0 end      ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
 </resources>

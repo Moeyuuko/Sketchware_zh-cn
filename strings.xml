@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.5.4.4" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.6.0.1" locale="zh"?><resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关-->
     <!-- *************************************************        Common  Start    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
@@ -3013,5 +3013,170 @@
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************  append 3.5.4 end      ************************************************ -->
     <!-- ************************************************************************************************************************* -->
-</resources>
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.6.0 start    ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="share_collection_message_dialog_delete_upload_data">上传的数据将全部删除.继续?</string>
+
+    <string name="common_word_download">下载</string>
+
+    <string name="shared_collection_detail_header_name">更新信息</string>
+    <string name="shared_collection_detail_message_cancel_set_data">添加的集合已经取消. 删除全部下载的数据?.</string>
+    <string name="shared_collection_detail_message_set_data_complete">添加集合已成功</string>
+
+    <string name="share_collection_information_message_screenshots">至少需要一个屏幕截图</string>
+    <string name="share_collection_information_message_short_desc">请简单描述一下这个集合</string>
+    <string name="share_collection_information_message_desc_length">文本长度无效。 请仔细检查收集信息的长度。</string>
+    <string name="share_collection_information_message_hint_short_desc">简要介绍一下这个集合的文字</string>
+    <string name="share_collection_information_message_hint_long_desc">有关此集合的详细文字</string>
+    <string name="share_collection_information_title_short_desc">简短的介绍</string>
+    <string name="share_collection_information_title_long_desc">详细描述</string>
+    <string name="share_collection_information_title_screenshots">截图</string>
+
+    <string name="shared_collection_list_title_recent">最近</string>
+    <string name="shared_collection_list_title_down">下载</string>
+    <string name="shared_collection_list_title_like">喜爱</string>
+
+    <string name="share_view_select_favorite_view_step_name">查看选择</string>
+    <string name="share_view_information_step_name">查看信息</string>
+    <string name="share_view_select_required_images_step_name">选择图片</string>
+    <string name="share_view_review_information_step_name">评论信息</string>
+
+    <string name="share_view_select_favorite_view_step_desc">选择您要分享的视图</string>
+    <string name="share_view_information_step_desc">输入关于此视图的描述和屏幕截图</string>
+    <string name="share_view_select_required_images_step_desc">选择此视图所需的图像</string>
+    <string name="share_view_review_information_step_desc">请查看以下信息. 如果它们都正确,请单击\"共享\"..</string>
+
+    <string name="share_view_select_favorite_view_message_favorite_view">请选择您要分享的视图</string>
+
+    <string name="share_view_information_title_view_name">视图名字</string>
+
+    <string name="share_block_select_favorite_block_step_name">选择块</string>
+    <string name="share_block_information_step_name">方块信息</string>
+    <string name="share_block_select_required_images_step_name">选择图片</string>
+    <string name="share_block_select_required_fonts_step_name">选择字体</string>
+    <string name="share_block_select_required_sounds_step_name">选择声音</string>
+    <string name="share_block_review_information_step_name">评论信息</string>
+
+    <string name="share_block_select_favorite_block_step_desc">选择您要分享的块</string>
+    <string name="share_block_information_step_desc">有关此块的输入描述和屏幕截图</string>
+    <string name="share_block_select_required_images_step_desc">选择此块所需的图像</string>
+    <string name="share_block_select_required_fonts_step_desc">选择此块所需的字体</string>
+    <string name="share_block_select_required_sounds_step_desc">选择此块所需的声音</string>
+    <string name="share_block_review_information_step_desc">请查看以下信息. 如果它们都正确,请单击\"共享\"..</string>
+
+    <string name="share_block_select_favorite_block_message_favorite_block">请选择您要分享的区块</string>
+
+    <string name="share_block_information_title_block_name">块名字</string>
+
+    <string name="shared_views_detail_title_view_detail">查看详情</string>
+    <string name="shared_views_detail_see_more_views">查看更多关于 %s 的观点</string>
+    <string name="shared_views_detail_title_dialog_delete_my_shared_view">删除分享的视图</string>
+    <string name="shared_views_detail_message_dialog_delete_my_shared_view">要删除此视图吗?</string>
+    <string name="shared_views_detail_message_already_liked_view">已经喜欢此视图</string>
+
+    <string name="shared_blocks_detail_title_block_detail">阻止细节</string>
+    <string name="shared_blocks_detail_see_more_blocks">查看更多块 %s</string>
+    <string name="shared_blocks_detail_title_dialog_delete_my_shared_blocks">删除共享块</string>
+    <string name="shared_blocks_detail_message_dialog_delete_my_shared_blocks">要删除此块吗?</string>
+    <string name="shared_blocks_detail_message_already_liked_blocks">已经喜欢此块</string>
+
+    <string name="shared_views_list_title_shared_views">共享视图</string>
+    <string name="shared_views_list_title_my_shared_views">我的共享视图</string>
+    <string name="shared_views_list_title_other_user_shared_views">%s 的共享视图</string>
+
+    <string name="shared_blocks_list_title_shared_blocks">共享块</string>
+    <string name="shared_blocks_list_title_my_shared_blocks">我的共享块</string>
+    <string name="shared_blocks_list_title_other_user_shared_blocks">%s 的共享块</string>
+
+    <string name="shared_search_collection_list_title">查看 %s 的搜索结果</string>
+
+    <string name="shared_collection_word_search_collection">搜索集合</string>
+    <string name="shared_collection_title_recommend">为你推荐！</string>
+    <string name="shared_collection_message_no_data">没有数据显示</string>
+    <string name="shared_collection_title_top_downloaded">下载前5排行榜</string>
+    <string name="shared_collection_word_show_details">显示详细资料</string>
+    <string name="shared_collection_message_recommend_no_data">没有建议显示</string>
+
+    <string name="shared_view_preview_title">查看预览</string>
+    <string name="shared_block_preview_title">阻止预览</string>
+
+    <string name="shared_collection_message_download_complete">下载完成</string>
+    <string name="shared_collection_message_download_fail">下载失败</string>
+    <string name="shared_collection_message_downloaded_data_setting">应用下载的数据...</string>
+    <string name="shared_collection_message_delete_complete">删除已完成</string>
+    <string name="shared_collection_message_delete_fail">删除失败\n请稍后再试</string>
+
+    <string name="shared_view_preview_message_download_complete">下载完成. 请检查此视图</string>
+    <string name="shared_block_preview_message_download_complete">下载完成. 请检查此块</string>
+
+    <string name="shared_view_message_downloading_view_data">下载视图数据</string>
+    <string name="shared_block_message_downloading_block_data">下载块数据</string>
+
+    <string name="share_view_message_uploading_view_data">正在上传视图数据</string>
+    <string name="share_block_message_uploading_block_data">上传块数据</string>
+
+    <string name="common_message_uploading">上传中...</string>
+
+    <string name="shared_collection_message_no_search_keyword">请输入要搜索的关键字</string>
+
+    <string name="tutorial_status_request_publish">申请频道注册</string>
+    <string name="tutorial_status_already_requested">正在审核中</string>
+    <string name="tutorial_status_management_channel">渠道管理</string>
+
+    <string name="tutorial_list_button_goto_channel">前往频道</string>
+    <string name="tutorial_list_button_download_sample_project">下载示例项目</string>
+    <string name="tutorial_list_message_no_video">没有要显示的视频</string>
+
+    <string name="tutorial_message_request_publish">如果您是Youtube频道的所有者,并且Sketchware教程已上传到频道,请申请在Sketchware中发布您的Youtube频道.</string>
+    <string name="tutorial_word_request_publish">应用</string>
+
+    <string name="tutorial_management_actionbar_title">教程频道管理</string>
+    <string name="tutorial_management_title_channel_info">频道信息</string>
+    <string name="tutorial_management_title_language_info">语言信息</string>
+    <string name="tutorial_management_title_video_list">视频列表</string>
+    <string name="tutorial_management_message_delete_fail">无法删除</string>
+    <string name="tutorial_management_message_delete_complete">删除完成</string>
+
+    <string name="tutorial_request_publish_actionbar_title">教程频道注册</string>
+    <string name="tutorial_request_publish_title_warning">注意</string>
+    <string name="tutorial_request_publish_message_warning">注册完成最多需要3天.\n视频数量限制为最多5个.\n可以根据Sketchware的操作说明更改最大视频数.\n您可以上传包含视频的示例项目.</string>
+    <string name="tutorial_request_publish_title_youtube_url">Youtube频道网址</string>
+    <string name="tutorial_request_publish_title_api_key">API KEY</string>
+    <string name="tutorial_request_publish_button_goto_doc">获取API密钥的方法</string>
+    <string name="tutorial_request_publish_button_cert">证书</string>
+    <string name="tutorial_request_publish_title_available_language">选择语言</string>
+
+    <string name="tutorial_request_publish_message_cert_fail">证书失败.\n请再次检查网址和API密钥.</string>
+    <string name="tutorial_request_publish_message_cert_complete">证书完成.</string>
+    <string name="tutorial_request_publish_message_request_fail">申请失败.请联系管理员.</string>
+    <string name="tutorial_request_publish_message_request_complete">申请完成.</string>
+    <string name="tutorial_request_publish_message_invalid_user">该帐户无法注册.</string>
+    <string name="tutorial_request_publish_message_already_exist">注册已经应用.</string>
+
+    <string name="tutorial_upload_actionbar_title">上传教程视频</string>
+    <string name="tutorial_upload_title_youtube_url">Youtube视频网址</string>
+    <string name="tutorial_upload_title_video_info">视频信息</string>
+    <string name="tutorial_upload_title_sample_project">上传示例项目</string>
+    <string name="tutorial_upload_message_input_url">请输入网址</string>
+    <string name="tutorial_upload_message_cert_fail">请输入URL无法通过证书.\n请再次检查URL.</string>
+    <string name="tutorial_upload_message_not_cert_url">请证明URL.</string>
+    <string name="tutorial_upload_message_select_sample_project">请选择一个示例项目.</string>
+    <string name="tutorial_upload_message_upload_complete">注册完成.</string>
+    <string name="tutorial_upload_message_upload_fail">注册失败.</string>
+
+    <string name="view_widget_favorites_image_auto_added">窗口小部件中使用的图像将添加到此项目中.</string>
+    <string name="view_widget_favorites_save_guide_new">如果保存此窗口小部件,此窗口小部件将添加到窗口小部件集合中,此窗口小部件中使用的图像将自动添加到图像集合中. 保存的小部件可用于所有项目.</string>
+    <string name="shared_collection_message_update_soon">此功能将很快更新. 请等待下一次更新.</string>
+
+    <string name="tutorial_upload_message_over_max_video_count">您已超过上传视频的最大数量 (5).</string>
+    <string name="shared_views_detail_message_add_collection_complete">添加收藏完成.如果视图具有所需图像,则会自动将所需图像添加到图像集中,您可以直接在项目中使用包含所需图像的视图.</string>
+    <string name="shared_collection_detail_title_dialog_add_collection_complete">添加收藏完成</string>
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.6.0 end      ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+	</resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关-->
