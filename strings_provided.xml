@@ -3072,13 +3072,13 @@
     <string name="share_block_information_title_block_name">Block Name</string>
 
     <string name="shared_views_detail_title_view_detail">View Details</string>
-    <string name="shared_views_detail_see_more_views">See more views of %s</string>
+    <string name="shared_views_detail_see_more_views">See more shared views of %s</string>
     <string name="shared_views_detail_title_dialog_delete_my_shared_view">Delete Shared View</string>
     <string name="shared_views_detail_message_dialog_delete_my_shared_view">Do you want to delete this view?</string>
     <string name="shared_views_detail_message_already_liked_view">Already Liked View</string>
 
     <string name="shared_blocks_detail_title_block_detail">Block Details</string>
-    <string name="shared_blocks_detail_see_more_blocks">See more blocks of %s</string>
+    <string name="shared_blocks_detail_see_more_blocks">See more shared blocks of %s</string>
     <string name="shared_blocks_detail_title_dialog_delete_my_shared_blocks">Delete Shared Block</string>
     <string name="shared_blocks_detail_message_dialog_delete_my_shared_blocks">Do you want to delete this block</string>
     <string name="shared_blocks_detail_message_already_liked_blocks">Already Liked Block</string>
@@ -3091,10 +3091,10 @@
     <string name="shared_blocks_list_title_my_shared_blocks">My Shared Block</string>
     <string name="shared_blocks_list_title_other_user_shared_blocks">%s\'s Shared Block</string>
 
-    <string name="shared_search_collection_list_title">Search View Result of %s</string>
+    <string name="shared_search_collection_list_title">Search Result of %s</string>
 
     <string name="shared_collection_word_search_collection">Search Collection</string>
-    <string name="shared_collection_title_recommend">Recommended For You!</string>
+    <string name="shared_collection_title_recommend">Recommended Collection!</string>
     <string name="shared_collection_message_no_data">No data to display</string>
     <string name="shared_collection_title_top_downloaded">Top Downloaded 5</string>
     <string name="shared_collection_word_show_details">Show Details</string>
@@ -3176,6 +3176,77 @@
     <string name="shared_collection_detail_title_dialog_add_collection_complete">Add Collection Complete</string>
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************  append 3.6.0 end      ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.6.5 start    ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="block_set_hint_head"></string>
+    <string name="block_set_hint_body_1">set hint text to</string>
+    <string name="block_set_hint_tail"></string>
+
+    <string name="block_set_hint_text_color_head"></string>
+    <string name="block_set_hint_text_color_body_1">set hint color to</string>
+    <string name="block_set_hint_text_color_tail"></string>
+
+    <string name="block_request_focus_head"></string>
+    <string name="block_request_focus_tail">request focus</string>
+
+    <string name="logic_more_block_favorites_save_title">Save More Block to My Collection</string>
+    <string name="logic_more_block_favorites_save_guide">If you save this block, you can use this block in all projects.</string>
+
+    <string name="logic_button_import_more_block">Import From Collection</string>
+    <string name="logic_button_explore_shared_more_block">Shared More Block</string>
+
+    <string name="logic_more_block_message_missed_resource_exist">Some of the resources couldn\'t be added to collection. Please check the resources.</string>
+    <string name="logic_more_block_message_resource_added">Included resources are added to collection automatically.</string>
+
+    <string name="logic_more_block_title_change_block_name">Edit Moreblock Name</string>
+    <string name="logic_more_block_desc_change_block_name">The name of moreblock is duplicated. Please edit the name of moreblock.</string>
+
+    <string name="logic_more_block_title_add_variable_resource">Variable And Resource Add Automatically</string>
+    <string name="logic_more_block_desc_add_variable_resource">Variables and resources in moreblock are added automatically. Do you want to continue?\nBut, components should be added manually for working correctly.</string>
+
+    <string name="logic_more_block_title_select_more_block">Select More Block</string>
+    <string name="logic_list_menu_add_to_collection">Add To Collection</string>
+
+    <string name="shared_blocks_list_title_shared_more_blocks">Shared More Block</string>
+    <string name="shared_blocks_list_title_my_shared_more_blocks">My Shared More Block</string>
+    <string name="shared_blocks_list_title_other_user_shared_more_blocks">%s\'s Shared More Block</string>
+
+    <string name="shared_blocks_detail_title_more_block_detail">More Block Details</string>
+    <string name="shared_blocks_detail_see_more_more_blocks">See more shared more blocks of %s</string>
+    <string name="shared_blocks_detail_title_dialog_delete_my_shared_more_blocks">Delete Shared More Block</string>
+    <string name="shared_blocks_detail_message_dialog_delete_my_shared_more_blocks">Do you want to delete this more block?</string>
+    <string name="shared_blocks_detail_message_already_liked_more_blocks">Already Liked More Block</string>
+
+    <string name="share_block_select_favorite_more_block_step_name">Select More Block</string>
+    <string name="share_block_select_favorite_more_block_step_desc">Select more block you\'d like to share</string>
+
+    <string name="share_block_message_uploading_more_block_data">Uploading More Block Data</string>
+
+    <string name="share_more_block_information_title_more_block_name">More Block Name</string>
+
+    <string name="shared_more_block_message_downloading_more_block_data">Downloading More Block Data</string>
+    <string name="shared_more_block_preview_title">More Block Preview</string>
+    <string name="shared_more_block_detail_message_add_collections_complete">Add Collection Complete. If the block has required collections, required collections are added to collections automatically and you can use the view with required collections in your project directly.</string>
+
+    <string name="share_collection_select_favorite_collection_message_no_data">No collection to share.\n\nPlease try again after adding at least one collection.</string>
+    <string name="share_collection_select_required_collection_message_no_data">No collection to share.</string>
+
+    <string name="sign_apk_title_generate_apk_file">Generate APK File</string>
+    <string name="sign_apk_desc_generate_apk_file">Click sign button below and generate an APK file!</string>
+    <string name="sign_apk_title_export_apk_file">Generate APK File Complete</string>
+    <string name="sign_apk_desc_export_apk_file">APK file is generated. APK file is generated in the save directory below. Please check the save directory.</string>
+    <string name="sign_apk_title_apk_file_save_path">Save Directory</string>
+
+    <string name="publish_one_final_step_desc_generate_apk_file">If you click the button below, an APK file for your first publish will be generated.</string>
+    <string name="publish_one_final_step_title_sign_apk_file">Generate APK File For First Publish</string>
+    <string name="publish_one_final_step_button_title_move_to_guide">Move To Publish Guide</string>
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.6.5 end      ************************************************ -->
     <!-- ************************************************************************************************************************* -->
 
 </resources>

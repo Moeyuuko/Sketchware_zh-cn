@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.6.0.1" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.6.7.0" locale="zh"?><resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关-->
     <!-- *************************************************        Common  Start    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
@@ -79,7 +79,7 @@
     <string name="common_word_custom_view">自定义视图</string>
     <string name="common_word_component">组件</string>
     <string name="common_word_drawer">抽屉</string>
-    <string name="common_word_moreblock">更多块</string>
+    <string name="common_word_moreblock">组合块</string>
 
     <string name="common_word_image">图片</string>
     <string name="common_word_sound">音频</string>
@@ -535,7 +535,7 @@
 
     <string name="event_context_menu_title">活动菜单</string>
     <string name="event_context_menu_title_initialize_logic">初始化逻辑</string>
-    <string name="event_context_menu_title_delete_more_block">删除更多块</string>
+    <string name="event_context_menu_title_delete_more_block">删除组合块</string>
     <string name="event_context_menu_title_delete_event">删除事件</string>
 
     <string name="event_dialog_confirm_reset_logic">你确定你想重置这个逻辑吗？</string>
@@ -735,7 +735,7 @@
     <string name="logic_editor_title_add_new_list">添加新列表</string>
     <string name="logic_editor_title_remove_list">删除一个列表</string>
 
-    <string name="logic_editor_more_block_actionbar_title_create_more_block">创建一个新的更多块</string>
+    <string name="logic_editor_more_block_actionbar_title_create_more_block">创建一个新的组合块</string>
 
     <string name="logic_editor_more_block_title_name_of_block">块名称</string>
 
@@ -765,7 +765,7 @@
     <string name="logic_editor_message_variable_name_must_start_letter">变量名称必须以字母开头</string>
 
     <string name="logic_editor_message_select_copy_block">选择您想要复制的块</string>
-    <string name="logic_editor_message_name_requied">"更多块"必需有一个有效的名称</string>
+    <string name="logic_editor_message_name_requied">"组合块"必需有一个有效的名称</string>
 
     <string name="logic_editor_hint_enter_variable_name">输入变量名称（区分大小写）</string>
     <!-- ************************************************************************************************************************* -->
@@ -1417,7 +1417,7 @@
     <string name="block_category_view_func">视图</string>
     <string name="block_category_component_func">组件</string>
     <string name="block_category_file">文件</string>
-    <string name="block_category_moreblock">更多块</string>
+    <string name="block_category_moreblock">组合块</string>
 
     <!-- new block spec -->
     <string name="block_set_var_bool_head">设置</string>
@@ -3078,7 +3078,7 @@
     <string name="shared_views_detail_message_already_liked_view">已经喜欢此视图</string>
 
     <string name="shared_blocks_detail_title_block_detail">阻止细节</string>
-    <string name="shared_blocks_detail_see_more_blocks">查看更多块 %s</string>
+    <string name="shared_blocks_detail_see_more_blocks">查看组合块 %s</string>
     <string name="shared_blocks_detail_title_dialog_delete_my_shared_blocks">删除共享块</string>
     <string name="shared_blocks_detail_message_dialog_delete_my_shared_blocks">要删除此块吗?</string>
     <string name="shared_blocks_detail_message_already_liked_blocks">已经喜欢此块</string>
@@ -3178,5 +3178,76 @@
     <!-- *************************************************  append 3.6.0 end      ************************************************ -->
     <!-- ************************************************************************************************************************* -->
 
-	</resources>
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.6.5 start    ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="block_set_hint_head">将</string>
+    <string name="block_set_hint_body_1">提示文本设置为</string>
+    <string name="block_set_hint_tail"></string>
+
+    <string name="block_set_hint_text_color_head">将</string>
+    <string name="block_set_hint_text_color_body_1">提示颜色设置为</string>
+    <string name="block_set_hint_text_color_tail"></string>
+
+    <string name="block_request_focus_head">请求</string>
+    <string name="block_request_focus_tail">焦点</string>
+
+    <string name="logic_more_block_favorites_save_title">保存组合块到我的收藏</string>
+    <string name="logic_more_block_favorites_save_guide">如果保存此块,则可以在所有项目中使用此块.</string>
+
+    <string name="logic_button_import_more_block">从集合导入</string>
+    <string name="logic_button_explore_shared_more_block">共享更多的块</string>
+
+    <string name="logic_more_block_message_missed_resource_exist">有些资源无法添加到集合中. 请检查资源.</string>
+    <string name="logic_more_block_message_resource_added">包含的资源会自动添加到集合中.</string>
+
+    <string name="logic_more_block_title_change_block_name">编辑组合块的名称</string>
+    <string name="logic_more_block_desc_change_block_name">组合块的名称是重复的, 请编辑组合块的名称.</string>
+
+    <string name="logic_more_block_title_add_variable_resource">变量和资源自动添加</string>
+    <string name="logic_more_block_desc_add_variable_resource">组合块中的变量和资源会自动添加. 是否要继续?\n但是,应手动添加组件以便正常工作.</string>
+
+    <string name="logic_more_block_title_select_more_block">选择组合块</string>
+    <string name="logic_list_menu_add_to_collection">添加到收藏</string>
+
+    <string name="shared_blocks_list_title_shared_more_blocks">共享组合块</string>
+    <string name="shared_blocks_list_title_my_shared_more_blocks">我的共享组合块</string>
+    <string name="shared_blocks_list_title_other_user_shared_more_blocks">%s 的组合块共享</string>
+
+    <string name="shared_blocks_detail_title_more_block_detail">组合块的细节</string>
+    <string name="shared_blocks_detail_see_more_more_blocks">查看更多 %s 共享的组合块</string>
+    <string name="shared_blocks_detail_title_dialog_delete_my_shared_more_blocks">删除共享组合块</string>
+    <string name="shared_blocks_detail_message_dialog_delete_my_shared_more_blocks">你想删除这个组合块吗？</string>
+    <string name="shared_blocks_detail_message_already_liked_more_blocks">已经喜欢组合块</string>
+
+    <string name="share_block_select_favorite_more_block_step_name">选择组合块</string>
+    <string name="share_block_select_favorite_more_block_step_desc">选择您想要分享的组合块</string>
+
+    <string name="share_block_message_uploading_more_block_data">上传组合块数据</string>
+
+    <string name="share_more_block_information_title_more_block_name">组合块名字</string>
+
+    <string name="shared_more_block_message_downloading_more_block_data">正在下载组合块数据</string>
+    <string name="shared_more_block_preview_title">组合块预览</string>
+    <string name="shared_more_block_detail_message_add_collections_complete">添加收藏完成. 如果块具有必需的集合,则会自动将所需的集合添加到集合中,您可以直接在项目中使用具有所需集合的视图。</string>
+
+    <string name="share_collection_select_favorite_collection_message_no_data">没有收集分享.\n\n请在添加至少一个集合后再试一次。</string>
+    <string name="share_collection_select_required_collection_message_no_data">没有收集分享。</string>
+
+    <string name="sign_apk_title_generate_apk_file">生成APK文件</string>
+    <string name="sign_apk_desc_generate_apk_file">点击下面的签名按钮,生成一个APK文件！</string>
+    <string name="sign_apk_title_export_apk_file">生成APK文件完成</string>
+    <string name="sign_apk_desc_export_apk_file">APK文件已生成. APK文件在下面的保存目录中生成. 请检查保存目录.</string>
+    <string name="sign_apk_title_apk_file_save_path">保存目录</string>
+
+    <string name="publish_one_final_step_desc_generate_apk_file">如果单击下面的按钮,将生成一个发布的APK文件.</string>
+    <string name="publish_one_final_step_title_sign_apk_file">为首次发布生成APK文件</string>
+    <string name="publish_one_final_step_button_title_move_to_guide">前往发布指南</string>
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.6.5 end      ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+</resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关-->
