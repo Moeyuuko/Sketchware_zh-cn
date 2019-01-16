@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.6.7.0" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.8.1.1" locale="zh"?><resources>
 <!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关-->
     <!-- *************************************************        Common  Start    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
@@ -632,9 +632,9 @@
     <string name="component_description_firebase_auth">Firebase身份验证\n用于用户身份的在线验证</string>
 
     <!-- ************************************** ToDo : 2018.06.08 Component Description *******************************************-->
-    <string name="component_description_firebase_storage">Firebase Storage \n是为了 需要存储和提供 用户创建的内容 的应用开发者 创建的 </string>
-    <string name="component_description_camera">Camera \n用于拍摄照片.</string>
-    <string name="component_description_file_picker">FilePicker \n用于选择 RAW和媒体文件,如图像,音频和文本.(不就是个 文件选择器)</string>
+    <string name="component_description_firebase_storage">Firebase存储 \n是为了 需要存储和提供 用户创建的内容 的应用开发者 创建的 </string>
+    <string name="component_description_camera">相机 \n用于拍摄照片.</string>
+    <string name="component_description_file_picker">文件选择器\n用于选择 RAW和媒体文件,如图像,音频和文本.(不就是个 文件选择器)</string>
 
     <string name="component_description_file_picker_guide_mime_type_example">MIME用于识别数据类型.\nex)\"*/*\", \"image/*\", \"audio/*\", \"text/*\"</string>
     <!-- ************************************************************************************************************************* -->
@@ -2927,7 +2927,7 @@
     <string name="block_requestnetwork_start_request_network_body_3">带附加参数</string>
     <string name="block_requestnetwork_start_request_network_tail"></string>
 
-    <string name="component_description_request_network">RequestNetwork\n用于进行Web API调用</string>
+    <string name="component_description_request_network">请求网络\n用于进行Web API调用</string>
 
     <string name="event_on_response">当响应</string>
     <string name="event_on_error_response">当错误响应</string>
@@ -2944,7 +2944,7 @@
     <string name="logic_editor_title_request_network_request_type">选择请求类型</string>
     <string name="logic_editor_title_select_component_text_to_speech">选择文本转语音组件</string>
 
-    <string name="component_description_text_to_speech">TextToSpeech\n组件是用于将文本转换成语音的.</string>
+    <string name="component_description_text_to_speech">文字转语音\n组件是用于将文本转换成语音的.</string>
 
     <string name="block_texttospeech_set_pitch_head"></string>
     <string name="block_texttospeech_set_pitch_body_1">设</string>
@@ -2967,7 +2967,7 @@
     <string name="block_texttospeech_shutdown_head"></string>
     <string name="block_texttospeech_shutdown_tail">关闭</string>
 
-    <string name="component_description_speech_to_text">SpeechToText\n被用于将语音转换成文本.</string>
+    <string name="component_description_speech_to_text">语音转文本\n被用于将语音转换成文本.</string>
 
     <string name="event_on_speech_result">当语音响应</string>
     <string name="event_on_speech_error">当语音错误</string>
@@ -3247,6 +3247,211 @@
 
     <!-- ************************************************************************************************************************* -->
     <!-- *************************************************  append 3.6.5 end      ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.7.0 start    ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="event_on_connected">当连接上</string>
+    <string name="event_on_data_received">当收到数据</string>
+    <string name="event_on_data_sent">当发送数据</string>
+    <string name="event_on_connection_error">当连接错误</string>
+    <string name="event_on_connection_stopped">当连接停止</string>
+
+    <string name="root_spec_on_connected_head">当</string>
+    <string name="root_spec_on_connected_tail">连接上</string>
+
+    <string name="root_spec_on_data_received_head">当</string>
+    <string name="root_spec_on_data_received_tail">收到的数据</string>
+
+    <string name="root_spec_on_data_sent_head">当</string>
+    <string name="root_spec_on_data_sent_tail">发送数据</string>
+
+    <string name="root_spec_on_connection_error_head">当</string>
+    <string name="root_spec_on_connection_error_tail">关于连接错误</string>
+
+    <string name="root_spec_on_connection_stopped_head">当</string>
+    <string name="root_spec_on_connection_stopped_tail">连接停止</string>
+
+    <string name="block_bluetoothconnect_ready_connection_head"></string>
+    <string name="block_bluetoothconnect_ready_connection_body_1">准备连接标签</string>
+    <string name="block_bluetoothconnect_ready_connection_tail"></string>
+
+    <string name="block_bluetoothconnect_ready_connection_to_uuid_head"></string>
+    <string name="block_bluetoothconnect_ready_connection_to_uuid_body_1">准备连接到uuid</string>
+    <string name="block_bluetoothconnect_ready_connection_to_uuid_body_2">与标签</string>
+    <string name="block_bluetoothconnect_ready_connection_to_uuid_tail"></string>
+
+    <string name="block_bluetoothconnect_start_connection_head"></string>
+    <string name="block_bluetoothconnect_start_connection_body_1">开始连接到地址</string>
+    <string name="block_bluetoothconnect_start_connection_body_2">与标签</string>
+    <string name="block_bluetoothconnect_start_connection_tail"></string>
+
+    <string name="block_bluetoothconnect_start_connection_to_uuid_head"></string>
+    <string name="block_bluetoothconnect_start_connection_to_uuid_body_1">开始连接到uuid</string>
+    <string name="block_bluetoothconnect_start_connection_to_uuid_body_2">和地址</string>
+    <string name="block_bluetoothconnect_start_connection_to_uuid_body_3">与标签</string>
+    <string name="block_bluetoothconnect_start_connection_to_uuid_tail"></string>
+
+    <string name="block_bluetoothconnect_stop_connection_head"></string>
+    <string name="block_bluetoothconnect_stop_connection_body_1">停止与标签的连接</string>
+    <string name="block_bluetoothconnect_stop_connection_tail"></string>
+
+    <string name="block_bluetoothconnect_send_data_head"></string>
+    <string name="block_bluetoothconnect_send_data_body_1">发送数据</string>
+    <string name="block_bluetoothconnect_send_data_body_2">与标签</string>
+    <string name="block_bluetoothconnect_send_data_tail"></string>
+
+    <string name="block_bluetoothconnect_is_bluetooth_enabled_head"></string>
+    <string name="block_bluetoothconnect_is_bluetooth_enabled_tail">启用了蓝牙</string>
+
+    <string name="block_bluetoothconnect_is_bluetooth_activated_head"></string>
+    <string name="block_bluetoothconnect_is_bluetooth_activated_tail">激活了蓝牙</string>
+
+    <string name="block_bluetoothconnect_activate_bluetooth_head"></string>
+    <string name="block_bluetoothconnect_activate_bluetooth_tail">激活蓝牙</string>
+
+    <string name="block_bluetoothconnect_get_paired_devices_head">取</string>
+    <string name="block_bluetoothconnect_get_paired_devices_body_1">配对设备到</string>
+    <string name="block_bluetoothconnect_get_paired_devices_tail"></string>
+
+    <string name="block_bluetoothconnect_get_random_uuid_head">取</string>
+    <string name="block_bluetoothconnect_get_random_uuid_tail">随机的uuid</string>
+
+    <string name="logic_editor_title_select_component_bluetooth_connect">选择蓝牙连接组件</string>
+
+    <string name="component_description_bluetooth_connect">蓝牙连接\n用于通过蓝牙连接到其他设备.</string>
+
+    <string name="included_collection_detail_title">包含的收集细节</string>
+    <string name="included_collection_detail_desc_no_collection_to_display">没有要显示的集合</string>
+    <string name="included_collection_detail_message_downloading_collection_data">下载收集数据</string>
+    <string name="included_collection_detail_message_check_included_collection">下载完毕. 请查看包含的集合</string>
+
+    <string name="shared_collection_detail_title_included_collection">包含的收藏</string>
+    <string name="shared_collection_detail_button_included_collection_show_detail">显示详细资料</string>
+    <string name="shared_collection_detail_message_warn_comment">如果您撰写的评论与此集合无关,则评论可能会被删除,您可能会被禁止使用Sketchware</string>
+    <string name="shared_collection_detail_message_no_included_collection">没有包含的收藏</string>
+
+    <string name="design_library_title_select_project">选择项目</string>
+    <string name="design_library_button_import_from_other_project">从其他项目导入</string>
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.7.0 end      ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.8.0 start    ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="event_on_map_ready">当地图准备好</string>
+    <string name="event_on_marker_clicked">当单击标记</string>
+
+    <string name="root_spec_on_map_ready_head"></string>
+    <string name="root_spec_on_map_ready_tail">地图准备好</string>
+
+    <string name="root_spec_on_marker_clicked_head"></string>
+    <string name="root_spec_on_marker_clicked_tail">单击标记</string>
+
+    <string name="block_mapview_set_map_type_head">设</string>
+    <string name="block_mapview_set_map_type_body_1">地图类型</string>
+    <string name="block_mapview_set_map_type_tail"></string>
+
+    <string name="block_mapview_move_camera_head"></string>
+    <string name="block_mapview_move_camera_body_1">移动摄像机 纬度lat</string>
+    <string name="block_mapview_move_camera_body_2">纬度lng</string>
+    <string name="block_mapview_move_camera_tail"></string>
+
+    <string name="block_mapview_zoom_to_head"></string>
+    <string name="block_mapview_zoom_to_body_1">缩放到</string>
+    <string name="block_mapview_zoom_to_tail"></string>
+
+    <string name="block_mapview_zoom_in_head"></string>
+    <string name="block_mapview_zoom_in_tail">放大</string>
+
+    <string name="block_mapview_zoom_out_head"></string>
+    <string name="block_mapview_zoom_out_tail">缩小</string>
+
+    <string name="block_mapview_add_marker_head"></string>
+    <string name="block_mapview_add_marker_body_1">添加标记ID</string>
+    <string name="block_mapview_add_marker_body_2">位置 纬度lat</string>
+    <string name="block_mapview_add_marker_body_3">纬度lng</string>
+    <string name="block_mapview_add_marker_tail"></string>
+
+    <string name="block_mapview_set_marker_info_head"></string>
+    <string name="block_mapview_set_marker_info_body_1">标记ID</string>
+    <string name="block_mapview_set_marker_info_body_2">设置标题</string>
+    <string name="block_mapview_set_marker_info_body_3">摘要</string>
+    <string name="block_mapview_set_marker_info_tail"></string>
+
+    <string name="block_mapview_set_marker_position_head"></string>
+    <string name="block_mapview_set_marker_position_body_1">标记ID</string>
+    <string name="block_mapview_set_marker_position_body_2">设位置 纬度lat</string>
+    <string name="block_mapview_set_marker_position_body_3">纬度lng</string>
+    <string name="block_mapview_set_marker_position_tail"></string>
+
+    <string name="block_mapview_set_marker_color_head"></string>
+    <string name="block_mapview_set_marker_color_body_1">标记ID</string>
+    <string name="block_mapview_set_marker_color_body_2">设颜色</string>
+    <string name="block_mapview_set_marker_color_body_3">不透明度</string>
+    <string name="block_mapview_set_marker_color_tail"></string>
+
+    <string name="block_mapview_set_marker_icon_head"></string>
+    <string name="block_mapview_set_marker_icon_body_1">标记ID</string>
+    <string name="block_mapview_set_marker_icon_body_2">设图标</string>
+    <string name="block_mapview_set_marker_icon_tail"></string>
+
+    <string name="block_mapview_set_marker_visible_head"></string>
+    <string name="block_mapview_set_marker_visible_body_1">标记ID</string>
+    <string name="block_mapview_set_marker_visible_body_2">设可见</string>
+    <string name="block_mapview_set_marker_visible_tail"></string>
+
+    <string name="design_library_google_map_title">谷歌地图</string>
+    <string name="design_library_google_map_button_open_doc">打开文档</string>
+    <string name="design_library_description_google_map">使用谷歌地图</string>
+    <string name="design_library_message_confirm_uncheck_google_map">现有的MapView将被删除.你想继续吗?</string>
+    <string name="design_library_google_map_title_api_key">API KEY</string>
+
+    <string name="logic_editor_title_mapview_map_type">选择地图类型</string>
+    <string name="logic_editor_title_mapview_marker_color">选择标记颜色</string>
+
+    <string name="language_detail_message_downlading_language_data">下载语言数据</string>
+
+    <string name="component_description_location_manager">位置管理器\n用于加载当前位置的数据</string>
+
+    <string name="event_on_location_changed">当位置已更改</string>
+
+    <string name="root_spec_on_location_changed_head">位置已更改</string>
+    <string name="root_spec_on_location_changed_tail"></string>
+
+    <string name="block_locationmanager_request_location_updates_head"></string>
+    <string name="block_locationmanager_request_location_updates_body_1">请求位置更新类型</string>
+    <string name="block_locationmanager_request_location_updates_body_2">最短的时间</string>
+    <string name="block_locationmanager_request_location_updates_body_3">最小距离</string>
+    <string name="block_locationmanager_request_location_updates_tail"></string>
+
+    <string name="block_locationmanager_remove_updates_head"></string>
+    <string name="block_locationmanager_remove_updates_tail">删除更新</string>
+
+    <string name="logic_editor_title_select_component_location_manager">选择位置管理器组件</string>
+
+    <string name="logic_editor_title_location_manager_provider_type">选择提供者类型</string>
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.8.0 end      ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.8.1 start    ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="component_add_docs_button_title_go_to_docs">移至文档</string>
+    <string name="component_add_message_docs_updated_soon">文档页面将很快更新</string>
+
+    <string name="design_library_google_maps_description_operate_normally">操作谷歌地图视图\n您必须输入API密钥才能正常操作地图.</string>
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.8.1 end    ************************************************** -->
     <!-- ************************************************************************************************************************* -->
 
 </resources>

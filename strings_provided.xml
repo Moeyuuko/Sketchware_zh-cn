@@ -3249,4 +3249,209 @@
     <!-- *************************************************  append 3.6.5 end      ************************************************ -->
     <!-- ************************************************************************************************************************* -->
 
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.7.0 start    ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="event_on_connected">onConnected</string>
+    <string name="event_on_data_received">onDataReceived</string>
+    <string name="event_on_data_sent">onDataSent</string>
+    <string name="event_on_connection_error">onConnectionError</string>
+    <string name="event_on_connection_stopped">onConnectionStopped</string>
+
+    <string name="root_spec_on_connected_head">onConnected</string>
+    <string name="root_spec_on_connected_tail"></string>
+
+    <string name="root_spec_on_data_received_head">onDataReceived</string>
+    <string name="root_spec_on_data_received_tail"></string>
+
+    <string name="root_spec_on_data_sent_head">onDataSent</string>
+    <string name="root_spec_on_data_sent_tail"></string>
+
+    <string name="root_spec_on_connection_error_head">onConnectionError</string>
+    <string name="root_spec_on_connection_error_tail"></string>
+
+    <string name="root_spec_on_connection_stopped_head">onConnectionStopped</string>
+    <string name="root_spec_on_connection_stopped_tail"></string>
+
+    <string name="block_bluetoothconnect_ready_connection_head"></string>
+    <string name="block_bluetoothconnect_ready_connection_body_1">ready connection with tag</string>
+    <string name="block_bluetoothconnect_ready_connection_tail"></string>
+
+    <string name="block_bluetoothconnect_ready_connection_to_uuid_head"></string>
+    <string name="block_bluetoothconnect_ready_connection_to_uuid_body_1">ready connection to uuid</string>
+    <string name="block_bluetoothconnect_ready_connection_to_uuid_body_2">with tag</string>
+    <string name="block_bluetoothconnect_ready_connection_to_uuid_tail"></string>
+
+    <string name="block_bluetoothconnect_start_connection_head"></string>
+    <string name="block_bluetoothconnect_start_connection_body_1">start connection to address</string>
+    <string name="block_bluetoothconnect_start_connection_body_2">with tag</string>
+    <string name="block_bluetoothconnect_start_connection_tail"></string>
+
+    <string name="block_bluetoothconnect_start_connection_to_uuid_head"></string>
+    <string name="block_bluetoothconnect_start_connection_to_uuid_body_1">start connection to uuid</string>
+    <string name="block_bluetoothconnect_start_connection_to_uuid_body_2">and address</string>
+    <string name="block_bluetoothconnect_start_connection_to_uuid_body_3">with tag</string>
+    <string name="block_bluetoothconnect_start_connection_to_uuid_tail"></string>
+
+    <string name="block_bluetoothconnect_stop_connection_head"></string>
+    <string name="block_bluetoothconnect_stop_connection_body_1">stop connection with tag</string>
+    <string name="block_bluetoothconnect_stop_connection_tail"></string>
+
+    <string name="block_bluetoothconnect_send_data_head"></string>
+    <string name="block_bluetoothconnect_send_data_body_1">send data</string>
+    <string name="block_bluetoothconnect_send_data_body_2">with tag</string>
+    <string name="block_bluetoothconnect_send_data_tail"></string>
+
+    <string name="block_bluetoothconnect_is_bluetooth_enabled_head"></string>
+    <string name="block_bluetoothconnect_is_bluetooth_enabled_tail">is bluetooth enabled</string>
+
+    <string name="block_bluetoothconnect_is_bluetooth_activated_head"></string>
+    <string name="block_bluetoothconnect_is_bluetooth_activated_tail">is bluetooth activated</string>
+
+    <string name="block_bluetoothconnect_activate_bluetooth_head"></string>
+    <string name="block_bluetoothconnect_activate_bluetooth_tail">activate bluetooth</string>
+
+    <string name="block_bluetoothconnect_get_paired_devices_head"></string>
+    <string name="block_bluetoothconnect_get_paired_devices_body_1">get paired devices to</string>
+    <string name="block_bluetoothconnect_get_paired_devices_tail"></string>
+
+    <string name="block_bluetoothconnect_get_random_uuid_head"></string>
+    <string name="block_bluetoothconnect_get_random_uuid_tail">get random uuid</string>
+
+    <string name="logic_editor_title_select_component_bluetooth_connect">Select Bluetooth Connect Component</string>
+
+    <string name="component_description_bluetooth_connect">Bluetooth Connect is used to connect to another device via Bluetooth.</string>
+
+    <string name="included_collection_detail_title">Included Collection Detail</string>
+    <string name="included_collection_detail_desc_no_collection_to_display">No Collection To Display</string>
+    <string name="included_collection_detail_message_downloading_collection_data">Downloading Collection Data</string>
+    <string name="included_collection_detail_message_check_included_collection">Download complete. Please check included collection</string>
+
+    <string name="shared_collection_detail_title_included_collection">Included Collection</string>
+    <string name="shared_collection_detail_button_included_collection_show_detail">Show Details</string>
+    <string name="shared_collection_detail_message_warn_comment">If you write a comment not related to this collection, the comment could be deleted and you could be banned from Sketchware</string>
+    <string name="shared_collection_detail_message_no_included_collection">No included collection to show</string>
+
+    <string name="design_library_title_select_project">Select Project</string>
+    <string name="design_library_button_import_from_other_project">Import from the other project</string>
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.7.0 end      ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.8.0 start    ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="event_on_map_ready">onMapReady</string>
+    <string name="event_on_marker_clicked">onMarkerClicked</string>
+
+    <string name="root_spec_on_map_ready_head">onMapReady</string>
+    <string name="root_spec_on_map_ready_tail"></string>
+
+    <string name="root_spec_on_marker_clicked_head">onMarkerClicked</string>
+    <string name="root_spec_on_marker_clicked_tail"></string>
+
+    <string name="block_mapview_set_map_type_head"></string>
+    <string name="block_mapview_set_map_type_body_1">set Map type</string>
+    <string name="block_mapview_set_map_type_tail"></string>
+
+    <string name="block_mapview_move_camera_head"></string>
+    <string name="block_mapview_move_camera_body_1">move camera lat</string>
+    <string name="block_mapview_move_camera_body_2">lng</string>
+    <string name="block_mapview_move_camera_tail"></string>
+
+    <string name="block_mapview_zoom_to_head"></string>
+    <string name="block_mapview_zoom_to_body_1">zoom to</string>
+    <string name="block_mapview_zoom_to_tail"></string>
+
+    <string name="block_mapview_zoom_in_head"></string>
+    <string name="block_mapview_zoom_in_tail">zoom in</string>
+
+    <string name="block_mapview_zoom_out_head"></string>
+    <string name="block_mapview_zoom_out_tail">zoom out</string>
+
+    <string name="block_mapview_add_marker_head"></string>
+    <string name="block_mapview_add_marker_body_1">add marker id</string>
+    <string name="block_mapview_add_marker_body_2">position lat</string>
+    <string name="block_mapview_add_marker_body_3">lng</string>
+    <string name="block_mapview_add_marker_tail"></string>
+
+    <string name="block_mapview_set_marker_info_head"></string>
+    <string name="block_mapview_set_marker_info_body_1">marker id</string>
+    <string name="block_mapview_set_marker_info_body_2">set title</string>
+    <string name="block_mapview_set_marker_info_body_3">snippet</string>
+    <string name="block_mapview_set_marker_info_tail"></string>
+
+    <string name="block_mapview_set_marker_position_head"></string>
+    <string name="block_mapview_set_marker_position_body_1">marker id</string>
+    <string name="block_mapview_set_marker_position_body_2">set position lat</string>
+    <string name="block_mapview_set_marker_position_body_3">lng</string>
+    <string name="block_mapview_set_marker_position_tail"></string>
+
+    <string name="block_mapview_set_marker_color_head"></string>
+    <string name="block_mapview_set_marker_color_body_1">marker id</string>
+    <string name="block_mapview_set_marker_color_body_2">set color</string>
+    <string name="block_mapview_set_marker_color_body_3">alpha</string>
+    <string name="block_mapview_set_marker_color_tail"></string>
+
+    <string name="block_mapview_set_marker_icon_head"></string>
+    <string name="block_mapview_set_marker_icon_body_1">marker id</string>
+    <string name="block_mapview_set_marker_icon_body_2">set icon</string>
+    <string name="block_mapview_set_marker_icon_tail"></string>
+
+    <string name="block_mapview_set_marker_visible_head"></string>
+    <string name="block_mapview_set_marker_visible_body_1">marker id</string>
+    <string name="block_mapview_set_marker_visible_body_2">set visible</string>
+    <string name="block_mapview_set_marker_visible_tail"></string>
+
+    <string name="design_library_google_map_title">GoogleMap</string>
+    <string name="design_library_google_map_button_open_doc">Open Doc</string>
+    <string name="design_library_description_google_map">Use Google Map</string>
+    <string name="design_library_message_confirm_uncheck_google_map">The existing MapView will be deleted. Would you like to continue?</string>
+    <string name="design_library_google_map_title_api_key">API KEY</string>
+
+    <string name="logic_editor_title_mapview_map_type">Select Map Type</string>
+    <string name="logic_editor_title_mapview_marker_color">Select Marker Color</string>
+
+    <string name="language_detail_message_downlading_language_data">Downloading Language Data</string>
+
+    <string name="component_description_location_manager">LocationManager is used to load a data of the current location</string>
+
+    <string name="event_on_location_changed">onLocationChanged</string>
+
+    <string name="root_spec_on_location_changed_head">onLocationChanged</string>
+    <string name="root_spec_on_location_changed_tail"></string>
+
+    <string name="block_locationmanager_request_location_updates_head"></string>
+    <string name="block_locationmanager_request_location_updates_body_1">request location updates type</string>
+    <string name="block_locationmanager_request_location_updates_body_2">min time</string>
+    <string name="block_locationmanager_request_location_updates_body_3">min distance</string>
+    <string name="block_locationmanager_request_location_updates_tail"></string>
+
+    <string name="block_locationmanager_remove_updates_head"></string>
+    <string name="block_locationmanager_remove_updates_tail">remove updates</string>
+
+    <string name="logic_editor_title_select_component_location_manager">Select Location Manager Component</string>
+
+    <string name="logic_editor_title_location_manager_provider_type">Select Provider Type</string>
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.8.0 end      ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.8.1 start    ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="component_add_docs_button_title_go_to_docs">Move To Docs</string>
+    <string name="component_add_message_docs_updated_soon">The docs page will be updated soon</string>
+
+    <string name="design_library_google_maps_description_operate_normally">Google Map View can be operated.\nYou must enter the API key to operate the map normally.</string>
+
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.8.1 end    ************************************************** -->
+    <!-- ************************************************************************************************************************* -->
+
 </resources>
