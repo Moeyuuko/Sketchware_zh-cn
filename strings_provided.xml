@@ -3454,4 +3454,116 @@
     <!-- *************************************************  append 3.8.1 end    ************************************************** -->
     <!-- ************************************************************************************************************************* -->
 
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.9.0 start    ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="shared_collection_detail_description_recommend_collection">Recommended By Sketchware</string>
+
+    <string name="shared_collection_title_tag_trend">Collection Tag Trend!</string>
+
+    <string name="shared_collection_message_tag_trend_no_data">We\'re preparing tag trend data :)</string>
+
+    <string name="shared_collection_bookmark_list_title_shared_views">Shared Views Bookmark</string>
+    <string name="shared_collection_bookmark_list_title_shared_blocks">Shared Blocks Bookmark</string>
+    <string name="shared_collection_bookmark_list_title_shared_more_blocks">Shared More Blocks Bookmark</string>
+    <string name="shared_collection_bookmark_list_message_no_data">No collection data added to your bookmark. :(</string>
+
+    <string name="shared_collection_detail_message_add_bookmark">Bookmark Added</string>
+    <string name="shared_collection_detail_message_bookmark_exist">Already Bookmark Added</string>
+    <string name="shared_collection_detail_message_add_bookmark_failed">Bookmark Add Failed. Please Try Again Later</string>
+    <string name="shared_collection_detail_message_delete_bookmark">Bookmark Deleted</string>
+    <string name="shared_collection_detail_message_bookmark_not_exist">Bookmark Is Not Exist</string>
+    <string name="shared_collection_detail_message_delete_bookmark_failed">Bookmark Delete Failed. Please Try Again Later</string>
+
+    <string name="shared_views_list_message_no_data">No view data to display. :(</string>
+    <string name="shared_blocks_list_message_no_data">No block data to display. :(</string>
+    <string name="shared_more_blocks_list_message_no_data">No more block data to display. :(</string>
+
+    <string name="share_collection_inform_title_tag">Tag</string>
+    <string name="share_collection_inform_title_related_tag">Related Tag</string>
+    <string name="share_collection_inform_message_input_tag">Text tag about this collection to add</string>
+    <string name="share_collection_inform_message_no_input_tag">No tag to add</string>
+    <string name="share_collection_inform_message_limit_tag_count">Exceeded the number of tags that can be added</string>
+    <string name="share_collection_inform_message_tag_middle_sharp"># can\'t be in the middle of tag</string>
+    <string name="share_collection_inform_message_tag_added_already">Already added tag</string>
+
+    <string name="search_recent_title">Contents Search</string>
+    <string name="search_recent_message_no_data">No recent keyword to show</string>
+    <string name="search_recent_recent_keyword">Recent Keyword</string>
+    <string name="search_recent_button_delete_all_recent_keyword">Delete All</string>
+    <string name="search_recent_message_no_keyword_to_delete">No recent keyword to delete</string>
+    <string name="search_recent_message_delete_keyword_dialog_delete_one">Do you want to delete this keyword?</string>
+    <string name="search_recent_message_delete_keyword_dialog_delete_all">Do you want to delete all keywords?</string>
+    <string name="search_recent_title_delete_keyword_dialog">Delete Keyword</string>
+
+    <string name="search_result_title">Search Result of %s</string>
+    <string name="search_result_message_no_data">No search result to show. :(</string>
+
+    <string name="myprojects_export_project_actionbar_title">Export Project</string>
+    <string name="myprojects_export_project_message_failed_to_export">Failed To Export.</string>
+    <string name="myprojects_export_project_message_exceed_limit">Exceeded the number of urls that can be created. You can manage urls in Manage Exported URLs menu.</string>
+    <string name="myprojects_export_project_message_complete_export">The url is created. You can manage the url in Manage Exported URLs menu.</string>
+
+    <string name="myprojects_export_project_word_remain_days">Days Remaining</string>
+    <string name="myprojects_export_project_word_valid_dt">Expiration Date</string>
+
+    <string name="myprojects_export_project_title_sign_apk">Sign APK</string>
+    <string name="myprojects_export_project_title_export_data">Source Data for Sketchware</string>
+    <string name="myprojects_export_project_title_export_src">Source Code for Android Studio</string>
+
+    <string name="myprojects_export_project_title_local_path">Local Path</string>
+    <string name="myprojects_export_project_title_download_url">Download URL</string>
+
+    <string name="myprojects_export_project_button_sign_apk">Sign APK</string>
+    <string name="myprojects_export_project_button_generate_url">Create Download URL</string>
+    <string name="myprojects_export_project_button_export_src">Export Source Code</string>
+    <string name="myprojects_export_project_button_send_src_zip">Send Source Code Zip File</string>
+
+    <string name="myprojects_export_src_title_email_subject">%s , Source Code for Android Studio</string>
+    <string name="myprojects_export_src_title_email_body">attached file : %s </string>
+    <string name="myprojects_export_src_chooser_title_email">Choose email</string>
+
+    <string name="myprojects_import_project_actionbar_title">Import Project</string>
+
+    <string name="main_drawer_title_export_urls">Export URLs</string>
+
+    <string name="manage_export_url_actionbar_title">Manage Exported URLs</string>
+    <string name="manage_export_url_tab_title_apk">Signed APK</string>
+    <string name="manage_export_url_tab_title_data">Exported Data</string>
+
+    <string name="manage_export_url_message_no_url">The exported url is not existed.</string>
+
+    <string name="manage_export_url_popup_title_extend_expire">Expand URL Expiration Date</string>
+    <string name="manage_export_url_popup_desc_extend_expire">The expiration date of URL will be expanded to %s days. Do you want to continue?</string>
+
+    <string name="manage_export_url_popup_title_delete_url">Delete URL</string>
+    <string name="manage_export_url_popup_desc_delete_url">The url will be deleted and the url can\'t be restored. Do you want to continue?</string>
+
+    <string name="manage_export_url_word_extend">Expand</string>
+
+    <string name="manage_export_url_message_complete_extend">Expand Expiration Date Success.</string>
+    <string name="manage_export_url_message_fail_extend">Expand Expiration Date Failed.</string>
+
+    <string name="manage_export_url_list_menu_extend">Expand Expiration Date</string>
+
+    <string name="manage_export_url_list_reg_dt">Register Date</string>
+    <string name="manage_export_url_list_package_name">Package Name</string>
+    <string name="manage_export_url_list_app_name">App Name</string>
+    <string name="manage_export_url_list_expire_dt_left">Expiration Date : %s days left</string>
+    <string name="manage_export_url_list_expire_dt_expired">Expired</string>
+
+    <string name="import_project_title_user_name">Author</string>
+    <string name="import_project_title_app_name">App Name</string>
+    <string name="import_project_title_package_name">Package Name</string>
+    <string name="import_project_title_expire_dt">Expiration Date</string>
+    <string name="import_project_error_invalid_id">The ID is invalid.</string>
+    <string name="import_project_desc_download_complete">Download for %s completed.</string>
+    <string name="import_project_desc_download_complete_is_not_root">Download for %s completed. Refresh Project list in the project tab and check the downloaded project.</string>
+
+    <string name="myprojects_list_menu_title_sign_export">Sign/Export</string>
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.9.0 end    ************************************************** -->
+    <!-- ************************************************************************************************************************* -->
+
 </resources>
