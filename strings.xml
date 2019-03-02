@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.8.1.1" locale="zh"?><resources>
-<!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关-->
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.9.2.0" locale="zh"?><resources>
+<!--by：MOEYUUKO  https://www.moeyuuko.top github: https://github.com/MOEYUUKO/Sketchware_zh-cn  个人翻译 不与任何组织相关 请遵循MIT License: https://choosealicense.com/licenses/mit/# -->
     <!-- *************************************************        Common  Start    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
     <string name="common_word_all">全部</string>
@@ -3454,5 +3454,117 @@
     <!-- *************************************************  append 3.8.1 end    ************************************************** -->
     <!-- ************************************************************************************************************************* -->
 
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.9.0 start    ************************************************ -->
+    <!-- ************************************************************************************************************************* -->
+
+    <string name="shared_collection_detail_description_recommend_collection">由Sketchware推荐</string>
+
+    <string name="shared_collection_title_tag_trend">热门标签！</string>
+
+    <string name="shared_collection_message_tag_trend_no_data">我们正在准备标签趋势数据:)</string>
+
+    <string name="shared_collection_bookmark_list_title_shared_views">共享视图书签</string>
+    <string name="shared_collection_bookmark_list_title_shared_blocks">共享块书签</string>
+    <string name="shared_collection_bookmark_list_title_shared_more_blocks">共享更多块书签</string>
+    <string name="shared_collection_bookmark_list_message_no_data">没有收集数据添加到您的书签 :(</string>
+
+    <string name="shared_collection_detail_message_add_bookmark">已添加书签</string>
+    <string name="shared_collection_detail_message_bookmark_exist">已添加书签</string>
+    <string name="shared_collection_detail_message_add_bookmark_failed">书签添加失败. 请稍后再试</string>
+    <string name="shared_collection_detail_message_delete_bookmark">已删除书签</string>
+    <string name="shared_collection_detail_message_bookmark_not_exist">书签不存在</string>
+    <string name="shared_collection_detail_message_delete_bookmark_failed">书签删除失败. 请稍后再试</string>
+
+    <string name="shared_views_list_message_no_data">没有视图数据 :(</string>
+    <string name="shared_blocks_list_message_no_data">没有块数据 :(</string>
+    <string name="shared_more_blocks_list_message_no_data">没有块数据 :(</string>
+
+    <string name="share_collection_inform_title_tag">标签</string>
+    <string name="share_collection_inform_title_related_tag">相关标签</string>
+    <string name="share_collection_inform_message_input_tag">有关要添加的此集合的文本标签</string>
+    <string name="share_collection_inform_message_no_input_tag">没有要添加的标签</string>
+    <string name="share_collection_inform_message_limit_tag_count">超过可添加的标签数量</string>
+    <string name="share_collection_inform_message_tag_middle_sharp"># 不能在标签的中间</string>
+    <string name="share_collection_inform_message_tag_added_already">已添加标签</string>
+
+    <string name="search_recent_title">目录搜索</string>
+    <string name="search_recent_message_no_data">没有最近显示的关键字</string>
+    <string name="search_recent_recent_keyword">最近的关键字</string>
+    <string name="search_recent_button_delete_all_recent_keyword">删除所有</string>
+    <string name="search_recent_message_no_keyword_to_delete">没有最近删除的关键字</string>
+    <string name="search_recent_message_delete_keyword_dialog_delete_one">要删除此关键字吗？</string>
+    <string name="search_recent_message_delete_keyword_dialog_delete_all">要删除所有关键字吗？</string>
+    <string name="search_recent_title_delete_keyword_dialog">Delete Keyword</string>
+
+    <string name="search_result_title">搜索结果 %s</string>
+    <string name="search_result_message_no_data">没有搜索结果显示 :(</string>
+
+    <string name="myprojects_export_project_actionbar_title">出口项目</string>
+    <string name="myprojects_export_project_message_failed_to_export">导出失败</string>
+    <string name="myprojects_export_project_message_exceed_limit">超过了可以创建的网址数量. 您可以在“管理导出的URL”菜单中管理网址.</string>
+    <string name="myprojects_export_project_message_complete_export">网址已创建. 您可以在"管理导出的URL"菜单中管理网址.</string>
+
+    <string name="myprojects_export_project_word_remain_days">剩余天数</string>
+    <string name="myprojects_export_project_word_valid_dt">截止日期</string>
+
+    <string name="myprojects_export_project_title_sign_apk">签名APK</string>
+    <string name="myprojects_export_project_title_export_data">Sketchware的源数据</string>
+    <string name="myprojects_export_project_title_export_src">Android Studio的源代码</string>
+
+    <string name="myprojects_export_project_title_local_path">本地路径</string>
+    <string name="myprojects_export_project_title_download_url">下载网址</string>
+
+    <string name="myprojects_export_project_button_sign_apk">签名APK</string>
+    <string name="myprojects_export_project_button_generate_url">创建下载URL</string>
+    <string name="myprojects_export_project_button_export_src">导出源代码</string>
+    <string name="myprojects_export_project_button_send_src_zip">发送源代码Zip文件</string>
+
+    <string name="myprojects_export_src_title_email_subject">%s , Android Studio的源代码</string>
+    <string name="myprojects_export_src_title_email_body">附件 : %s </string>
+    <string name="myprojects_export_src_chooser_title_email">选择邮箱</string>
+
+    <string name="myprojects_import_project_actionbar_title">导入项目</string>
+
+    <string name="main_drawer_title_export_urls">导出为URL</string>
+
+    <string name="manage_export_url_actionbar_title">管理导出的URL</string>
+    <string name="manage_export_url_tab_title_apk">签名APK</string>
+    <string name="manage_export_url_tab_title_data">导出数据</string>
+
+    <string name="manage_export_url_message_no_url">导出的网址不存在</string>
+
+    <string name="manage_export_url_popup_title_extend_expire">展开URL到期日期</string>
+    <string name="manage_export_url_popup_desc_extend_expire">URL的到期日期将扩展为 %s 天. 你想继续吗?</string>
+
+    <string name="manage_export_url_popup_title_delete_url">删除网址</string>
+    <string name="manage_export_url_popup_desc_delete_url">该网址将被删除,网址无法恢复. 你想继续吗？</string>
+
+    <string name="manage_export_url_word_extend">延长</string>
+
+    <string name="manage_export_url_message_complete_extend">延长到期日期成功</string>
+    <string name="manage_export_url_message_fail_extend">延长失效日期失败</string>
+
+    <string name="manage_export_url_list_menu_extend">延长到期日期</string>
+
+    <string name="manage_export_url_list_reg_dt">注册日期</string>
+    <string name="manage_export_url_list_package_name">包名</string>
+    <string name="manage_export_url_list_app_name">应用程序名</string>
+    <string name="manage_export_url_list_expire_dt_left">截止日期 : 还剩%s天</string>
+    <string name="manage_export_url_list_expire_dt_expired">过期</string>
+
+    <string name="import_project_title_user_name">作者</string>
+    <string name="import_project_title_app_name">应用程序名</string>
+    <string name="import_project_title_package_name">包名</string>
+    <string name="import_project_title_expire_dt">截止日期</string>
+    <string name="import_project_error_invalid_id">该ID无效</string>
+    <string name="import_project_desc_download_complete">下载 %s 完成.</string>
+    <string name="import_project_desc_download_complete_is_not_root">下载 %s 完成.在项目选项卡中刷新项目列表，然后查看下载的项目.</string>
+
+    <string name="myprojects_list_menu_title_sign_export">登录/导出</string>
+    <!-- ************************************************************************************************************************* -->
+    <!-- *************************************************  append 3.9.0 end    ************************************************** -->
+    <!-- ************************************************************************************************************************* -->
+
 </resources>
-<!--汉化人员：MOEYUUKO   网站:www.moeyuuko.top   github: https://github.com/MOEYUUKO/Sketchware_zh-cn 禁止使用我分享的翻译文件进行二次发布 个人翻译 不与任何组织相关-->
+<!--by：MOEYUUKO  https://www.moeyuuko.top github: https://github.com/MOEYUUKO/Sketchware_zh-cn  个人翻译 不与任何组织相关 请遵循MIT License: https://choosealicense.com/licenses/mit/# -->
