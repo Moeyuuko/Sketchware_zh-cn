@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.9.2.0" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.9.2.1" locale="zh"?><resources>
 <!--by：MOEYUUKO  https://www.moeyuuko.top github: https://github.com/MOEYUUKO/Sketchware_zh-cn  个人翻译 不与任何组织相关 请遵循MIT License: https://choosealicense.com/licenses/mit/# -->
     <!-- *************************************************        Common  Start    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
@@ -1230,8 +1230,8 @@
     <string name="property_spinner_mode">微调模式</string>
     <string name="property_scale_type">比例类型</string>
     <string name="property_resource">资源</string>
-    <string name="property_gravity">权重</string>
-    <string name="property_layout_gravity">权重位置</string>
+    <string name="property_gravity">内部权重</string>
+    <string name="property_layout_gravity">整体权重</string>
     <string name="property_single_line">单行</string>
     <string name="property_lines">行数</string>
     <string name="property_enabled">启用</string>
@@ -1243,8 +1243,8 @@
     <string name="property_background_resource">背景资源</string>
     <string name="property_text">文本</string>
     <string name="property_hint">提示</string>
-    <string name="property_weight">优先级</string>
-    <string name="property_weight_sum">优先级总和</string>
+    <string name="property_weight">占位比例</string>
+    <string name="property_weight_sum">总可用比例</string>
     <string name="property_id">组件名</string>
     <string name="property_rotate">旋转</string>
     <string name="property_padding">填充</string>
@@ -1541,8 +1541,8 @@
     <string name="block_contain_list_map_tail"></string>
 
 
-    <string name="block_delete_list_head">删除delete at</string>
-    <string name="block_delete_list_body_1">在</string>
+    <string name="block_delete_list_head">删除在</string>
+    <string name="block_delete_list_body_1">的</string>
     <string name="block_delete_list_tail"></string>
 
     <string name="block_length_list_head">长度</string>
@@ -1867,55 +1867,55 @@
     <string name="block_set_track_resource_body_1">跟踪资源</string>
     <string name="block_set_track_resource_tail"></string>
 
-    <string name="block_list_set_data_head">列表</string>
-    <string name="block_list_set_data_body_1">设列表视图数据</string>
+    <string name="block_list_set_data_head">设</string>
+    <string name="block_list_set_data_body_1">列表视图数据</string>
     <string name="block_list_set_data_tail"></string>
 
-    <string name="block_list_set_custom_view_data_head">列表</string>
-    <string name="block_list_set_custom_view_data_body_1">设列表自定义数据</string>
+    <string name="block_list_set_custom_view_data_head">设</string>
+    <string name="block_list_set_custom_view_data_body_1">列表自定义数据</string>
     <string name="block_list_set_custom_view_data_tail"></string>
 
-    <string name="block_spn_set_data_head">下拉框</string>
-    <string name="block_spn_set_data_body_1">设微调数据</string>
+    <string name="block_spn_set_data_head">设</string>
+    <string name="block_spn_set_data_body_1">选择器数据</string>
     <string name="block_spn_set_data_tail"></string>
 
-    <string name="block_spn_set_selection_head">下拉框</string>
-    <string name="block_spn_set_selection_body_1">设选择</string>
+    <string name="block_spn_set_selection_head">设</string>
+    <string name="block_spn_set_selection_body_1">选择项</string>
     <string name="block_spn_set_selection_tail"></string>
 
-    <string name="block_spn_get_selection_head">下拉框</string>
-    <string name="block_spn_get_selection_tail">取选择</string>
+    <string name="block_spn_get_selection_head">取</string>
+    <string name="block_spn_get_selection_tail">选择项</string>
 
-    <string name="block_seekbar_set_progress_head">拖动条</string>
-    <string name="block_seekbar_set_progress_body_1">设进度</string>
+    <string name="block_seekbar_set_progress_head">设</string>
+    <string name="block_seekbar_set_progress_body_1">进度</string>
     <string name="block_seekbar_set_progress_tail"></string>
 
-    <string name="block_seekbar_get_progress_head">拖动条</string>
-    <string name="block_seekbar_get_progress_tail">取进度</string>
+    <string name="block_seekbar_get_progress_head">取</string>
+    <string name="block_seekbar_get_progress_tail">进度</string>
 
-    <string name="block_seekbar_set_max_head">拖动条</string>
-    <string name="block_seekbar_set_max_body_1">设最大值</string>
+    <string name="block_seekbar_set_max_head">设</string>
+    <string name="block_seekbar_set_max_body_1">最大值</string>
     <string name="block_seekbar_set_max_tail"></string>
 
-    <string name="block_seekbar_get_max_head">拖动条</string>
-    <string name="block_seekbar_get_max_tail">取最大值</string>
+    <string name="block_seekbar_get_max_head">取</string>
+    <string name="block_seekbar_get_max_tail">最大值</string>
 
-    <string name="block_list_refresh_head">列表</string>
-    <string name="block_list_refresh_tail">重载新数据</string>
+    <string name="block_list_refresh_head">重载</string>
+    <string name="block_list_refresh_tail">的数据</string>
 
 
-    <string name="block_spn_refresh_head">下拉框</string>
-    <string name="block_spn_refresh_tail">重载新数据</string>
+    <string name="block_spn_refresh_head">重载</string>
+    <string name="block_spn_refresh_tail">的数据</string>
 
     <string name="block_webview_load_url_head"></string>
     <string name="block_webview_load_url_body_1">加载Url</string>
     <string name="block_webview_load_url_tail"></string>
 
-    <string name="block_webview_get_url_head"></string>
-    <string name="block_webview_get_url_tail">取Url</string>
+    <string name="block_webview_get_url_head">取</string>
+    <string name="block_webview_get_url_tail">网址</string>
 
-    <string name="block_webview_set_cache_mode_head"></string>
-    <string name="block_webview_set_cache_mode_body_1">设缓存模式</string>
+    <string name="block_webview_set_cache_mode_head">设</string>
+    <string name="block_webview_set_cache_mode_body_1">缓存模式</string>
     <string name="block_webview_set_cache_mode_tail"></string>
 
     <string name="block_webview_can_go_back_head"></string>
@@ -1950,7 +1950,7 @@
     <string name="block_intent_set_action_tail"></string>
 
     <string name="block_intent_set_data_head"></string>
-    <string name="block_intent_set_data_body_1">设Data</string>
+    <string name="block_intent_set_data_body_1">设数据</string>
     <string name="block_intent_set_data_tail"></string>
 
     <string name="block_intent_set_screen_head"></string>
@@ -2156,18 +2156,18 @@
     <string name="block_set_title_tail"></string>
 
 
-    <string name="block_calendarview_get_date_head">日历视图</string>
+    <string name="block_calendarview_get_date_head"></string>
     <string name="block_calendarview_get_date_tail">取日期(ms)</string>
 
-    <string name="block_calendarview_set_date_head">日历视图</string>
+    <string name="block_calendarview_set_date_head"></string>
     <string name="block_calendarview_set_date_body_1">设日期</string>
     <string name="block_calendarview_set_date_tail">ms</string>
 
-    <string name="block_calendarview_set_min_date_head">日历视图</string>
+    <string name="block_calendarview_set_min_date_head"></string>
     <string name="block_calendarview_set_min_date_body_1">设最小日期</string>
     <string name="block_calendarview_set_min_date_tail">ms</string>
 
-    <string name="block_calendarview_set_max_date_head">日历视图</string>
+    <string name="block_calendarview_set_max_date_head"></string>
     <string name="block_calendarview_set_max_date_body_1">设最小日期</string>
     <string name="block_calendarview_set_max_date_tail">ms</string>
 
@@ -3330,7 +3330,7 @@
 
     <string name="shared_collection_detail_title_included_collection">包含的收藏</string>
     <string name="shared_collection_detail_button_included_collection_show_detail">显示详细资料</string>
-    <string name="shared_collection_detail_message_warn_comment">如果您撰写的评论与此集合无关,则评论可能会被删除,您可能会被禁止使用Sketchware</string>
+    <string name="shared_collection_detail_message_warn_comment">如果您撰写的评论与此集合无关,则评论可能会被删除,您还可能会被禁止使用Sketchware</string>
     <string name="shared_collection_detail_message_no_included_collection">没有包含的收藏</string>
 
     <string name="design_library_title_select_project">选择项目</string>
