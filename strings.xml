@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.9.2.2" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.9.2.3" locale="zh"?><resources>
 <!--by：MOEYUUKO  https://www.moeyuuko.top github: https://github.com/MOEYUUKO/Sketchware_zh-cn  个人翻译 不与任何组织相关 请遵循MIT License: https://choosealicense.com/licenses/mit/# -->
     <!-- *************************************************        Common  Start    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
@@ -545,7 +545,7 @@
     <string name="event_dialog_confirm_delete_logic">所选事件的所有逻辑数据都将丢失\n你想继续吗？</string>
 
     <string name="event_initialize">当活动创建</string>
-    <string name="event_definefunc">更多的块-MoreBlock</string>
+    <string name="event_definefunc">更多的块</string>
     <string name="event_onbackpressed">当后退按钮按下</string>
     <string name="event_onpostcreated">当活动开启完成</string>
     <string name="event_onstart">当活动可见</string>
@@ -569,9 +569,9 @@
     <string name="event_onitemlongclicked">当长按项目</string>
     <string name="event_onbindcustomview">当绑定自定义视图</string>
 
-    <string name="event_onchildadded">当Child添加</string>
-    <string name="event_onchildchanged">当Child改变</string>
-    <string name="event_onchildremoved">当Child离开</string>
+    <string name="event_onchildadded">当子类添加</string>
+    <string name="event_onchildchanged">当子类改变</string>
+    <string name="event_onchildremoved">当子类离开</string>
     <string name="event_oncancelled">当取消</string>
     <string name="event_onsensorchanged">当传感器改变</string>
     <string name="event_oncreateusercomplete">当用户创建完成</string>
@@ -2192,7 +2192,7 @@
     <string name="block_firebase_delete_tail"></string>
 
     <string name="block_firebase_get_children_head">取</string>
-    <string name="block_firebase_get_children_body_1">children到</string>
+    <string name="block_firebase_get_children_body_1">子类到</string>
     <string name="block_firebase_get_children_tail">然后</string>
 
 
@@ -2240,7 +2240,7 @@
     <string name="block_firebaseauth_signout_tail">登出</string>
 
     <string name="block_firebase_get_key_head">Firebase</string>
-    <string name="block_firebase_get_key_tail">推-push 取key-getKey</string>
+    <string name="block_firebase_get_key_tail">推送钥匙</string>
 
     <string name="block_list_smooth_scrollto_head"></string>
     <string name="block_list_smooth_scrollto_body_1">平滑滚动到位置</string>
@@ -3495,7 +3495,7 @@
     <string name="search_recent_message_no_keyword_to_delete">没有最近删除的关键字</string>
     <string name="search_recent_message_delete_keyword_dialog_delete_one">要删除此关键字吗？</string>
     <string name="search_recent_message_delete_keyword_dialog_delete_all">要删除所有关键字吗？</string>
-    <string name="search_recent_title_delete_keyword_dialog">Delete Keyword</string>
+    <string name="search_recent_title_delete_keyword_dialog">删除关键字</string>
 
     <string name="search_result_title">搜索结果 %s</string>
     <string name="search_result_message_no_data">没有搜索结果显示 :(</string>
