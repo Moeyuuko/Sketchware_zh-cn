@@ -1,5 +1,4 @@
-
-.stignore
+.*
 *.bak
 .stversions/*
 tmp/*
