@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.9.2.3" locale="zh"?><resources>
+<?xml version="1.0" encoding="UTF-8"?><?sketchware version="3.10.0.1" locale="zh"?><resources>
 <!--by：MOEYUUKO  https://www.moeyuuko.top github: https://github.com/MOEYUUKO/Sketchware_zh-cn  个人翻译 不与任何组织相关 请遵循MIT License: https://choosealicense.com/licenses/mit/# -->
     <!-- *************************************************        Common  Start    *********************************************** -->
     <!-- ************************************************************************************************************************* -->
@@ -2013,13 +2013,13 @@
     <string name="block_vibrator_action_body_1">震动</string>
     <string name="block_vibrator_action_tail">ms</string>
 
-    <string name="block_timer_after_head"></string>
-    <string name="block_timer_after_body_1">然后</string>
-    <string name="block_timer_after_tail">ms</string>
+    <string name="block_timer_after_head">定时器</string>
+    <string name="block_timer_after_body_1">在</string>
+    <string name="block_timer_after_tail">ms后</string>
 
     <string name="block_timer_every_head">定时器</string>
-    <string name="block_timer_every_body_1">然后</string>
-    <string name="block_timer_every_body_2">ms for 每一个</string>
+    <string name="block_timer_every_body_1">在</string>
+    <string name="block_timer_every_body_2">ms后 每</string>
     <string name="block_timer_every_tail">ms</string>
 
     <string name="block_timer_cancel_head">定时器</string>
